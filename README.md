@@ -1,10 +1,8 @@
 # Transformer Selectional Preferences for Predictions
-Code written by [janniss91](https://github.com/janniss91/).
+By [janniss91](https://github.com/janniss91/)
 
 
-The objective of this project is to investigate whether Transformer models have selectional preferences when making predictions.  
-Traditional parsers make use of information about the associative strength between two words.  
-E.g. there is a strong association between the words `eat` and `spaghetti` if `spaghetti` is an object. However, there is a weak association if it is a subject.
+The objective of this project is to investigate whether Transformer models make use of selectional preferences when making predictions. E.g. there is a strong association between the words `eat` and `spaghetti` if `spaghetti` is an object. However, there is a weak association if it is a subject.
 
 The question is whether Transformers make use of the same kind of information for their predictions.
 
