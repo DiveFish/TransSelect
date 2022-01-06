@@ -1,0 +1,6 @@
+model	total	correct	accuracy	rank 1	rank 2	rank 3	rank 4	rank 5
+xlm-roberta-base	270	13	4.815	5	2	3	1	2
+xlm-roberta-large	270	35	12.963	25	4	4	0	2
+wietsedv/bert-base-dutch-cased	270	46	17.037	32	7	4	2	1
+bert-base-multilingual-uncased	270	6	2.222	0	0	1	1	4
+bert-base-multilingual-cased	270	4	1.481	0	0	1	1	2

@@ -1,0 +1,320 @@
+VF[S]LK[V]MF[O]	base-idm	2	5	Die Wissenschaft heiligt die Mittel .
+VF[O]LK[V]MF[S]	base-idm	5	2	Die Mittel heiligt die Wissenschaft .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Deshalb heiligt die Wissenschaft die Mittel .
+LK[V]MF[SO]	base-idm	3	5	Heiligt die Wissenschaft die Mittel ?
+MF[SO]VC[V]	base-idm	3	5	Weil die Wissenschaft die Mittel heiligt .
+VF[S]LK[V]MF[O]	base-idm	2	5	Der Zweck heiligt die Mittel .
+VF[O]LK[V]MF[S]	base-idm	5	2	Die Mittel heiligt der Zweck .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Deshalb heiligt der Zweck die Mittel .
+LK[V]MF[SO]	base-idm	3	5	Heiligt der Zweck die Mittel ?
+MF[SO]VC[V]	base-idm	3	5	Weil der Zweck die Mittel heiligt .
+VF[S]LK[V]MF[O]	base-idm	2	5	Jedes Böhnchen gibt ein Tönchen .
+VF[O]LK[V]MF[S]	base-idm	5	2	Ein Tönchen gibt jedes Böhnchen .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Deshalb gibt jedes Böhnchen ein Tönchen .
+LK[V]MF[SO]	base-idm	3	5	Gibt jedes Böhnchen ein Tönchen ?
+MF[SO]VC[V]	base-idm	3	5	Weil jedes Böhnchen ein Tönchen gibt .
+VF[S]LK[V]MF[O]	base-idm	2	5	Jede Münze hat zwei Seiten .
+VF[O]LK[V]MF[S]	base-idm	5	2	Zwei Seiten hat jede Münze .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Deshalb hat jede Münze zwei Seiten .
+LK[V]MF[SO]	base-idm	3	5	Hat jede Münze zwei Seiten ?
+MF[SO]VC[V]	base-idm	3	5	Weil jede Münze zwei Seiten hat .
+VF[S]LK[V]MF[O]	base-idm	2	5	Die Hunde beißen den letzten .
+VF[O]LK[V]MF[S]	base-idm	5	2	Den letzten beißen die Hunde .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Deshalb beißen die Hunde den letzten .
+LK[V]MF[SO]	base-idm	3	5	Beißen die Hunde den letzten ?
+MF[SO]VC[V]	base-idm	3	5	Weil die Hunde den letzten beißen .
+VF[S]LK[V]MF[O]	base-idm	2	5	Der Ton macht die Musik .
+VF[O]LK[V]MF[S]	base-idm	5	2	Die Musik macht der Ton .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Deshalb macht der Ton die Musik .
+LK[V]MF[SO]	base-idm	3	5	Macht der Ton die Musik ?
+MF[SO]VC[V]	base-idm	3	5	Weil der Ton die Musik macht .
+VF[S]LK[V]MF[O]	base-idm	2	5	Die Zeit heilt alle Wunden .
+VF[O]LK[V]MF[S]	base-idm	5	2	Alle Wunden heilt die Zeit .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Deshalb heilt die Zeit alle Wunden .
+LK[V]MF[SO]	base-idm	3	5	Heilt die Zeit alle Wunden ?
+MF[SO]VC[V]	base-idm	3	5	Weil die Zeit alle Wunden heilt .
+VF[S]LK[V]MF[O]	base-idm	1	4	Alles hat seine Zeit .
+VF[O]LK[V]MF[S]	base-idm	4	2	Seine Zeit hat alles .
+VF[ADV]LK[V]MF[SO]	base-idm	3	5	Deshalb hat alles seine Zeit .
+LK[V]MF[SO]	base-idm	2	4	Hat alles seine Zeit ?
+MF[SO]VC[V]	base-idm	2	4	Weil alles seine Zeit hat .
+VF[S]LK[V]MF[O]	base-idm	1	3	Arbeit bringt Brot .
+VF[O]LK[V]MF[S]	base-idm	3	1	Brot bringt Arbeit .
+VF[ADV]LK[V]MF[SO]	base-idm	3	4	Deshalb bringt Arbeit Brot .
+LK[V]MF[SO]	base-idm	2	3	Bringt Arbeit Brot ?
+MF[SO]VC[V]	base-idm	2	3	Weil Arbeit Brot bringt .
+VF[S]LK[V]MF[O]	base-idm	2	5	Eine Hand wäscht die andere .
+VF[O]LK[V]MF[S]	base-idm	5	2	Die andere wäscht eine Hand .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Deshalb wäscht eine Hand die andere .
+LK[V]MF[SO]	base-idm	3	5	Wäscht eine Hand die andere ?
+MF[SO]VC[V]	base-idm	3	5	Weil eine Hand die andere wäscht .
+VF[S]LK[V]MF[O]	base-idm	2	5	Frühe Zucht bringt gute Frucht .
+VF[O]LK[V]MF[S]	base-idm	5	2	Gute Frucht bringt frühe Zucht .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Deshalb bringt frühe Zucht gute Frucht .
+LK[V]MF[SO]	base-idm	3	5	Bringt frühe Zucht gute Frucht ?
+MF[SO]VC[V]	base-idm	3	5	Weil frühe Zucht gute Frucht bringt .
+VF[S]LK[V]MF[O]	base-idm	1	4	Geld regiert die Welt .
+VF[O]LK[V]MF[S]	base-idm	4	2	Die Welt regiert Geld .
+VF[ADV]LK[V]MF[SO]	base-idm	3	5	Deshalb regiert Geld die Welt .
+LK[V]MF[SO]	base-idm	2	4	Regiert Geld die Welt ?
+MF[SO]VC[V]	base-idm	2	4	Weil Geld die Welt regiert .
+VF[S]LK[V]MF[O]	base-idm	1	3	Borgen bringt Sorgen .
+VF[O]LK[V]MF[S]	base-idm	3	1	Sorgen bringt Borgen .
+VF[ADV]LK[V]MF[SO]	base-idm	3	4	Deshalb bringt Borgen Sorgen .
+LK[V]MF[SO]	base-idm	2	3	Bringt Borgen Sorgen ?
+MF[SO]VC[V]	base-idm	2	3	Weil Borgen Sorgen bringt .
+VF[S]LK[V]MF[O]	base-idm	2	5	Das Schicksal bestimmt dein Leben .
+VF[O]LK[V]MF[S]	base-idm	5	2	Dein Leben bestimmt das Schicksal .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Deshalb bestimmt das Schicksal dein Leben .
+LK[V]MF[SO]	base-idm	3	5	Bestimmt das Schicksal dein Leben ?
+MF[SO]VC[V]	base-idm	3	5	Weil das Schicksal dein Leben bestimmt .
+VF[S]LK[V]MF[O]	base-idm	1	4	Jugend kennt keine Tugend .
+VF[O]LK[V]MF[S]	base-idm	4	2	Keine Tugend kennt Jugend .
+VF[ADV]LK[V]MF[SO]	base-idm	3	5	Deshalb kennt Jugend keine Tugend .
+LK[V]MF[SO]	base-idm	2	4	Kennt Jugend keine Tugend ?
+MF[SO]VC[V]	base-idm	2	4	Weil Jugend keine Tugend kennt .
+VF[S]LK[V]MF[O]	dat-idm	1	3	Dank sei Gott .
+VF[O]LK[V]MF[S]	dat-idm	3	1	Gott sei Dank .
+VF[ADV]LK[V]MF[SO]	dat-idm	3	4	Deshalb sei Dank Gott .
+LK[V]MF[SO]	dat-idm	2	3	Sei Dank Gott ?
+MF[SO]VC[V]	dat-idm	2	3	Weil Dank Gott sei .
+VF[S]LK[V]MF[O]	dat-idm	1	4	Taten folgen den Worten .
+VF[O]LK[V]MF[S]	dat-idm	4	2	Den Worten folgen Taten .
+VF[ADV]LK[V]MF[SO]	dat-idm	3	5	Deshalb folgen Taten den Worten .
+LK[V]MF[SO]	dat-idm	2	4	Folgen Taten den Worten ?
+MF[SO]VC[V]	dat-idm	2	4	Weil Taten den Worten folgen .
+VF[S]LK[V]MF[O]	dat-idm	2	5	Keine Stunde schlägt dem Glücklichen .
+VF[O]LK[V]MF[S]	dat-idm	5	2	Dem Glücklichen schlägt keine Stunde .
+VF[ADV]LK[V]MF[SO]	dat-idm	4	6	Deshalb schlägt keine Stunde dem Glücklichen .
+LK[V]MF[SO]	dat-idm	3	5	Schlägt keine Stunde dem Glücklichen ?
+MF[SO]VC[V]	dat-idm	3	5	Weil keine Stunde dem Glücklichen schlägt .
+VF[S]LK[V]MF[O]	dat-idm	1	4	Mancher entfleucht dem Falken .
+VF[O]LK[V]MF[S]	dat-idm	4	2	Dem Falken entfleucht mancher .
+VF[ADV]LK[V]MF[SO]	dat-idm	3	5	Deshalb entfleucht mancher dem Falken .
+LK[V]MF[SO]	dat-idm	2	4	Entfleucht mancher dem Falken ?
+MF[SO]VC[V]	dat-idm	2	4	Weil mancher dem Falken entfleucht .
+VF[S]LK[V]MF[O]	dat-idm	2	4	Der Wallach fohlt dem .
+VF[O]LK[V]MF[S]	dat-idm	4	1	Dem fohlt der Wallach .
+VF[ADV]LK[V]MF[SO]	dat-idm	4	5	Deshalb fohlt der Wallach dem .
+LK[V]MF[SO]	dat-idm	3	4	Fohlt der Wallach dem ?
+MF[SO]VC[V]	dat-idm	3	4	Weil der Wallach dem fohlt .
+VF[S]LK[V]MF[O]	dat-idm	1	4	Viel fehlt dem Gesunden .
+VF[O]LK[V]MF[S]	dat-idm	4	2	Dem Gesunden fehlt viel .
+VF[ADV]LK[V]MF[SO]	dat-idm	3	5	Deshalb fehlt viel dem Gesunden .
+LK[V]MF[SO]	dat-idm	2	4	Fehlt viel dem Gesunden ?
+MF[SO]VC[V]	dat-idm	2	4	Weil viel dem Gesunden fehlt .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Die Wissenschaft wird die Mittel heiligen .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Die Mittel wird die Wissenschaft heiligen .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Deshalb wird die Wissenschaft die Mittel heiligen .
+LK[V]MF[SO]	aux-idm	3	5	Wird die Wissenschaft die Mittel heiligen ?
+MF[SO]VC[V]	aux-idm	3	5	Weil die Wissenschaft die Mittel heiligen wird .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Der Zweck wird die Mittel heiligen .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Die Mittel wird der Zweck heiligen .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Deshalb wird der Zweck die Mittel heiligen .
+LK[V]MF[SO]	aux-idm	3	5	Wird der Zweck die Mittel heiligen ?
+MF[SO]VC[V]	aux-idm	3	5	Weil der Zweck die Mittel heiligen wird .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Jedes Böhnchen wird ein Tönchen geben .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Ein Tönchen wird jedes Böhnchen geben .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Deshalb wird jedes Böhnchen ein Tönchen geben .
+LK[V]MF[SO]	aux-idm	3	5	Wird jedes Böhnchen ein Tönchen geben ?
+MF[SO]VC[V]	aux-idm	3	5	Weil jedes Böhnchen ein Tönchen geben wird .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Jede Münze wird zwei Seiten haben .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Zwei Seiten wird jede Münze haben .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Deshalb wird jede Münze zwei Seiten haben .
+LK[V]MF[SO]	aux-idm	3	5	Wird jede Münze zwei Seiten haben ?
+MF[SO]VC[V]	aux-idm	3	5	Weil jede Münze zwei Seiten haben wird .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Die Hunde werden den letzten beißen .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Den letzten werden die Hunde beißen .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Deshalb werden die Hunde den letzten beißen .
+LK[V]MF[SO]	aux-idm	3	5	Werden die Hunde den letzten beißen ?
+MF[SO]VC[V]	aux-idm	3	5	Weil die Hunde den letzten beißen werden .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Der Ton wird die Musik machen .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Die Musik wird der Ton machen .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Deshalb wird der Ton die Musik machen .
+LK[V]MF[SO]	aux-idm	3	5	Wird der Ton die Musik machen ?
+MF[SO]VC[V]	aux-idm	3	5	Weil der Ton die Musik machen wird .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Die Zeit wird alle Wunden heilen .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Alle Wunden wird die Zeit heilen .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Deshalb wird die Zeit alle Wunden heilen .
+LK[V]MF[SO]	aux-idm	3	5	Wird die Zeit alle Wunden heilen ?
+MF[SO]VC[V]	aux-idm	3	5	Weil die Zeit alle Wunden heilen wird .
+VF[S]LK[V]MF[O]	aux-idm	1	4	Alles wird seine Zeit haben .
+VF[O]LK[V]MF[S]	aux-idm	4	2	Seine Zeit wird alles haben .
+VF[ADV]LK[V]MF[SO]	aux-idm	3	5	Deshalb wird alles seine Zeit haben .
+LK[V]MF[SO]	aux-idm	2	4	Wird alles seine Zeit haben ?
+MF[SO]VC[V]	aux-idm	2	4	Weil alles seine Zeit haben wird .
+VF[S]LK[V]MF[O]	aux-idm	1	3	Arbeit wird Brot bringen .
+VF[O]LK[V]MF[S]	aux-idm	3	1	Brot wird Arbeit bringen .
+VF[ADV]LK[V]MF[SO]	aux-idm	3	4	Deshalb wird Arbeit Brot bringen .
+LK[V]MF[SO]	aux-idm	2	3	Wird Arbeit Brot bringen ?
+MF[SO]VC[V]	aux-idm	2	3	Weil Arbeit Brot bringen wird .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Eine Hand wird die andere waschen .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Die andere wird eine Hand waschen .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Deshalb wird eine Hand die andere waschen .
+LK[V]MF[SO]	aux-idm	3	5	Wird eine Hand die andere waschen ?
+MF[SO]VC[V]	aux-idm	3	5	Weil eine Hand die andere waschen wird .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Frühe Zucht wird gute Frucht bringen .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Gute Frucht wird frühe Zucht bringen .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Deshalb wird frühe Zucht gute Frucht bringen .
+LK[V]MF[SO]	aux-idm	3	5	Wird frühe Zucht gute Frucht bringen ?
+MF[SO]VC[V]	aux-idm	3	5	Weil frühe Zucht gute Frucht bringen wird .
+VF[S]LK[V]MF[O]	aux-idm	1	4	Geld wird die Welt regieren .
+VF[O]LK[V]MF[S]	aux-idm	4	2	Die Welt wird Geld regieren .
+VF[ADV]LK[V]MF[SO]	aux-idm	3	5	Deshalb wird Geld die Welt regieren .
+LK[V]MF[SO]	aux-idm	2	4	Wird Geld die Welt regieren ?
+MF[SO]VC[V]	aux-idm	2	4	Weil Geld die Welt regieren wird .
+VF[S]LK[V]MF[O]	aux-idm	1	3	Borgen wird Sorgen bringen .
+VF[O]LK[V]MF[S]	aux-idm	3	1	Sorgen wird Borgen bringen .
+VF[ADV]LK[V]MF[SO]	aux-idm	3	4	Deshalb wird Borgen Sorgen bringen .
+LK[V]MF[SO]	aux-idm	2	3	Wird Borgen Sorgen bringen ?
+MF[SO]VC[V]	aux-idm	2	3	Weil Borgen Sorgen bringen wird .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Das Schicksal wird dein Leben bestimmen .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Dein Leben wird das Schicksal bestimmen .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Deshalb wird das Schicksal dein Leben bestimmen .
+LK[V]MF[SO]	aux-idm	3	5	Wird das Schicksal dein Leben bestimmen ?
+MF[SO]VC[V]	aux-idm	3	5	Weil das Schicksal dein Leben bestimmen wird .
+VF[S]LK[V]MF[O]	aux-idm	1	4	Jugend wird keine Tugend kennen .
+VF[O]LK[V]MF[S]	aux-idm	4	2	Keine Tugend wird Jugend kennen .
+VF[ADV]LK[V]MF[SO]	aux-idm	3	5	Deshalb wird Jugend keine Tugend kennen .
+LK[V]MF[SO]	aux-idm	2	4	Wird Jugend keine Tugend kennen ?
+MF[SO]VC[V]	aux-idm	2	4	Weil Jugend keine Tugend kennen wird .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	Die Wissenschaft heiligt keine Mittel .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Keine Mittel heiligt die Wissenschaft .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Deshalb heiligt die Wissenschaft keine Mittel .
+LK[V]MF[SO]	oneg-idm	3	5	Heiligt die Wissenschaft keine Mittel ?
+MF[SO]VC[V]	oneg-idm	3	5	Weil die Wissenschaft keine Mittel heiligt .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	Der Zweck heiligt keine Mittel .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Keine Mittel heiligt der Zweck .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Deshalb heiligt der Zweck keine Mittel .
+LK[V]MF[SO]	oneg-idm	3	5	Heiligt der Zweck keine Mittel ?
+MF[SO]VC[V]	oneg-idm	3	5	Weil der Zweck keine Mittel heiligt .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	Jedes Böhnchen gibt kein Tönchen .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Kein Tönchen gibt jedes Böhnchen .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Deshalb gibt jedes Böhnchen kein Tönchen .
+LK[V]MF[SO]	oneg-idm	3	5	Gibt jedes Böhnchen kein Tönchen ?
+MF[SO]VC[V]	oneg-idm	3	5	Weil jedes Böhnchen kein Tönchen gibt .
+VF[S]LK[V]MF[O]	oneg-idm	2	6	Jede Münze hat keine zwei Seiten .
+VF[O]LK[V]MF[S]	oneg-idm	6	3	Keine zwei Seiten hat jede Münze .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	7	Deshalb hat jede Münze keine zwei Seiten .
+LK[V]MF[SO]	oneg-idm	3	6	Hat jede Münze keine zwei Seiten ?
+MF[SO]VC[V]	oneg-idm	3	6	Weil jede Münze keine zwei Seiten hat .
+VF[S]LK[V]MF[O]	oneg-idm	2	4	Die Hunde beißen keinen .
+VF[O]LK[V]MF[S]	oneg-idm	4	1	Keinen beißen die Hunde .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	5	Deshalb beißen die Hunde keinen .
+LK[V]MF[SO]	oneg-idm	3	4	Beißen die Hunde keinen ?
+MF[SO]VC[V]	oneg-idm	3	4	Weil die Hunde keinen beißen .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	Der Ton macht keine Musik .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Keine Musik macht der Ton .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Deshalb macht der Ton keine Musik .
+LK[V]MF[SO]	oneg-idm	3	5	Macht der Ton keine Musik ?
+MF[SO]VC[V]	oneg-idm	3	5	Weil der Ton keine Musik macht .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	Die Zeit heilt keine Wunden .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Keine Wunden heilt die Zeit .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Deshalb heilt die Zeit keine Wunden .
+LK[V]MF[SO]	oneg-idm	3	5	Heilt die Zeit keine Wunden ?
+MF[SO]VC[V]	oneg-idm	3	5	Weil die Zeit keine Wunden heilt .
+VF[S]LK[V]MF[O]	oneg-idm	1	4	Alles hat keine Zeit .
+VF[O]LK[V]MF[S]	oneg-idm	4	2	Keine Zeit hat alles .
+VF[ADV]LK[V]MF[SO]	oneg-idm	3	5	Deshalb hat alles keine Zeit .
+LK[V]MF[SO]	oneg-idm	2	4	Hat alles keine Zeit ?
+MF[SO]VC[V]	oneg-idm	2	4	Weil alles keine Zeit hat .
+VF[S]LK[V]MF[O]	oneg-idm	1	4	Arbeit bringt kein Brot .
+VF[O]LK[V]MF[S]	oneg-idm	4	2	Kein Brot bringt Arbeit .
+VF[ADV]LK[V]MF[SO]	oneg-idm	3	5	Deshalb bringt Arbeit kein Brot .
+LK[V]MF[SO]	oneg-idm	2	4	Bringt Arbeit kein Brot ?
+MF[SO]VC[V]	oneg-idm	2	4	Weil Arbeit kein Brot bringt .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	Eine Hand wäscht keine andere .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Keine andere wäscht eine Hand .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Deshalb wäscht eine Hand keine andere .
+LK[V]MF[SO]	oneg-idm	3	5	Wäscht eine Hand keine andere ?
+MF[SO]VC[V]	oneg-idm	3	5	Weil eine Hand keine andere wäscht .
+VF[S]LK[V]MF[O]	oneg-idm	2	6	Frühe Zucht bringt keine gute Frucht .
+VF[O]LK[V]MF[S]	oneg-idm	6	3	Keine gute Frucht bringt frühe Zucht .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	7	Deshalb bringt frühe Zucht keine gute Frucht .
+LK[V]MF[SO]	oneg-idm	3	6	Bringt frühe Zucht keine gute Frucht ?
+MF[SO]VC[V]	oneg-idm	3	6	Weil frühe Zucht keine gute Frucht bringt .
+VF[S]LK[V]MF[O]	oneg-idm	1	4	Geld regiert keine Welt .
+VF[O]LK[V]MF[S]	oneg-idm	4	2	Keine Welt regiert Geld .
+VF[ADV]LK[V]MF[SO]	oneg-idm	3	5	Deshalb regiert Geld keine Welt .
+LK[V]MF[SO]	oneg-idm	2	4	Regiert Geld keine Welt ?
+MF[SO]VC[V]	oneg-idm	2	4	Weil Geld keine Welt regiert .
+VF[S]LK[V]MF[O]	oneg-idm	1	4	Borgen bringt keine Sorgen .
+VF[O]LK[V]MF[S]	oneg-idm	4	2	Keine Sorgen bringt Borgen .
+VF[ADV]LK[V]MF[SO]	oneg-idm	3	5	Deshalb bringt Borgen keine Sorgen .
+LK[V]MF[SO]	oneg-idm	2	4	Bringt Borgen keine Sorgen ?
+MF[SO]VC[V]	oneg-idm	2	4	Weil Borgen keine Sorgen bringt .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	Das Schicksal bestimmt kein Leben .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Kein Leben bestimmt das Schicksal .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Deshalb bestimmt das Schicksal kein Leben .
+LK[V]MF[SO]	oneg-idm	3	5	Bestimmt das Schicksal kein Leben ?
+MF[SO]VC[V]	oneg-idm	3	5	Weil das Schicksal kein Leben bestimmt .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Die Wissenschaft heiligt in dem Jahr die Mittel .
+VF[O]LK[V]MF[S]	pp-idm	8	2	Die Mittel heiligt in dem Jahr die Wissenschaft .
+VF[ADV]LK[V]MF[SO]	pp-idm	7	9	Deshalb heiligt in dem Jahr die Wissenschaft die Mittel .
+LK[V]MF[SO]	pp-idm	6	8	Heiligt in dem Jahr die Wissenschaft die Mittel ?
+MF[SO]VC[V]	pp-idm	6	8	Weil in dem Jahr die Wissenschaft die Mittel heiligt .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Der Zweck heiligt in dem Jahr die Mittel .
+VF[O]LK[V]MF[S]	pp-idm	8	2	Die Mittel heiligt in dem Jahr der Zweck .
+VF[ADV]LK[V]MF[SO]	pp-idm	7	9	Deshalb heiligt in dem Jahr der Zweck die Mittel .
+LK[V]MF[SO]	pp-idm	6	8	Heiligt in dem Jahr der Zweck die Mittel ?
+MF[SO]VC[V]	pp-idm	6	8	Weil in dem Jahr der Zweck die Mittel heiligt .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Jedes Böhnchen gibt in dem Jahr ein Tönchen .
+VF[O]LK[V]MF[S]	pp-idm	8	2	Ein Tönchen gibt in dem Jahr jedes Böhnchen .
+VF[ADV]LK[V]MF[SO]	pp-idm	7	9	Deshalb gibt in dem Jahr jedes Böhnchen ein Tönchen .
+LK[V]MF[SO]	pp-idm	6	8	Gibt in dem Jahr jedes Böhnchen ein Tönchen ?
+MF[SO]VC[V]	pp-idm	6	8	Weil in dem Jahr jedes Böhnchen ein Tönchen gibt .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Jede Münze hat in dem Jahr zwei Seiten .
+VF[O]LK[V]MF[S]	pp-idm	8	2	Zwei Seiten hat in dem Jahr jede Münze .
+VF[ADV]LK[V]MF[SO]	pp-idm	7	9	Deshalb hat in dem Jahr jede Münze zwei Seiten .
+LK[V]MF[SO]	pp-idm	6	8	Hat in dem Jahr jede Münze zwei Seiten ?
+MF[SO]VC[V]	pp-idm	6	8	Weil in dem Jahr jede Münze zwei Seiten hat .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Die Hunde beißen in dem Jahr den letzten .
+VF[O]LK[V]MF[S]	pp-idm	8	2	Den letzten beißen in dem Jahr die Hunde .
+VF[ADV]LK[V]MF[SO]	pp-idm	7	9	Deshalb beißen in dem Jahr die Hunde den letzten .
+LK[V]MF[SO]	pp-idm	6	8	Beißen in dem Jahr die Hunde den letzten ?
+MF[SO]VC[V]	pp-idm	6	8	Weil in dem Jahr die Hunde den letzten beißen .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Der Ton macht in dem Jahr die Musik .
+VF[O]LK[V]MF[S]	pp-idm	8	2	Die Musik macht in dem Jahr der Ton .
+VF[ADV]LK[V]MF[SO]	pp-idm	7	9	Deshalb macht in dem Jahr der Ton die Musik .
+LK[V]MF[SO]	pp-idm	6	8	Macht in dem Jahr der Ton die Musik ?
+MF[SO]VC[V]	pp-idm	6	8	Weil in dem Jahr der Ton die Musik macht .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Die Zeit heilt in dem Jahr alle Wunden .
+VF[O]LK[V]MF[S]	pp-idm	8	2	Alle Wunden heilt in dem Jahr die Zeit .
+VF[ADV]LK[V]MF[SO]	pp-idm	7	9	Deshalb heilt in dem Jahr die Zeit alle Wunden .
+LK[V]MF[SO]	pp-idm	6	8	Heilt in dem Jahr die Zeit alle Wunden ?
+MF[SO]VC[V]	pp-idm	6	8	Weil in dem Jahr die Zeit alle Wunden heilt .
+VF[S]LK[V]MF[O]	pp-idm	1	7	Alles hat in dem Jahr seine Zeit .
+VF[O]LK[V]MF[S]	pp-idm	7	2	Seine Zeit hat in dem Jahr alles .
+VF[ADV]LK[V]MF[SO]	pp-idm	6	8	Deshalb hat in dem Jahr alles seine Zeit .
+LK[V]MF[SO]	pp-idm	5	7	Hat in dem Jahr alles seine Zeit ?
+MF[SO]VC[V]	pp-idm	5	7	Weil in dem Jahr alles seine Zeit hat .
+VF[S]LK[V]MF[O]	pp-idm	1	6	Arbeit bringt in dem Jahr Brot .
+VF[O]LK[V]MF[S]	pp-idm	6	1	Brot bringt in dem Jahr Arbeit .
+VF[ADV]LK[V]MF[SO]	pp-idm	6	7	Deshalb bringt in dem Jahr Arbeit Brot .
+LK[V]MF[SO]	pp-idm	5	6	Bringt in dem Jahr Arbeit Brot ?
+MF[SO]VC[V]	pp-idm	5	6	Weil in dem Jahr Arbeit Brot bringt .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Eine Hand wäscht in dem Jahr die andere .
+VF[O]LK[V]MF[S]	pp-idm	8	2	Die andere wäscht in dem Jahr eine Hand .
+VF[ADV]LK[V]MF[SO]	pp-idm	7	9	Deshalb wäscht in dem Jahr eine Hand die andere .
+LK[V]MF[SO]	pp-idm	6	8	Wäscht in dem Jahr eine Hand die andere ?
+MF[SO]VC[V]	pp-idm	6	8	Weil in dem Jahr eine Hand die andere wäscht .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Frühe Zucht bringt in dem Jahr gute Frucht .
+VF[O]LK[V]MF[S]	pp-idm	8	2	Gute Frucht bringt in dem Jahr frühe Zucht .
+VF[ADV]LK[V]MF[SO]	pp-idm	7	9	Deshalb bringt in dem Jahr frühe Zucht gute Frucht .
+LK[V]MF[SO]	pp-idm	6	8	Bringt in dem Jahr frühe Zucht gute Frucht ?
+MF[SO]VC[V]	pp-idm	6	8	Weil in dem Jahr frühe Zucht gute Frucht bringt .
+VF[S]LK[V]MF[O]	pp-idm	1	7	Geld regiert in dem Jahr die Welt .
+VF[O]LK[V]MF[S]	pp-idm	7	2	Die Welt regiert in dem Jahr Geld .
+VF[ADV]LK[V]MF[SO]	pp-idm	6	8	Deshalb regiert in dem Jahr Geld die Welt .
+LK[V]MF[SO]	pp-idm	5	7	Regiert in dem Jahr Geld die Welt ?
+MF[SO]VC[V]	pp-idm	5	7	Weil in dem Jahr Geld die Welt regiert .
+VF[S]LK[V]MF[O]	pp-idm	1	6	Borgen bringt in dem Jahr Sorgen .
+VF[O]LK[V]MF[S]	pp-idm	6	1	Sorgen bringt in dem Jahr Borgen .
+VF[ADV]LK[V]MF[SO]	pp-idm	6	7	Deshalb bringt in dem Jahr Borgen Sorgen .
+LK[V]MF[SO]	pp-idm	5	6	Bringt in dem Jahr Borgen Sorgen ?
+MF[SO]VC[V]	pp-idm	5	6	Weil in dem Jahr Borgen Sorgen bringt .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Das Schicksal bestimmt in dem Jahr dein Leben .
+VF[O]LK[V]MF[S]	pp-idm	8	2	Dein Leben bestimmt in dem Jahr das Schicksal .
+VF[ADV]LK[V]MF[SO]	pp-idm	7	9	Deshalb bestimmt in dem Jahr das Schicksal dein Leben .
+LK[V]MF[SO]	pp-idm	6	8	Bestimmt in dem Jahr das Schicksal dein Leben ?
+MF[SO]VC[V]	pp-idm	6	8	Weil in dem Jahr das Schicksal dein Leben bestimmt .

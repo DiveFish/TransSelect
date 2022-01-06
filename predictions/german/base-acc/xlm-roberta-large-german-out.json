@@ -1,0 +1,2402 @@
+{
+    "Der General startet einen Angriff .": [
+        {
+            "sequence": "<s> Der General startet einen Kampf.</s>",
+            "score": 0.30702677369117737,
+            "token": 124946,
+            "token_str": "▁Kampf"
+        },
+        {
+            "sequence": "<s> Der General startet einen Krieg.</s>",
+            "score": 0.09424564987421036,
+            "token": 73990,
+            "token_str": "▁Krieg"
+        },
+        {
+            "sequence": "<s> Der General startet einen Dialog.</s>",
+            "score": 0.07123158872127533,
+            "token": 84536,
+            "token_str": "▁Dialog"
+        },
+        {
+            "sequence": "<s> Der General startet einen Angriff.</s>",
+            "score": 0.06686128675937653,
+            "token": 188542,
+            "token_str": "▁Angriff"
+        },
+        {
+            "sequence": "<s> Der General startet einen Streit.</s>",
+            "score": 0.031512752175331116,
+            "token": 173865,
+            "token_str": "▁Streit"
+        }
+    ],
+    "Einen Angriff startet der General .": [
+        {
+            "sequence": "<s> Einen neuen startet der General.</s>",
+            "score": 0.06218167766928673,
+            "token": 16099,
+            "token_str": "▁neuen"
+        },
+        {
+            "sequence": "<s> Einen Versuch startet der General.</s>",
+            "score": 0.05241978168487549,
+            "token": 126157,
+            "token_str": "▁Versuch"
+        },
+        {
+            "sequence": "<s> Einen Film startet der General.</s>",
+            "score": 0.050585754215717316,
+            "token": 3847,
+            "token_str": "▁Film"
+        },
+        {
+            "sequence": "<s> Einen Kampf startet der General.</s>",
+            "score": 0.03719374164938927,
+            "token": 124946,
+            "token_str": "▁Kampf"
+        },
+        {
+            "sequence": "<s> Einen Dialog startet der General.</s>",
+            "score": 0.027573170140385628,
+            "token": 84536,
+            "token_str": "▁Dialog"
+        }
+    ],
+    "Deshalb startet der General einen Angriff .": [
+        {
+            "sequence": "<s> Deshalb startet der General einen Kampf.</s>",
+            "score": 0.19321300089359283,
+            "token": 124946,
+            "token_str": "▁Kampf"
+        },
+        {
+            "sequence": "<s> Deshalb startet der General einen Krieg.</s>",
+            "score": 0.12262360006570816,
+            "token": 73990,
+            "token_str": "▁Krieg"
+        },
+        {
+            "sequence": "<s> Deshalb startet der General einen Prozess.</s>",
+            "score": 0.10135340690612793,
+            "token": 78767,
+            "token_str": "▁Prozess"
+        },
+        {
+            "sequence": "<s> Deshalb startet der General einen Angriff.</s>",
+            "score": 0.06355661153793335,
+            "token": 188542,
+            "token_str": "▁Angriff"
+        },
+        {
+            "sequence": "<s> Deshalb startet der General einen Streit.</s>",
+            "score": 0.0439290925860405,
+            "token": 173865,
+            "token_str": "▁Streit"
+        }
+    ],
+    "Startet der General einen Angriff ?": [
+        {
+            "sequence": "<s> Startet der General einen Krieg?</s>",
+            "score": 0.3749465346336365,
+            "token": 73990,
+            "token_str": "▁Krieg"
+        },
+        {
+            "sequence": "<s> Startet der General einen Prozess?</s>",
+            "score": 0.10666528344154358,
+            "token": 78767,
+            "token_str": "▁Prozess"
+        },
+        {
+            "sequence": "<s> Startet der General einen Kampf?</s>",
+            "score": 0.06528132408857346,
+            "token": 124946,
+            "token_str": "▁Kampf"
+        },
+        {
+            "sequence": "<s> Startet der General einen Dialog?</s>",
+            "score": 0.06437179446220398,
+            "token": 84536,
+            "token_str": "▁Dialog"
+        },
+        {
+            "sequence": "<s> Startet der General einen Plan?</s>",
+            "score": 0.06298169493675232,
+            "token": 5586,
+            "token_str": "▁Plan"
+        }
+    ],
+    "Weil der General einen Angriff startet .": [
+        {
+            "sequence": "<s> Weil der General einen Krieg startet.</s>",
+            "score": 0.21291449666023254,
+            "token": 73990,
+            "token_str": "▁Krieg"
+        },
+        {
+            "sequence": "<s> Weil der General einen Kampf startet.</s>",
+            "score": 0.09088397771120071,
+            "token": 124946,
+            "token_str": "▁Kampf"
+        },
+        {
+            "sequence": "<s> Weil der General einen Weltkrieg startet.</s>",
+            "score": 0.04275127872824669,
+            "token": 188464,
+            "token_str": "▁Weltkrieg"
+        },
+        {
+            "sequence": "<s> Weil der General einen Film startet.</s>",
+            "score": 0.03503422066569328,
+            "token": 3847,
+            "token_str": "▁Film"
+        },
+        {
+            "sequence": "<s> Weil der General einen Streit startet.</s>",
+            "score": 0.03090638667345047,
+            "token": 173865,
+            "token_str": "▁Streit"
+        }
+    ],
+    "Die Partner leben ein Doppelleben .": [
+        {
+            "sequence": "<s> Die Partner leben ein Leben.</s>",
+            "score": 0.17308998107910156,
+            "token": 15631,
+            "token_str": "▁Leben"
+        },
+        {
+            "sequence": "<s> Die Partner leben ein paar.</s>",
+            "score": 0.13294069468975067,
+            "token": 6647,
+            "token_str": "▁paar"
+        },
+        {
+            "sequence": "<s> Die Partner leben ein neues.</s>",
+            "score": 0.07343979924917221,
+            "token": 58645,
+            "token_str": "▁neues"
+        },
+        {
+            "sequence": "<s> Die Partner leben ein wenig.</s>",
+            "score": 0.06920618563890457,
+            "token": 28326,
+            "token_str": "▁wenig"
+        },
+        {
+            "sequence": "<s> Die Partner leben ein..</s>",
+            "score": 0.05219972878694534,
+            "token": 5,
+            "token_str": "."
+        }
+    ],
+    "Ein Doppelleben leben die Partner .": [
+        {
+            "sequence": "<s> Ein Leben leben die Partner.</s>",
+            "score": 0.13346554338932037,
+            "token": 15631,
+            "token_str": "▁Leben"
+        },
+        {
+            "sequence": "<s> Ein paar leben die Partner.</s>",
+            "score": 0.07439025491476059,
+            "token": 6647,
+            "token_str": "▁paar"
+        },
+        {
+            "sequence": "<s> Eins leben die Partner.</s>",
+            "score": 0.06615976989269257,
+            "token": 7,
+            "token_str": "s"
+        },
+        {
+            "sequence": "<s> Ein Paar leben die Partner.</s>",
+            "score": 0.05582081899046898,
+            "token": 71131,
+            "token_str": "▁Paar"
+        },
+        {
+            "sequence": "<s> Ein Traum leben die Partner.</s>",
+            "score": 0.03652365505695343,
+            "token": 93385,
+            "token_str": "▁Traum"
+        }
+    ],
+    "Deshalb leben die Partner ein Doppelleben .": [
+        {
+            "sequence": "<s> Deshalb leben die Partner ein Leben.</s>",
+            "score": 0.5252447724342346,
+            "token": 15631,
+            "token_str": "▁Leben"
+        },
+        {
+            "sequence": "<s> Deshalb leben die Partner ein neues.</s>",
+            "score": 0.08551748096942902,
+            "token": 58645,
+            "token_str": "▁neues"
+        },
+        {
+            "sequence": "<s> Deshalb leben die Partner ein wenig.</s>",
+            "score": 0.033678088337183,
+            "token": 28326,
+            "token_str": "▁wenig"
+        },
+        {
+            "sequence": "<s> Deshalb leben die Partner ein Stück.</s>",
+            "score": 0.028383173048496246,
+            "token": 72900,
+            "token_str": "▁Stück"
+        },
+        {
+            "sequence": "<s> Deshalb leben die Partner ein paar.</s>",
+            "score": 0.02740119770169258,
+            "token": 6647,
+            "token_str": "▁paar"
+        }
+    ],
+    "Leben die Partner ein Doppelleben ?": [
+        {
+            "sequence": "<s> Leben die Partner ein Leben?</s>",
+            "score": 0.5198032259941101,
+            "token": 15631,
+            "token_str": "▁Leben"
+        },
+        {
+            "sequence": "<s> Leben die Partner ein Traum?</s>",
+            "score": 0.068151094019413,
+            "token": 93385,
+            "token_str": "▁Traum"
+        },
+        {
+            "sequence": "<s> Leben die Partner ein Haus?</s>",
+            "score": 0.03164584934711456,
+            "token": 16384,
+            "token_str": "▁Haus"
+        },
+        {
+            "sequence": "<s> Leben die Partner ein Herz?</s>",
+            "score": 0.01951221376657486,
+            "token": 47820,
+            "token_str": "▁Herz"
+        },
+        {
+            "sequence": "<s> Leben die Partner ein Hobby?</s>",
+            "score": 0.017564386129379272,
+            "token": 126527,
+            "token_str": "▁Hobby"
+        }
+    ],
+    "Weil die Partner ein Doppelleben leben .": [
+        {
+            "sequence": "<s> Weil die Partner ein Leben leben.</s>",
+            "score": 0.36648163199424744,
+            "token": 15631,
+            "token_str": "▁Leben"
+        },
+        {
+            "sequence": "<s> Weil die Partner ein anderes leben.</s>",
+            "score": 0.09943736344575882,
+            "token": 101971,
+            "token_str": "▁anderes"
+        },
+        {
+            "sequence": "<s> Weil die Partner ein neues leben.</s>",
+            "score": 0.06871134042739868,
+            "token": 58645,
+            "token_str": "▁neues"
+        },
+        {
+            "sequence": "<s> Weil die Partner ein Stück leben.</s>",
+            "score": 0.051133278757333755,
+            "token": 72900,
+            "token_str": "▁Stück"
+        },
+        {
+            "sequence": "<s> Weil die Partner ein Traum leben.</s>",
+            "score": 0.02899305894970894,
+            "token": 93385,
+            "token_str": "▁Traum"
+        }
+    ],
+    "Der Journalist übertextet eine Aufnahme .": [
+        {
+            "sequence": "<s> Der Journalist übertextet eine Zeitung.</s>",
+            "score": 0.13455365598201752,
+            "token": 108365,
+            "token_str": "▁Zeitung"
+        },
+        {
+            "sequence": "<s> Der Journalist übertextet eine Person.</s>",
+            "score": 0.06955990195274353,
+            "token": 15270,
+            "token_str": "▁Person"
+        },
+        {
+            "sequence": "<s> Der Journalist übertextet eine Frau.</s>",
+            "score": 0.06305897980928421,
+            "token": 28519,
+            "token_str": "▁Frau"
+        },
+        {
+            "sequence": "<s> Der Journalist übertextet eine Serie.</s>",
+            "score": 0.03652442619204521,
+            "token": 45378,
+            "token_str": "▁Serie"
+        },
+        {
+            "sequence": "<s> Der Journalist übertextet eine Zeitschrift.</s>",
+            "score": 0.032015182077884674,
+            "token": 218107,
+            "token_str": "▁Zeitschrift"
+        }
+    ],
+    "Eine Aufnahme übertextet der Journalist .": [
+        {
+            "sequence": "<s> Eine Frau übertextet der Journalist.</s>",
+            "score": 0.16074246168136597,
+            "token": 28519,
+            "token_str": "▁Frau"
+        },
+        {
+            "sequence": "<s> Eine Zeitung übertextet der Journalist.</s>",
+            "score": 0.09535672515630722,
+            "token": 108365,
+            "token_str": "▁Zeitung"
+        },
+        {
+            "sequence": "<s> Eine Person übertextet der Journalist.</s>",
+            "score": 0.06839057058095932,
+            "token": 15270,
+            "token_str": "▁Person"
+        },
+        {
+            "sequence": "<s> Eine Freundin übertextet der Journalist.</s>",
+            "score": 0.04320651292800903,
+            "token": 141572,
+            "token_str": "▁Freundin"
+        },
+        {
+            "sequence": "<s> Eine Studie übertextet der Journalist.</s>",
+            "score": 0.03822033852338791,
+            "token": 60716,
+            "token_str": "▁Studie"
+        }
+    ],
+    "Deshalb übertextet der Journalist eine Aufnahme .": [
+        {
+            "sequence": "<s> Deshalb übertextet der Journalist eine Zeitung.</s>",
+            "score": 0.13485950231552124,
+            "token": 108365,
+            "token_str": "▁Zeitung"
+        },
+        {
+            "sequence": "<s> Deshalb übertextet der Journalist eine Frau.</s>",
+            "score": 0.06549301743507385,
+            "token": 28519,
+            "token_str": "▁Frau"
+        },
+        {
+            "sequence": "<s> Deshalb übertextet der Journalist eine Person.</s>",
+            "score": 0.058569543063640594,
+            "token": 15270,
+            "token_str": "▁Person"
+        },
+        {
+            "sequence": "<s> Deshalb übertextet der Journalist eine Serie.</s>",
+            "score": 0.042692288756370544,
+            "token": 45378,
+            "token_str": "▁Serie"
+        },
+        {
+            "sequence": "<s> Deshalb übertextet der Journalist eine Geschichte.</s>",
+            "score": 0.035283152014017105,
+            "token": 27777,
+            "token_str": "▁Geschichte"
+        }
+    ],
+    "Übertextet der Journalist eine Aufnahme ?": [
+        {
+            "sequence": "<s> Übertextet der Journalist eine Zeitung?</s>",
+            "score": 0.3001471161842346,
+            "token": 108365,
+            "token_str": "▁Zeitung"
+        },
+        {
+            "sequence": "<s> Übertextet der Journalist eine Seite?</s>",
+            "score": 0.0710286945104599,
+            "token": 18877,
+            "token_str": "▁Seite"
+        },
+        {
+            "sequence": "<s> Übertextet der Journalist eine Serie?</s>",
+            "score": 0.06222707778215408,
+            "token": 45378,
+            "token_str": "▁Serie"
+        },
+        {
+            "sequence": "<s> Übertextet der Journalist eine Webseite?</s>",
+            "score": 0.0579003244638443,
+            "token": 63798,
+            "token_str": "▁Webseite"
+        },
+        {
+            "sequence": "<s> Übertextet der Journalist eine Zeitschrift?</s>",
+            "score": 0.049270760267972946,
+            "token": 218107,
+            "token_str": "▁Zeitschrift"
+        }
+    ],
+    "Weil der Journalist eine Aufnahme übertextet .": [
+        {
+            "sequence": "<s> Weil der Journalist eine Frau übertextet.</s>",
+            "score": 0.15445570647716522,
+            "token": 28519,
+            "token_str": "▁Frau"
+        },
+        {
+            "sequence": "<s> Weil der Journalist eine Zeitung übertextet.</s>",
+            "score": 0.12825311720371246,
+            "token": 108365,
+            "token_str": "▁Zeitung"
+        },
+        {
+            "sequence": "<s> Weil der Journalist eine Person übertextet.</s>",
+            "score": 0.10180702805519104,
+            "token": 15270,
+            "token_str": "▁Person"
+        },
+        {
+            "sequence": "<s> Weil der Journalist eine Geschichte übertextet.</s>",
+            "score": 0.044330526143312454,
+            "token": 27777,
+            "token_str": "▁Geschichte"
+        },
+        {
+            "sequence": "<s> Weil der Journalist eine Seite übertextet.</s>",
+            "score": 0.028359146788716316,
+            "token": 18877,
+            "token_str": "▁Seite"
+        }
+    ],
+    "Die Freundinnen spielen eine Traumhochzeit .": [
+        {
+            "sequence": "<s> Die Freundinnen spielen eine Rolle.</s>",
+            "score": 0.5641323328018188,
+            "token": 45324,
+            "token_str": "▁Rolle"
+        },
+        {
+            "sequence": "<s> Die Freundinnen spielen eine Runde.</s>",
+            "score": 0.04353458061814308,
+            "token": 135701,
+            "token_str": "▁Runde"
+        },
+        {
+            "sequence": "<s> Die Freundinnen spielen eine Party.</s>",
+            "score": 0.016835825517773628,
+            "token": 31016,
+            "token_str": "▁Party"
+        },
+        {
+            "sequence": "<s> Die Freundinnen spielen eine Frau.</s>",
+            "score": 0.016768716275691986,
+            "token": 28519,
+            "token_str": "▁Frau"
+        },
+        {
+            "sequence": "<s> Die Freundinnen spielen eine Menge.</s>",
+            "score": 0.015411102212965488,
+            "token": 35809,
+            "token_str": "▁Menge"
+        }
+    ],
+    "Eine Traumhochzeit spielen die Freundinnen .": [
+        {
+            "sequence": "<s> Eine Rolle spielen die Freundinnen.</s>",
+            "score": 0.471241295337677,
+            "token": 45324,
+            "token_str": "▁Rolle"
+        },
+        {
+            "sequence": "<s> Eine Runde spielen die Freundinnen.</s>",
+            "score": 0.11418601125478745,
+            "token": 135701,
+            "token_str": "▁Runde"
+        },
+        {
+            "sequence": "<s> Eine Karte spielen die Freundinnen.</s>",
+            "score": 0.038597673177719116,
+            "token": 80645,
+            "token_str": "▁Karte"
+        },
+        {
+            "sequence": "<s> Eines spielen die Freundinnen.</s>",
+            "score": 0.023687535896897316,
+            "token": 7,
+            "token_str": "s"
+        },
+        {
+            "sequence": "<s> Eine Show spielen die Freundinnen.</s>",
+            "score": 0.020519176498055458,
+            "token": 17367,
+            "token_str": "▁Show"
+        }
+    ],
+    "Deshalb spielen die Freundinnen eine Traumhochzeit .": [
+        {
+            "sequence": "<s> Deshalb spielen die Freundinnen eine Rolle.</s>",
+            "score": 0.9190461039543152,
+            "token": 45324,
+            "token_str": "▁Rolle"
+        },
+        {
+            "sequence": "<s> Deshalb spielen die Freundinnen eine Menge.</s>",
+            "score": 0.007770582567900419,
+            "token": 35809,
+            "token_str": "▁Menge"
+        },
+        {
+            "sequence": "<s> Deshalb spielen die Freundinnen eine Runde.</s>",
+            "score": 0.005010217893868685,
+            "token": 135701,
+            "token_str": "▁Runde"
+        },
+        {
+            "sequence": "<s> Deshalb spielen die Freundinnen eine Reihe.</s>",
+            "score": 0.003803613595664501,
+            "token": 88325,
+            "token_str": "▁Reihe"
+        },
+        {
+            "sequence": "<s> Deshalb spielen die Freundinnen eine gute.</s>",
+            "score": 0.003342060372233391,
+            "token": 25989,
+            "token_str": "▁gute"
+        }
+    ],
+    "Spielen die Freundinnen eine Traumhochzeit ?": [
+        {
+            "sequence": "<s> Spielen die Freundinnen eine Rolle?</s>",
+            "score": 0.9990035891532898,
+            "token": 45324,
+            "token_str": "▁Rolle"
+        },
+        {
+            "sequence": "<s> Spielen die Freundinnen eine rolle?</s>",
+            "score": 0.0004056415054947138,
+            "token": 67411,
+            "token_str": "▁rolle"
+        },
+        {
+            "sequence": "<s> Spielen die Freundinnen eine rol?</s>",
+            "score": 6.260613008635119e-05,
+            "token": 6136,
+            "token_str": "▁rol"
+        },
+        {
+            "sequence": "<s> Spielen die Freundinnen eine Hand?</s>",
+            "score": 5.891990440431982e-05,
+            "token": 10639,
+            "token_str": "▁Hand"
+        },
+        {
+            "sequence": "<s> Spielen die Freundinnen eine Karte?</s>",
+            "score": 4.52354688604828e-05,
+            "token": 80645,
+            "token_str": "▁Karte"
+        }
+    ],
+    "Weil die Freundinnen eine Traumhochzeit spielen .": [
+        {
+            "sequence": "<s> Weil die Freundinnen eine Rolle spielen.</s>",
+            "score": 0.792944610118866,
+            "token": 45324,
+            "token_str": "▁Rolle"
+        },
+        {
+            "sequence": "<s> Weil die Freundinnen eine Karte spielen.</s>",
+            "score": 0.020521942526102066,
+            "token": 80645,
+            "token_str": "▁Karte"
+        },
+        {
+            "sequence": "<s> Weil die Freundinnen eine Runde spielen.</s>",
+            "score": 0.015666380524635315,
+            "token": 135701,
+            "token_str": "▁Runde"
+        },
+        {
+            "sequence": "<s> Weil die Freundinnen eine Reihe spielen.</s>",
+            "score": 0.010322978720068932,
+            "token": 88325,
+            "token_str": "▁Reihe"
+        },
+        {
+            "sequence": "<s> Weil die Freundinnen eine Party spielen.</s>",
+            "score": 0.008985675871372223,
+            "token": 31016,
+            "token_str": "▁Party"
+        }
+    ],
+    "Der Passant bewirft ein Kunstwerk .": [
+        {
+            "sequence": "<s> Der Passant bewirft ein Auto.</s>",
+            "score": 0.13733825087547302,
+            "token": 4396,
+            "token_str": "▁Auto"
+        },
+        {
+            "sequence": "<s> Der Passant bewirft ein Taxi.</s>",
+            "score": 0.0956474095582962,
+            "token": 114353,
+            "token_str": "▁Taxi"
+        },
+        {
+            "sequence": "<s> Der Passant bewirft ein Fahrzeug.</s>",
+            "score": 0.06334219127893448,
+            "token": 65961,
+            "token_str": "▁Fahrzeug"
+        },
+        {
+            "sequence": "<s> Der Passant bewirft ein Kind.</s>",
+            "score": 0.051981572061777115,
+            "token": 27435,
+            "token_str": "▁Kind"
+        },
+        {
+            "sequence": "<s> Der Passant bewirft ein Foto.</s>",
+            "score": 0.034217506647109985,
+            "token": 5198,
+            "token_str": "▁Foto"
+        }
+    ],
+    "Ein Kunstwerk bewirft der Passant .": [
+        {
+            "sequence": "<s> Ein Auto bewirft der Passant.</s>",
+            "score": 0.13050904870033264,
+            "token": 4396,
+            "token_str": "▁Auto"
+        },
+        {
+            "sequence": "<s> Ein Kind bewirft der Passant.</s>",
+            "score": 0.1126733347773552,
+            "token": 27435,
+            "token_str": "▁Kind"
+        },
+        {
+            "sequence": "<s> Ein Mann bewirft der Passant.</s>",
+            "score": 0.06288367509841919,
+            "token": 14912,
+            "token_str": "▁Mann"
+        },
+        {
+            "sequence": "<s> Ein Mädchen bewirft der Passant.</s>",
+            "score": 0.035278044641017914,
+            "token": 100831,
+            "token_str": "▁Mädchen"
+        },
+        {
+            "sequence": "<s> Ein Taxi bewirft der Passant.</s>",
+            "score": 0.030136259272694588,
+            "token": 114353,
+            "token_str": "▁Taxi"
+        }
+    ],
+    "Deshalb bewirft der Passant ein Kunstwerk .": [
+        {
+            "sequence": "<s> Deshalb bewirft der Passant ein Taxi.</s>",
+            "score": 0.22915200889110565,
+            "token": 114353,
+            "token_str": "▁Taxi"
+        },
+        {
+            "sequence": "<s> Deshalb bewirft der Passant ein Auto.</s>",
+            "score": 0.128165602684021,
+            "token": 4396,
+            "token_str": "▁Auto"
+        },
+        {
+            "sequence": "<s> Deshalb bewirft der Passant ein Kind.</s>",
+            "score": 0.045560650527477264,
+            "token": 27435,
+            "token_str": "▁Kind"
+        },
+        {
+            "sequence": "<s> Deshalb bewirft der Passant ein Fahrzeug.</s>",
+            "score": 0.036167874932289124,
+            "token": 65961,
+            "token_str": "▁Fahrzeug"
+        },
+        {
+            "sequence": "<s> Deshalb bewirft der Passant ein Haus.</s>",
+            "score": 0.020122699439525604,
+            "token": 16384,
+            "token_str": "▁Haus"
+        }
+    ],
+    "Bewirft der Passant ein Kunstwerk ?": [
+        {
+            "sequence": "<s> Bewirft der Passant ein Taxi?</s>",
+            "score": 0.3037729263305664,
+            "token": 114353,
+            "token_str": "▁Taxi"
+        },
+        {
+            "sequence": "<s> Bewirft der Passant ein Auto?</s>",
+            "score": 0.08938397467136383,
+            "token": 4396,
+            "token_str": "▁Auto"
+        },
+        {
+            "sequence": "<s> Bewirft der Passant ein Fahrzeug?</s>",
+            "score": 0.0539531335234642,
+            "token": 65961,
+            "token_str": "▁Fahrzeug"
+        },
+        {
+            "sequence": "<s> Bewirft der Passant ein Opfer?</s>",
+            "score": 0.037479035556316376,
+            "token": 143651,
+            "token_str": "▁Opfer"
+        },
+        {
+            "sequence": "<s> Bewirft der Passant ein Gespräch?</s>",
+            "score": 0.033536192029714584,
+            "token": 64225,
+            "token_str": "▁Gespräch"
+        }
+    ],
+    "Weil der Passant ein Kunstwerk bewirft .": [
+        {
+            "sequence": "<s> Weil der Passant ein Kind bewirft.</s>",
+            "score": 0.21294240653514862,
+            "token": 27435,
+            "token_str": "▁Kind"
+        },
+        {
+            "sequence": "<s> Weil der Passant ein Auto bewirft.</s>",
+            "score": 0.11859085410833359,
+            "token": 4396,
+            "token_str": "▁Auto"
+        },
+        {
+            "sequence": "<s> Weil der Passant ein Taxi bewirft.</s>",
+            "score": 0.07849776744842529,
+            "token": 114353,
+            "token_str": "▁Taxi"
+        },
+        {
+            "sequence": "<s> Weil der Passant ein Mädchen bewirft.</s>",
+            "score": 0.058662403374910355,
+            "token": 100831,
+            "token_str": "▁Mädchen"
+        },
+        {
+            "sequence": "<s> Weil der Passant ein Foto bewirft.</s>",
+            "score": 0.025837574154138565,
+            "token": 5198,
+            "token_str": "▁Foto"
+        }
+    ],
+    "Die Kinder finden eine Lösung .": [
+        {
+            "sequence": "<s> Die Kinder finden eine Lösung.</s>",
+            "score": 0.08200002461671829,
+            "token": 69565,
+            "token_str": "▁Lösung"
+        },
+        {
+            "sequence": "<s> Die Kinder finden eine Herausforderung.</s>",
+            "score": 0.05525882542133331,
+            "token": 99620,
+            "token_str": "▁Herausforderung"
+        },
+        {
+            "sequence": "<s> Die Kinder finden eine Beschäftigung.</s>",
+            "score": 0.04725726693868637,
+            "token": 225742,
+            "token_str": "▁Beschäftigung"
+        },
+        {
+            "sequence": "<s> Die Kinder finden eine Freude.</s>",
+            "score": 0.04364101588726044,
+            "token": 86207,
+            "token_str": "▁Freude"
+        },
+        {
+            "sequence": "<s> Die Kinder finden eine Menge.</s>",
+            "score": 0.04141838103532791,
+            "token": 35809,
+            "token_str": "▁Menge"
+        }
+    ],
+    "Eine Lösung finden die Kinder .": [
+        {
+            "sequence": "<s> Eine Lösung finden die Kinder.</s>",
+            "score": 0.10468947142362595,
+            "token": 69565,
+            "token_str": "▁Lösung"
+        },
+        {
+            "sequence": "<s> Eine Überraschung finden die Kinder.</s>",
+            "score": 0.06586707383394241,
+            "token": 204305,
+            "token_str": "▁Überraschung"
+        },
+        {
+            "sequence": "<s> Eine Herausforderung finden die Kinder.</s>",
+            "score": 0.056133151054382324,
+            "token": 99620,
+            "token_str": "▁Herausforderung"
+        },
+        {
+            "sequence": "<s> Eine Beschäftigung finden die Kinder.</s>",
+            "score": 0.04473806172609329,
+            "token": 225742,
+            "token_str": "▁Beschäftigung"
+        },
+        {
+            "sequence": "<s> Eine Menge finden die Kinder.</s>",
+            "score": 0.031311288475990295,
+            "token": 35809,
+            "token_str": "▁Menge"
+        }
+    ],
+    "Deshalb finden die Kinder eine Lösung .": [
+        {
+            "sequence": "<s> Deshalb finden die Kinder eine tolle.</s>",
+            "score": 0.09456232190132141,
+            "token": 56441,
+            "token_str": "▁tolle"
+        },
+        {
+            "sequence": "<s> Deshalb finden die Kinder eine Menge.</s>",
+            "score": 0.06240491196513176,
+            "token": 35809,
+            "token_str": "▁Menge"
+        },
+        {
+            "sequence": "<s> Deshalb finden die Kinder eine Lösung.</s>",
+            "score": 0.0459846667945385,
+            "token": 69565,
+            "token_str": "▁Lösung"
+        },
+        {
+            "sequence": "<s> Deshalb finden die Kinder eine schöne.</s>",
+            "score": 0.04309753701090813,
+            "token": 47622,
+            "token_str": "▁schöne"
+        },
+        {
+            "sequence": "<s> Deshalb finden die Kinder eine gute.</s>",
+            "score": 0.03795184567570686,
+            "token": 25989,
+            "token_str": "▁gute"
+        }
+    ],
+    "Finden die Kinder eine Lösung ?": [
+        {
+            "sequence": "<s> Finden die Kinder eine Beschäftigung?</s>",
+            "score": 0.19897781312465668,
+            "token": 225742,
+            "token_str": "▁Beschäftigung"
+        },
+        {
+            "sequence": "<s> Finden die Kinder eine Herausforderung?</s>",
+            "score": 0.13832882046699524,
+            "token": 99620,
+            "token_str": "▁Herausforderung"
+        },
+        {
+            "sequence": "<s> Finden die Kinder eine Lösung?</s>",
+            "score": 0.10461941361427307,
+            "token": 69565,
+            "token_str": "▁Lösung"
+        },
+        {
+            "sequence": "<s> Finden die Kinder eine Aufgabe?</s>",
+            "score": 0.043052658438682556,
+            "token": 99211,
+            "token_str": "▁Aufgabe"
+        },
+        {
+            "sequence": "<s> Finden die Kinder eine Rolle?</s>",
+            "score": 0.04232185333967209,
+            "token": 45324,
+            "token_str": "▁Rolle"
+        }
+    ],
+    "Weil die Kinder eine Lösung finden .": [
+        {
+            "sequence": "<s> Weil die Kinder eine Freude finden.</s>",
+            "score": 0.2571276128292084,
+            "token": 86207,
+            "token_str": "▁Freude"
+        },
+        {
+            "sequence": "<s> Weil die Kinder eine Lösung finden.</s>",
+            "score": 0.10337739437818527,
+            "token": 69565,
+            "token_str": "▁Lösung"
+        },
+        {
+            "sequence": "<s> Weil die Kinder eine Herausforderung finden.</s>",
+            "score": 0.08960707485675812,
+            "token": 99620,
+            "token_str": "▁Herausforderung"
+        },
+        {
+            "sequence": "<s> Weil die Kinder eine Heimat finden.</s>",
+            "score": 0.030886681750416756,
+            "token": 134155,
+            "token_str": "▁Heimat"
+        },
+        {
+            "sequence": "<s> Weil die Kinder eine Geschichte finden.</s>",
+            "score": 0.024706870317459106,
+            "token": 27777,
+            "token_str": "▁Geschichte"
+        }
+    ],
+    "Der Leser abonniert eine Zeitschrift .": [
+        {
+            "sequence": "<s> Der Leser abonniert eine Zeitschrift.</s>",
+            "score": 0.2832554280757904,
+            "token": 218107,
+            "token_str": "▁Zeitschrift"
+        },
+        {
+            "sequence": "<s> Der Leser abonniert eine Zeitung.</s>",
+            "score": 0.2246246337890625,
+            "token": 108365,
+            "token_str": "▁Zeitung"
+        },
+        {
+            "sequence": "<s> Der Leser abonniert eine Seite.</s>",
+            "score": 0.05885603278875351,
+            "token": 18877,
+            "token_str": "▁Seite"
+        },
+        {
+            "sequence": "<s> Der Leser abonniert eine Website.</s>",
+            "score": 0.038561347872018814,
+            "token": 14737,
+            "token_str": "▁Website"
+        },
+        {
+            "sequence": "<s> Der Leser abonniert eine Newsletter.</s>",
+            "score": 0.033087108284235,
+            "token": 55373,
+            "token_str": "▁Newsletter"
+        }
+    ],
+    "Eine Zeitschrift abonniert der Leser .": [
+        {
+            "sequence": "<s> Eine Zeitung abonniert der Leser.</s>",
+            "score": 0.2224191129207611,
+            "token": 108365,
+            "token_str": "▁Zeitung"
+        },
+        {
+            "sequence": "<s> Eine Seite abonniert der Leser.</s>",
+            "score": 0.1647138148546219,
+            "token": 18877,
+            "token_str": "▁Seite"
+        },
+        {
+            "sequence": "<s> Eine Zeitschrift abonniert der Leser.</s>",
+            "score": 0.1292399913072586,
+            "token": 218107,
+            "token_str": "▁Zeitschrift"
+        },
+        {
+            "sequence": "<s> Eine Woche abonniert der Leser.</s>",
+            "score": 0.1117088794708252,
+            "token": 34075,
+            "token_str": "▁Woche"
+        },
+        {
+            "sequence": "<s> Eine Website abonniert der Leser.</s>",
+            "score": 0.04584837704896927,
+            "token": 14737,
+            "token_str": "▁Website"
+        }
+    ],
+    "Deshalb abonniert der Leser eine Zeitschrift .": [
+        {
+            "sequence": "<s> Deshalb abonniert der Leser eine Zeitung.</s>",
+            "score": 0.4658444821834564,
+            "token": 108365,
+            "token_str": "▁Zeitung"
+        },
+        {
+            "sequence": "<s> Deshalb abonniert der Leser eine Zeitschrift.</s>",
+            "score": 0.39784732460975647,
+            "token": 218107,
+            "token_str": "▁Zeitschrift"
+        },
+        {
+            "sequence": "<s> Deshalb abonniert der Leser eine Website.</s>",
+            "score": 0.011780454777181149,
+            "token": 14737,
+            "token_str": "▁Website"
+        },
+        {
+            "sequence": "<s> Deshalb abonniert der Leser eine Woche.</s>",
+            "score": 0.008152365684509277,
+            "token": 34075,
+            "token_str": "▁Woche"
+        },
+        {
+            "sequence": "<s> Deshalb abonniert der Leser eine Seite.</s>",
+            "score": 0.006248108576983213,
+            "token": 18877,
+            "token_str": "▁Seite"
+        }
+    ],
+    "Abonniert der Leser eine Zeitschrift ?": [
+        {
+            "sequence": "<s> Abonniert der Leser eine Zeitschrift?</s>",
+            "score": 0.5277917981147766,
+            "token": 218107,
+            "token_str": "▁Zeitschrift"
+        },
+        {
+            "sequence": "<s> Abonniert der Leser eine Zeitung?</s>",
+            "score": 0.422789067029953,
+            "token": 108365,
+            "token_str": "▁Zeitung"
+        },
+        {
+            "sequence": "<s> Abonniert der Leser eine Seite?</s>",
+            "score": 0.011138061992824078,
+            "token": 18877,
+            "token_str": "▁Seite"
+        },
+        {
+            "sequence": "<s> Abonniert der Leser eine Website?</s>",
+            "score": 0.008932494558393955,
+            "token": 14737,
+            "token_str": "▁Website"
+        },
+        {
+            "sequence": "<s> Abonniert der Leser eine Webseite?</s>",
+            "score": 0.004945200867950916,
+            "token": 63798,
+            "token_str": "▁Webseite"
+        }
+    ],
+    "Weil der Leser eine Zeitschrift abonniert .": [
+        {
+            "sequence": "<s> Weil der Leser eine Zeitschrift abonniert.</s>",
+            "score": 0.49010398983955383,
+            "token": 218107,
+            "token_str": "▁Zeitschrift"
+        },
+        {
+            "sequence": "<s> Weil der Leser eine Zeitung abonniert.</s>",
+            "score": 0.3483640253543854,
+            "token": 108365,
+            "token_str": "▁Zeitung"
+        },
+        {
+            "sequence": "<s> Weil der Leser eine Seite abonniert.</s>",
+            "score": 0.01384015753865242,
+            "token": 18877,
+            "token_str": "▁Seite"
+        },
+        {
+            "sequence": "<s> Weil der Leser eine Woche abonniert.</s>",
+            "score": 0.012766989879310131,
+            "token": 34075,
+            "token_str": "▁Woche"
+        },
+        {
+            "sequence": "<s> Weil der Leser eine Website abonniert.</s>",
+            "score": 0.011440064758062363,
+            "token": 14737,
+            "token_str": "▁Website"
+        }
+    ],
+    "Der Herr rasiert einen Bart .": [
+        {
+            "sequence": "<s> Der Herr rasiert einen Mann.</s>",
+            "score": 0.20522402226924896,
+            "token": 14912,
+            "token_str": "▁Mann"
+        },
+        {
+            "sequence": "<s> Der Herr rasiert einen Menschen.</s>",
+            "score": 0.058575138449668884,
+            "token": 7906,
+            "token_str": "▁Menschen"
+        },
+        {
+            "sequence": "<s> Der Herr rasiert einen Kopf.</s>",
+            "score": 0.051802925765514374,
+            "token": 58034,
+            "token_str": "▁Kopf"
+        },
+        {
+            "sequence": "<s> Der Herr rasiert einen nicht.</s>",
+            "score": 0.025088701397180557,
+            "token": 749,
+            "token_str": "▁nicht"
+        },
+        {
+            "sequence": "<s> Der Herr rasiert einen Hund.</s>",
+            "score": 0.020616944879293442,
+            "token": 49083,
+            "token_str": "▁Hund"
+        }
+    ],
+    "Einen Bart rasiert der Herr .": [
+        {
+            "sequence": "<s> Einen Baum rasiert der Herr.</s>",
+            "score": 0.07840071618556976,
+            "token": 142104,
+            "token_str": "▁Baum"
+        },
+        {
+            "sequence": "<s> Einen Mann rasiert der Herr.</s>",
+            "score": 0.06505650281906128,
+            "token": 14912,
+            "token_str": "▁Mann"
+        },
+        {
+            "sequence": "<s> Einen Stein rasiert der Herr.</s>",
+            "score": 0.03436197340488434,
+            "token": 27822,
+            "token_str": "▁Stein"
+        },
+        {
+            "sequence": "<s> Einen Stamm rasiert der Herr.</s>",
+            "score": 0.03376014158129692,
+            "token": 203329,
+            "token_str": "▁Stamm"
+        },
+        {
+            "sequence": "<s> Einen Tag rasiert der Herr.</s>",
+            "score": 0.031954072415828705,
+            "token": 4837,
+            "token_str": "▁Tag"
+        }
+    ],
+    "Deshalb rasiert der Herr einen Bart .": [
+        {
+            "sequence": "<s> Deshalb rasiert der Herr einen Mann.</s>",
+            "score": 0.3564035892486572,
+            "token": 14912,
+            "token_str": "▁Mann"
+        },
+        {
+            "sequence": "<s> Deshalb rasiert der Herr einen Menschen.</s>",
+            "score": 0.12216466665267944,
+            "token": 7906,
+            "token_str": "▁Menschen"
+        },
+        {
+            "sequence": "<s> Deshalb rasiert der Herr einen Kopf.</s>",
+            "score": 0.04425624758005142,
+            "token": 58034,
+            "token_str": "▁Kopf"
+        },
+        {
+            "sequence": "<s> Deshalb rasiert der Herr einen Hund.</s>",
+            "score": 0.029087577015161514,
+            "token": 49083,
+            "token_str": "▁Hund"
+        },
+        {
+            "sequence": "<s> Deshalb rasiert der Herr einen Baum.</s>",
+            "score": 0.026492826640605927,
+            "token": 142104,
+            "token_str": "▁Baum"
+        }
+    ],
+    "Rasiert der Herr einen Bart ?": [
+        {
+            "sequence": "<s> Rasiert der Herr einen Menschen?</s>",
+            "score": 0.28085848689079285,
+            "token": 7906,
+            "token_str": "▁Menschen"
+        },
+        {
+            "sequence": "<s> Rasiert der Herr einen Hund?</s>",
+            "score": 0.19682995975017548,
+            "token": 49083,
+            "token_str": "▁Hund"
+        },
+        {
+            "sequence": "<s> Rasiert der Herr einen Mann?</s>",
+            "score": 0.06696393340826035,
+            "token": 14912,
+            "token_str": "▁Mann"
+        },
+        {
+            "sequence": "<s> Rasiert der Herr einen Kopf?</s>",
+            "score": 0.061508659273386,
+            "token": 58034,
+            "token_str": "▁Kopf"
+        },
+        {
+            "sequence": "<s> Rasiert der Herr einen Baum?</s>",
+            "score": 0.06124923378229141,
+            "token": 142104,
+            "token_str": "▁Baum"
+        }
+    ],
+    "Weil der Herr einen Bart rasiert .": [
+        {
+            "sequence": "<s> Weil der Herr einen Mann rasiert.</s>",
+            "score": 0.14559175074100494,
+            "token": 14912,
+            "token_str": "▁Mann"
+        },
+        {
+            "sequence": "<s> Weil der Herr einen nicht rasiert.</s>",
+            "score": 0.10881838202476501,
+            "token": 749,
+            "token_str": "▁nicht"
+        },
+        {
+            "sequence": "<s> Weil der Herr einen Menschen rasiert.</s>",
+            "score": 0.0713520422577858,
+            "token": 7906,
+            "token_str": "▁Menschen"
+        },
+        {
+            "sequence": "<s> Weil der Herr einen Kopf rasiert.</s>",
+            "score": 0.05269484966993332,
+            "token": 58034,
+            "token_str": "▁Kopf"
+        },
+        {
+            "sequence": "<s> Weil der Herr einen Baum rasiert.</s>",
+            "score": 0.02100290358066559,
+            "token": 142104,
+            "token_str": "▁Baum"
+        }
+    ],
+    "Die Mamas trinken einen Kaffee .": [
+        {
+            "sequence": "<s> Die Mamas trinken einen Kaffee.</s>",
+            "score": 0.5630256533622742,
+            "token": 98218,
+            "token_str": "▁Kaffee"
+        },
+        {
+            "sequence": "<s> Die Mamas trinken einen Tee.</s>",
+            "score": 0.1491459757089615,
+            "token": 51026,
+            "token_str": "▁Tee"
+        },
+        {
+            "sequence": "<s> Die Mamas trinken einen Drink.</s>",
+            "score": 0.052945639938116074,
+            "token": 167905,
+            "token_str": "▁Drink"
+        },
+        {
+            "sequence": "<s> Die Mamas trinken einen Cocktail.</s>",
+            "score": 0.042726799845695496,
+            "token": 214427,
+            "token_str": "▁Cocktail"
+        },
+        {
+            "sequence": "<s> Die Mamas trinken einen Wein.</s>",
+            "score": 0.02065439522266388,
+            "token": 61628,
+            "token_str": "▁Wein"
+        }
+    ],
+    "Einen Kaffee trinken die Mamas .": [
+        {
+            "sequence": "<s> Einen Kaffee trinken die Mamas.</s>",
+            "score": 0.7711477875709534,
+            "token": 98218,
+            "token_str": "▁Kaffee"
+        },
+        {
+            "sequence": "<s> Einen Tee trinken die Mamas.</s>",
+            "score": 0.15744824707508087,
+            "token": 51026,
+            "token_str": "▁Tee"
+        },
+        {
+            "sequence": "<s> Einen Drink trinken die Mamas.</s>",
+            "score": 0.01452141348272562,
+            "token": 167905,
+            "token_str": "▁Drink"
+        },
+        {
+            "sequence": "<s> Einen Espresso trinken die Mamas.</s>",
+            "score": 0.010925978422164917,
+            "token": 240751,
+            "token_str": "▁Espresso"
+        },
+        {
+            "sequence": "<s> Einen Wein trinken die Mamas.</s>",
+            "score": 0.010689746588468552,
+            "token": 61628,
+            "token_str": "▁Wein"
+        }
+    ],
+    "Deshalb trinken die Mamas einen Kaffee .": [
+        {
+            "sequence": "<s> Deshalb trinken die Mamas einen Kaffee.</s>",
+            "score": 0.5032861232757568,
+            "token": 98218,
+            "token_str": "▁Kaffee"
+        },
+        {
+            "sequence": "<s> Deshalb trinken die Mamas einen Tee.</s>",
+            "score": 0.34517425298690796,
+            "token": 51026,
+            "token_str": "▁Tee"
+        },
+        {
+            "sequence": "<s> Deshalb trinken die Mamas einen Liter.</s>",
+            "score": 0.02914406731724739,
+            "token": 104578,
+            "token_str": "▁Liter"
+        },
+        {
+            "sequence": "<s> Deshalb trinken die Mamas einen Cocktail.</s>",
+            "score": 0.02617824263870716,
+            "token": 214427,
+            "token_str": "▁Cocktail"
+        },
+        {
+            "sequence": "<s> Deshalb trinken die Mamas einen Drink.</s>",
+            "score": 0.02109314501285553,
+            "token": 167905,
+            "token_str": "▁Drink"
+        }
+    ],
+    "Trinken die Mamas einen Kaffee ?": [
+        {
+            "sequence": "<s> Trinken die Mamas einen Kaffee?</s>",
+            "score": 0.5860175490379333,
+            "token": 98218,
+            "token_str": "▁Kaffee"
+        },
+        {
+            "sequence": "<s> Trinken die Mamas einen Tee?</s>",
+            "score": 0.3423769176006317,
+            "token": 51026,
+            "token_str": "▁Tee"
+        },
+        {
+            "sequence": "<s> Trinken die Mamas einen Cocktail?</s>",
+            "score": 0.022321075201034546,
+            "token": 214427,
+            "token_str": "▁Cocktail"
+        },
+        {
+            "sequence": "<s> Trinken die Mamas einen Drink?</s>",
+            "score": 0.020905213430523872,
+            "token": 167905,
+            "token_str": "▁Drink"
+        },
+        {
+            "sequence": "<s> Trinken die Mamas einen Espresso?</s>",
+            "score": 0.008604786358773708,
+            "token": 240751,
+            "token_str": "▁Espresso"
+        }
+    ],
+    "Weil die Mamas einen Kaffee trinken .": [
+        {
+            "sequence": "<s> Weil die Mamas einen Kaffee trinken.</s>",
+            "score": 0.5355043411254883,
+            "token": 98218,
+            "token_str": "▁Kaffee"
+        },
+        {
+            "sequence": "<s> Weil die Mamas einen Tee trinken.</s>",
+            "score": 0.34067174792289734,
+            "token": 51026,
+            "token_str": "▁Tee"
+        },
+        {
+            "sequence": "<s> Weil die Mamas einen Wein trinken.</s>",
+            "score": 0.043476756662130356,
+            "token": 61628,
+            "token_str": "▁Wein"
+        },
+        {
+            "sequence": "<s> Weil die Mamas einen Bier trinken.</s>",
+            "score": 0.012719725258648396,
+            "token": 101663,
+            "token_str": "▁Bier"
+        },
+        {
+            "sequence": "<s> Weil die Mamas einen Drink trinken.</s>",
+            "score": 0.010654112324118614,
+            "token": 167905,
+            "token_str": "▁Drink"
+        }
+    ],
+    "Der Schriftsteller schreibt einen Roman .": [
+        {
+            "sequence": "<s> Der Schriftsteller schreibt einen Roman.</s>",
+            "score": 0.45196014642715454,
+            "token": 12610,
+            "token_str": "▁Roman"
+        },
+        {
+            "sequence": "<s> Der Schriftsteller schreibt einen Brief.</s>",
+            "score": 0.13348250091075897,
+            "token": 101936,
+            "token_str": "▁Brief"
+        },
+        {
+            "sequence": "<s> Der Schriftsteller schreibt einen Essay.</s>",
+            "score": 0.03889574483036995,
+            "token": 155057,
+            "token_str": "▁Essay"
+        },
+        {
+            "sequence": "<s> Der Schriftsteller schreibt einen Artikel.</s>",
+            "score": 0.03867632523179054,
+            "token": 15387,
+            "token_str": "▁Artikel"
+        },
+        {
+            "sequence": "<s> Der Schriftsteller schreibt einen Text.</s>",
+            "score": 0.035648245364427567,
+            "token": 24129,
+            "token_str": "▁Text"
+        }
+    ],
+    "Einen Roman schreibt der Schriftsteller .": [
+        {
+            "sequence": "<s> Einen Roman schreibt der Schriftsteller.</s>",
+            "score": 0.29781419038772583,
+            "token": 12610,
+            "token_str": "▁Roman"
+        },
+        {
+            "sequence": "<s> Einen Brief schreibt der Schriftsteller.</s>",
+            "score": 0.13014261424541473,
+            "token": 101936,
+            "token_str": "▁Brief"
+        },
+        {
+            "sequence": "<s> Einen Satz schreibt der Schriftsteller.</s>",
+            "score": 0.10412153601646423,
+            "token": 114480,
+            "token_str": "▁Satz"
+        },
+        {
+            "sequence": "<s> Einen Text schreibt der Schriftsteller.</s>",
+            "score": 0.06536272168159485,
+            "token": 24129,
+            "token_str": "▁Text"
+        },
+        {
+            "sequence": "<s> Einen Artikel schreibt der Schriftsteller.</s>",
+            "score": 0.04113280400633812,
+            "token": 15387,
+            "token_str": "▁Artikel"
+        }
+    ],
+    "Deshalb schreibt der Schriftsteller einen Roman .": [
+        {
+            "sequence": "<s> Deshalb schreibt der Schriftsteller einen Roman.</s>",
+            "score": 0.6363641619682312,
+            "token": 12610,
+            "token_str": "▁Roman"
+        },
+        {
+            "sequence": "<s> Deshalb schreibt der Schriftsteller einen Thriller.</s>",
+            "score": 0.04978954419493675,
+            "token": 237110,
+            "token_str": "▁Thriller"
+        },
+        {
+            "sequence": "<s> Deshalb schreibt der Schriftsteller einen Brief.</s>",
+            "score": 0.04265342652797699,
+            "token": 101936,
+            "token_str": "▁Brief"
+        },
+        {
+            "sequence": "<s> Deshalb schreibt der Schriftsteller einen Essay.</s>",
+            "score": 0.03179348632693291,
+            "token": 155057,
+            "token_str": "▁Essay"
+        },
+        {
+            "sequence": "<s> Deshalb schreibt der Schriftsteller einen Film.</s>",
+            "score": 0.022887760773301125,
+            "token": 3847,
+            "token_str": "▁Film"
+        }
+    ],
+    "Schreibt der Schriftsteller einen Roman ?": [
+        {
+            "sequence": "<s> Schreibt der Schriftsteller einen Roman?</s>",
+            "score": 0.9082364439964294,
+            "token": 12610,
+            "token_str": "▁Roman"
+        },
+        {
+            "sequence": "<s> Schreibt der Schriftsteller einen Essay?</s>",
+            "score": 0.020632967352867126,
+            "token": 155057,
+            "token_str": "▁Essay"
+        },
+        {
+            "sequence": "<s> Schreibt der Schriftsteller einen Brief?</s>",
+            "score": 0.020487245172262192,
+            "token": 101936,
+            "token_str": "▁Brief"
+        },
+        {
+            "sequence": "<s> Schreibt der Schriftsteller einen Thriller?</s>",
+            "score": 0.00823975820094347,
+            "token": 237110,
+            "token_str": "▁Thriller"
+        },
+        {
+            "sequence": "<s> Schreibt der Schriftsteller einen Satz?</s>",
+            "score": 0.006753657013177872,
+            "token": 114480,
+            "token_str": "▁Satz"
+        }
+    ],
+    "Weil der Schriftsteller einen Roman schreibt .": [
+        {
+            "sequence": "<s> Weil der Schriftsteller einen Roman schreibt.</s>",
+            "score": 0.5507999062538147,
+            "token": 12610,
+            "token_str": "▁Roman"
+        },
+        {
+            "sequence": "<s> Weil der Schriftsteller einen Brief schreibt.</s>",
+            "score": 0.12621355056762695,
+            "token": 101936,
+            "token_str": "▁Brief"
+        },
+        {
+            "sequence": "<s> Weil der Schriftsteller einen Text schreibt.</s>",
+            "score": 0.052529606968164444,
+            "token": 24129,
+            "token_str": "▁Text"
+        },
+        {
+            "sequence": "<s> Weil der Schriftsteller einen Satz schreibt.</s>",
+            "score": 0.04665863886475563,
+            "token": 114480,
+            "token_str": "▁Satz"
+        },
+        {
+            "sequence": "<s> Weil der Schriftsteller einen Film schreibt.</s>",
+            "score": 0.029866596683859825,
+            "token": 3847,
+            "token_str": "▁Film"
+        }
+    ],
+    "Der Politiker beendet eine Rede .": [
+        {
+            "sequence": "<s> Der Politiker beendet eine Karriere.</s>",
+            "score": 0.09056199342012405,
+            "token": 159831,
+            "token_str": "▁Karriere"
+        },
+        {
+            "sequence": "<s> Der Politiker beendet eine Diskussion.</s>",
+            "score": 0.04370146617293358,
+            "token": 104357,
+            "token_str": "▁Diskussion"
+        },
+        {
+            "sequence": "<s> Der Politiker beendet eine Reise.</s>",
+            "score": 0.026627488434314728,
+            "token": 26676,
+            "token_str": "▁Reise"
+        },
+        {
+            "sequence": "<s> Der Politiker beendet eine Sitzung.</s>",
+            "score": 0.02239968068897724,
+            "token": 192478,
+            "token_str": "▁Sitzung"
+        },
+        {
+            "sequence": "<s> Der Politiker beendet eine Geschichte.</s>",
+            "score": 0.021660054102540016,
+            "token": 27777,
+            "token_str": "▁Geschichte"
+        }
+    ],
+    "Eine Rede beendet der Politiker .": [
+        {
+            "sequence": "<s> Eine Woche beendet der Politiker.</s>",
+            "score": 0.1487087607383728,
+            "token": 34075,
+            "token_str": "▁Woche"
+        },
+        {
+            "sequence": "<s> Eine Frage beendet der Politiker.</s>",
+            "score": 0.036965735256671906,
+            "token": 21797,
+            "token_str": "▁Frage"
+        },
+        {
+            "sequence": "<s> Eine Sitzung beendet der Politiker.</s>",
+            "score": 0.028070710599422455,
+            "token": 192478,
+            "token_str": "▁Sitzung"
+        },
+        {
+            "sequence": "<s> Eine Studie beendet der Politiker.</s>",
+            "score": 0.02772526815533638,
+            "token": 60716,
+            "token_str": "▁Studie"
+        },
+        {
+            "sequence": "<s> Eine Liste beendet der Politiker.</s>",
+            "score": 0.024642061442136765,
+            "token": 47969,
+            "token_str": "▁Liste"
+        }
+    ],
+    "Deshalb beendet der Politiker eine Rede .": [
+        {
+            "sequence": "<s> Deshalb beendet der Politiker eine Diskussion.</s>",
+            "score": 0.08622130006551743,
+            "token": 104357,
+            "token_str": "▁Diskussion"
+        },
+        {
+            "sequence": "<s> Deshalb beendet der Politiker eine Sitzung.</s>",
+            "score": 0.04584474489092827,
+            "token": 192478,
+            "token_str": "▁Sitzung"
+        },
+        {
+            "sequence": "<s> Deshalb beendet der Politiker eine Karriere.</s>",
+            "score": 0.040575310587882996,
+            "token": 159831,
+            "token_str": "▁Karriere"
+        },
+        {
+            "sequence": "<s> Deshalb beendet der Politiker eine Ausbildung.</s>",
+            "score": 0.0373600572347641,
+            "token": 54966,
+            "token_str": "▁Ausbildung"
+        },
+        {
+            "sequence": "<s> Deshalb beendet der Politiker eine Umfrage.</s>",
+            "score": 0.03592867776751518,
+            "token": 216068,
+            "token_str": "▁Umfrage"
+        }
+    ],
+    "Beendet der Politiker eine Rede ?": [
+        {
+            "sequence": "<s> Beendet der Politiker eine Karriere?</s>",
+            "score": 0.2792125642299652,
+            "token": 159831,
+            "token_str": "▁Karriere"
+        },
+        {
+            "sequence": "<s> Beendet der Politiker eine Beziehung?</s>",
+            "score": 0.11761651933193207,
+            "token": 93577,
+            "token_str": "▁Beziehung"
+        },
+        {
+            "sequence": "<s> Beendet der Politiker eine Partei?</s>",
+            "score": 0.07142733782529831,
+            "token": 87453,
+            "token_str": "▁Partei"
+        },
+        {
+            "sequence": "<s> Beendet der Politiker eine Diskussion?</s>",
+            "score": 0.06864934414625168,
+            "token": 104357,
+            "token_str": "▁Diskussion"
+        },
+        {
+            "sequence": "<s> Beendet der Politiker eine Politik?</s>",
+            "score": 0.058941975235939026,
+            "token": 24582,
+            "token_str": "▁Politik"
+        }
+    ],
+    "Weil der Politiker eine Rede beendet .": [
+        {
+            "sequence": "<s> Weil der Politiker eine Karriere beendet.</s>",
+            "score": 0.0644020065665245,
+            "token": 159831,
+            "token_str": "▁Karriere"
+        },
+        {
+            "sequence": "<s> Weil der Politiker eine Beziehung beendet.</s>",
+            "score": 0.06299803406000137,
+            "token": 93577,
+            "token_str": "▁Beziehung"
+        },
+        {
+            "sequence": "<s> Weil der Politiker eine Diskussion beendet.</s>",
+            "score": 0.060397010296583176,
+            "token": 104357,
+            "token_str": "▁Diskussion"
+        },
+        {
+            "sequence": "<s> Weil der Politiker eine Ehe beendet.</s>",
+            "score": 0.05328797549009323,
+            "token": 111208,
+            "token_str": "▁Ehe"
+        },
+        {
+            "sequence": "<s> Weil der Politiker eine Geschichte beendet.</s>",
+            "score": 0.03669053688645363,
+            "token": 27777,
+            "token_str": "▁Geschichte"
+        }
+    ],
+    "Die Abgeordneten bekommen ein Grundgehalt .": [
+        {
+            "sequence": "<s> Die Abgeordneten bekommen ein Angebot.</s>",
+            "score": 0.06811131536960602,
+            "token": 33933,
+            "token_str": "▁Angebot"
+        },
+        {
+            "sequence": "<s> Die Abgeordneten bekommen ein Geschenk.</s>",
+            "score": 0.06272051483392715,
+            "token": 108320,
+            "token_str": "▁Geschenk"
+        },
+        {
+            "sequence": "<s> Die Abgeordneten bekommen ein Gesicht.</s>",
+            "score": 0.034205175936222076,
+            "token": 100361,
+            "token_str": "▁Gesicht"
+        },
+        {
+            "sequence": "<s> Die Abgeordneten bekommen ein Interview.</s>",
+            "score": 0.03056485950946808,
+            "token": 79265,
+            "token_str": "▁Interview"
+        },
+        {
+            "sequence": "<s> Die Abgeordneten bekommen ein Wort.</s>",
+            "score": 0.026351571083068848,
+            "token": 55961,
+            "token_str": "▁Wort"
+        }
+    ],
+    "Ein Grundgehalt bekommen die Abgeordneten .": [
+        {
+            "sequence": "<s> Ein Angebot bekommen die Abgeordneten.</s>",
+            "score": 0.05679329112172127,
+            "token": 33933,
+            "token_str": "▁Angebot"
+        },
+        {
+            "sequence": "<s> Ein Wort bekommen die Abgeordneten.</s>",
+            "score": 0.05393536016345024,
+            "token": 55961,
+            "token_str": "▁Wort"
+        },
+        {
+            "sequence": "<s> Ein Bild bekommen die Abgeordneten.</s>",
+            "score": 0.04019603878259659,
+            "token": 17189,
+            "token_str": "▁Bild"
+        },
+        {
+            "sequence": "<s> Ein Jahr bekommen die Abgeordneten.</s>",
+            "score": 0.03739500790834427,
+            "token": 7418,
+            "token_str": "▁Jahr"
+        },
+        {
+            "sequence": "<s> Ein Gespräch bekommen die Abgeordneten.</s>",
+            "score": 0.032520219683647156,
+            "token": 64225,
+            "token_str": "▁Gespräch"
+        }
+    ],
+    "Deshalb bekommen die Abgeordneten ein Grundgehalt .": [
+        {
+            "sequence": "<s> Deshalb bekommen die Abgeordneten ein Geld.</s>",
+            "score": 0.0645829439163208,
+            "token": 18733,
+            "token_str": "▁Geld"
+        },
+        {
+            "sequence": "<s> Deshalb bekommen die Abgeordneten ein Geschenk.</s>",
+            "score": 0.04741166532039642,
+            "token": 108320,
+            "token_str": "▁Geschenk"
+        },
+        {
+            "sequence": "<s> Deshalb bekommen die Abgeordneten ein Problem.</s>",
+            "score": 0.041971731930971146,
+            "token": 15649,
+            "token_str": "▁Problem"
+        },
+        {
+            "sequence": "<s> Deshalb bekommen die Abgeordneten ein Angebot.</s>",
+            "score": 0.039297256618738174,
+            "token": 33933,
+            "token_str": "▁Angebot"
+        },
+        {
+            "sequence": "<s> Deshalb bekommen die Abgeordneten ein Ticket.</s>",
+            "score": 0.023068906739354134,
+            "token": 80304,
+            "token_str": "▁Ticket"
+        }
+    ],
+    "Bekommen die Abgeordneten ein Grundgehalt ?": [
+        {
+            "sequence": "<s> Bekommen die Abgeordneten ein Budget?</s>",
+            "score": 0.09851475059986115,
+            "token": 95457,
+            "token_str": "▁Budget"
+        },
+        {
+            "sequence": "<s> Bekommen die Abgeordneten ein Geld?</s>",
+            "score": 0.06783092767000198,
+            "token": 18733,
+            "token_str": "▁Geld"
+        },
+        {
+            "sequence": "<s> Bekommen die Abgeordneten ein Einkommen?</s>",
+            "score": 0.04505433142185211,
+            "token": 171268,
+            "token_str": "▁Einkommen"
+        },
+        {
+            "sequence": "<s> Bekommen die Abgeordneten ein Geschenk?</s>",
+            "score": 0.04063570871949196,
+            "token": 108320,
+            "token_str": "▁Geschenk"
+        },
+        {
+            "sequence": "<s> Bekommen die Abgeordneten ein Angebot?</s>",
+            "score": 0.03943674638867378,
+            "token": 33933,
+            "token_str": "▁Angebot"
+        }
+    ],
+    "Weil die Abgeordneten ein Grundgehalt bekommen .": [
+        {
+            "sequence": "<s> Weil die Abgeordneten ein Problem bekommen.</s>",
+            "score": 0.07417728006839752,
+            "token": 15649,
+            "token_str": "▁Problem"
+        },
+        {
+            "sequence": "<s> Weil die Abgeordneten ein Geschenk bekommen.</s>",
+            "score": 0.07248689234256744,
+            "token": 108320,
+            "token_str": "▁Geschenk"
+        },
+        {
+            "sequence": "<s> Weil die Abgeordneten ein Gesicht bekommen.</s>",
+            "score": 0.05694468319416046,
+            "token": 100361,
+            "token_str": "▁Gesicht"
+        },
+        {
+            "sequence": "<s> Weil die Abgeordneten ein Geld bekommen.</s>",
+            "score": 0.04616132378578186,
+            "token": 18733,
+            "token_str": "▁Geld"
+        },
+        {
+            "sequence": "<s> Weil die Abgeordneten ein Angebot bekommen.</s>",
+            "score": 0.03836321085691452,
+            "token": 33933,
+            "token_str": "▁Angebot"
+        }
+    ],
+    "Der Kleinbauer zieht einen Bauzaun .": [
+        {
+            "sequence": "<s> Der Kleinbauer zieht einen Kreis.</s>",
+            "score": 0.26503080129623413,
+            "token": 92560,
+            "token_str": "▁Kreis"
+        },
+        {
+            "sequence": "<s> Der Kleinbauer zieht einen Vergleich.</s>",
+            "score": 0.10600792616605759,
+            "token": 76734,
+            "token_str": "▁Vergleich"
+        },
+        {
+            "sequence": "<s> Der Kleinbauer zieht einen Hut.</s>",
+            "score": 0.04190661758184433,
+            "token": 97595,
+            "token_str": "▁Hut"
+        },
+        {
+            "sequence": "<s> Der Kleinbauer zieht einen Zug.</s>",
+            "score": 0.03942397981882095,
+            "token": 96309,
+            "token_str": "▁Zug"
+        },
+        {
+            "sequence": "<s> Der Kleinbauer zieht einen Überblick.</s>",
+            "score": 0.02586730755865574,
+            "token": 131385,
+            "token_str": "▁Überblick"
+        }
+    ],
+    "Einen Bauzaun zieht der Kleinbauer .": [
+        {
+            "sequence": "<s> Einen Kreis zieht der Kleinbauer.</s>",
+            "score": 0.41086387634277344,
+            "token": 92560,
+            "token_str": "▁Kreis"
+        },
+        {
+            "sequence": "<s> Einen Vergleich zieht der Kleinbauer.</s>",
+            "score": 0.1386544555425644,
+            "token": 76734,
+            "token_str": "▁Vergleich"
+        },
+        {
+            "sequence": "<s> Einen Zug zieht der Kleinbauer.</s>",
+            "score": 0.04512644186615944,
+            "token": 96309,
+            "token_str": "▁Zug"
+        },
+        {
+            "sequence": "<s> Einen Hut zieht der Kleinbauer.</s>",
+            "score": 0.03339915722608566,
+            "token": 97595,
+            "token_str": "▁Hut"
+        },
+        {
+            "sequence": "<s> Einen Film zieht der Kleinbauer.</s>",
+            "score": 0.0325654111802578,
+            "token": 3847,
+            "token_str": "▁Film"
+        }
+    ],
+    "Deshalb zieht der Kleinbauer einen Bauzaun .": [
+        {
+            "sequence": "<s> Deshalb zieht der Kleinbauer einen Vergleich.</s>",
+            "score": 0.2218700349330902,
+            "token": 76734,
+            "token_str": "▁Vergleich"
+        },
+        {
+            "sequence": "<s> Deshalb zieht der Kleinbauer einen Zug.</s>",
+            "score": 0.10018067806959152,
+            "token": 96309,
+            "token_str": "▁Zug"
+        },
+        {
+            "sequence": "<s> Deshalb zieht der Kleinbauer einen Kreis.</s>",
+            "score": 0.09657426178455353,
+            "token": 92560,
+            "token_str": "▁Kreis"
+        },
+        {
+            "sequence": "<s> Deshalb zieht der Kleinbauer einen Schluss.</s>",
+            "score": 0.04819739609956741,
+            "token": 138643,
+            "token_str": "▁Schluss"
+        },
+        {
+            "sequence": "<s> Deshalb zieht der Kleinbauer einen Betracht.</s>",
+            "score": 0.03821566700935364,
+            "token": 197054,
+            "token_str": "▁Betracht"
+        }
+    ],
+    "Zieht der Kleinbauer einen Bauzaun ?": [
+        {
+            "sequence": "<s> Zieht der Kleinbauer einen Kreis?</s>",
+            "score": 0.2289506494998932,
+            "token": 92560,
+            "token_str": "▁Kreis"
+        },
+        {
+            "sequence": "<s> Zieht der Kleinbauer einen Vergleich?</s>",
+            "score": 0.12885071337223053,
+            "token": 76734,
+            "token_str": "▁Vergleich"
+        },
+        {
+            "sequence": "<s> Zieht der Kleinbauer einen Hut?</s>",
+            "score": 0.06715741753578186,
+            "token": 97595,
+            "token_str": "▁Hut"
+        },
+        {
+            "sequence": "<s> Zieht der Kleinbauer einen Unterschied?</s>",
+            "score": 0.04437970370054245,
+            "token": 109867,
+            "token_str": "▁Unterschied"
+        },
+        {
+            "sequence": "<s> Zieht der Kleinbauer einen Zug?</s>",
+            "score": 0.040673255920410156,
+            "token": 96309,
+            "token_str": "▁Zug"
+        }
+    ],
+    "Weil der Kleinbauer einen Bauzaun zieht .": [
+        {
+            "sequence": "<s> Weil der Kleinbauer einen Kreis zieht.</s>",
+            "score": 0.5785697102546692,
+            "token": 92560,
+            "token_str": "▁Kreis"
+        },
+        {
+            "sequence": "<s> Weil der Kleinbauer einen Zug zieht.</s>",
+            "score": 0.04291517287492752,
+            "token": 96309,
+            "token_str": "▁Zug"
+        },
+        {
+            "sequence": "<s> Weil der Kleinbauer einen Film zieht.</s>",
+            "score": 0.04176286607980728,
+            "token": 3847,
+            "token_str": "▁Film"
+        },
+        {
+            "sequence": "<s> Weil der Kleinbauer einen Hut zieht.</s>",
+            "score": 0.022893505170941353,
+            "token": 97595,
+            "token_str": "▁Hut"
+        },
+        {
+            "sequence": "<s> Weil der Kleinbauer einen Tag zieht.</s>",
+            "score": 0.020287394523620605,
+            "token": 4837,
+            "token_str": "▁Tag"
+        }
+    ],
+    "Die Sportlerinnen gewinnen eine Tour .": [
+        {
+            "sequence": "<s> Die Sportlerinnen gewinnen eine Million.</s>",
+            "score": 0.13437096774578094,
+            "token": 121204,
+            "token_str": "▁Million"
+        },
+        {
+            "sequence": "<s> Die Sportlerinnen gewinnen eine Chance.</s>",
+            "score": 0.06279297173023224,
+            "token": 76710,
+            "token_str": "▁Chance"
+        },
+        {
+            "sequence": "<s> Die Sportlerinnen gewinnen eine Runde.</s>",
+            "score": 0.05963176116347313,
+            "token": 135701,
+            "token_str": "▁Runde"
+        },
+        {
+            "sequence": "<s> Die Sportlerinnen gewinnen eine neue.</s>",
+            "score": 0.036901552230119705,
+            "token": 11157,
+            "token_str": "▁neue"
+        },
+        {
+            "sequence": "<s> Die Sportlerinnen gewinnen eine Woche.</s>",
+            "score": 0.0329136997461319,
+            "token": 34075,
+            "token_str": "▁Woche"
+        }
+    ],
+    "Eine Tour gewinnen die Sportlerinnen .": [
+        {
+            "sequence": "<s> Eine Chance gewinnen die Sportlerinnen.</s>",
+            "score": 0.0712471753358841,
+            "token": 76710,
+            "token_str": "▁Chance"
+        },
+        {
+            "sequence": "<s> Eine Woche gewinnen die Sportlerinnen.</s>",
+            "score": 0.06918353587388992,
+            "token": 34075,
+            "token_str": "▁Woche"
+        },
+        {
+            "sequence": "<s> Eine Million gewinnen die Sportlerinnen.</s>",
+            "score": 0.04668690636754036,
+            "token": 121204,
+            "token_str": "▁Million"
+        },
+        {
+            "sequence": "<s> Eines gewinnen die Sportlerinnen.</s>",
+            "score": 0.03795778378844261,
+            "token": 7,
+            "token_str": "s"
+        },
+        {
+            "sequence": "<s> Eine Stimme gewinnen die Sportlerinnen.</s>",
+            "score": 0.028551658615469933,
+            "token": 111858,
+            "token_str": "▁Stimme"
+        }
+    ],
+    "Deshalb gewinnen die Sportlerinnen eine Tour .": [
+        {
+            "sequence": "<s> Deshalb gewinnen die Sportlerinnen eine Chance.</s>",
+            "score": 0.15801644325256348,
+            "token": 76710,
+            "token_str": "▁Chance"
+        },
+        {
+            "sequence": "<s> Deshalb gewinnen die Sportlerinnen eine Million.</s>",
+            "score": 0.11661273241043091,
+            "token": 121204,
+            "token_str": "▁Million"
+        },
+        {
+            "sequence": "<s> Deshalb gewinnen die Sportlerinnen eine Menge.</s>",
+            "score": 0.06332075595855713,
+            "token": 35809,
+            "token_str": "▁Menge"
+        },
+        {
+            "sequence": "<s> Deshalb gewinnen die Sportlerinnen eine Woche.</s>",
+            "score": 0.025297705084085464,
+            "token": 34075,
+            "token_str": "▁Woche"
+        },
+        {
+            "sequence": "<s> Deshalb gewinnen die Sportlerinnen eine Reise.</s>",
+            "score": 0.02086719311773777,
+            "token": 26676,
+            "token_str": "▁Reise"
+        }
+    ],
+    "Gewinnen die Sportlerinnen eine Tour ?": [
+        {
+            "sequence": "<s> Gewinnen die Sportlerinnen eine Chance?</s>",
+            "score": 0.2646741569042206,
+            "token": 76710,
+            "token_str": "▁Chance"
+        },
+        {
+            "sequence": "<s> Gewinnen die Sportlerinnen eine Million?</s>",
+            "score": 0.09808693826198578,
+            "token": 121204,
+            "token_str": "▁Million"
+        },
+        {
+            "sequence": "<s> Gewinnen die Sportlerinnen eine Reise?</s>",
+            "score": 0.028850791975855827,
+            "token": 26676,
+            "token_str": "▁Reise"
+        },
+        {
+            "sequence": "<s> Gewinnen die Sportlerinnen eine Stimme?</s>",
+            "score": 0.022957326844334602,
+            "token": 111858,
+            "token_str": "▁Stimme"
+        },
+        {
+            "sequence": "<s> Gewinnen die Sportlerinnen eine Stelle?</s>",
+            "score": 0.022133247926831245,
+            "token": 53683,
+            "token_str": "▁Stelle"
+        }
+    ],
+    "Weil die Sportlerinnen eine Tour gewinnen .": [
+        {
+            "sequence": "<s> Weil die Sportlerinnen eine Chance gewinnen.</s>",
+            "score": 0.12697429955005646,
+            "token": 76710,
+            "token_str": "▁Chance"
+        },
+        {
+            "sequence": "<s> Weil die Sportlerinnen eine Reise gewinnen.</s>",
+            "score": 0.06512060761451721,
+            "token": 26676,
+            "token_str": "▁Reise"
+        },
+        {
+            "sequence": "<s> Weil die Sportlerinnen eine Stimme gewinnen.</s>",
+            "score": 0.06253372877836227,
+            "token": 111858,
+            "token_str": "▁Stimme"
+        },
+        {
+            "sequence": "<s> Weil die Sportlerinnen eine Menge gewinnen.</s>",
+            "score": 0.052273210138082504,
+            "token": 35809,
+            "token_str": "▁Menge"
+        },
+        {
+            "sequence": "<s> Weil die Sportlerinnen eine Zeit gewinnen.</s>",
+            "score": 0.029631836339831352,
+            "token": 5502,
+            "token_str": "▁Zeit"
+        }
+    ],
+    "Der Handwerker übernimmt eine Bauausführung .": [
+        {
+            "sequence": "<s> Der Handwerker übernimmt eine Vielzahl.</s>",
+            "score": 0.06646373122930527,
+            "token": 176596,
+            "token_str": "▁Vielzahl"
+        },
+        {
+            "sequence": "<s> Der Handwerker übernimmt eine Arbeit.</s>",
+            "score": 0.05602211505174637,
+            "token": 20053,
+            "token_str": "▁Arbeit"
+        },
+        {
+            "sequence": "<s> Der Handwerker übernimmt eine kleine.</s>",
+            "score": 0.039952829480171204,
+            "token": 13425,
+            "token_str": "▁kleine"
+        },
+        {
+            "sequence": "<s> Der Handwerker übernimmt eine Verantwortung.</s>",
+            "score": 0.036701396107673645,
+            "token": 130629,
+            "token_str": "▁Verantwortung"
+        },
+        {
+            "sequence": "<s> Der Handwerker übernimmt eine Aufgabe.</s>",
+            "score": 0.03511770814657211,
+            "token": 99211,
+            "token_str": "▁Aufgabe"
+        }
+    ],
+    "Eine Bauausführung übernimmt der Handwerker .": [
+        {
+            "sequence": "<s> Eine Haftung übernimmt der Handwerker.</s>",
+            "score": 0.12603989243507385,
+            "token": 183044,
+            "token_str": "▁Haftung"
+        },
+        {
+            "sequence": "<s> Eine Beratung übernimmt der Handwerker.</s>",
+            "score": 0.09271078556776047,
+            "token": 58860,
+            "token_str": "▁Beratung"
+        },
+        {
+            "sequence": "<s> Eine Reparatur übernimmt der Handwerker.</s>",
+            "score": 0.04237231984734535,
+            "token": 230829,
+            "token_str": "▁Reparatur"
+        },
+        {
+            "sequence": "<s> Eine Reinigung übernimmt der Handwerker.</s>",
+            "score": 0.027055097743868828,
+            "token": 203970,
+            "token_str": "▁Reinigung"
+        },
+        {
+            "sequence": "<s> Eine Firma übernimmt der Handwerker.</s>",
+            "score": 0.026701468974351883,
+            "token": 19989,
+            "token_str": "▁Firma"
+        }
+    ],
+    "Deshalb übernimmt der Handwerker eine Bauausführung .": [
+        {
+            "sequence": "<s> Deshalb übernimmt der Handwerker eine Verantwortung.</s>",
+            "score": 0.25474390387535095,
+            "token": 130629,
+            "token_str": "▁Verantwortung"
+        },
+        {
+            "sequence": "<s> Deshalb übernimmt der Handwerker eine Haftung.</s>",
+            "score": 0.1849665641784668,
+            "token": 183044,
+            "token_str": "▁Haftung"
+        },
+        {
+            "sequence": "<s> Deshalb übernimmt der Handwerker eine gewisse.</s>",
+            "score": 0.05342309921979904,
+            "token": 107676,
+            "token_str": "▁gewisse"
+        },
+        {
+            "sequence": "<s> Deshalb übernimmt der Handwerker eine Verpflichtung.</s>",
+            "score": 0.03198593109846115,
+            "token": 219662,
+            "token_str": "▁Verpflichtung"
+        },
+        {
+            "sequence": "<s> Deshalb übernimmt der Handwerker eine Rolle.</s>",
+            "score": 0.02197335846722126,
+            "token": 45324,
+            "token_str": "▁Rolle"
+        }
+    ],
+    "Übernimmt der Handwerker eine Bauausführung ?": [
+        {
+            "sequence": "<s> Übernimmt der Handwerker eine Haftung?</s>",
+            "score": 0.3299528956413269,
+            "token": 183044,
+            "token_str": "▁Haftung"
+        },
+        {
+            "sequence": "<s> Übernimmt der Handwerker eine Verantwortung?</s>",
+            "score": 0.2864002585411072,
+            "token": 130629,
+            "token_str": "▁Verantwortung"
+        },
+        {
+            "sequence": "<s> Übernimmt der Handwerker eine Gefahr?</s>",
+            "score": 0.1395782083272934,
+            "token": 119604,
+            "token_str": "▁Gefahr"
+        },
+        {
+            "sequence": "<s> Übernimmt der Handwerker eine Aufgabe?</s>",
+            "score": 0.03203872591257095,
+            "token": 99211,
+            "token_str": "▁Aufgabe"
+        },
+        {
+            "sequence": "<s> Übernimmt der Handwerker eine Reparatur?</s>",
+            "score": 0.030762720853090286,
+            "token": 230829,
+            "token_str": "▁Reparatur"
+        }
+    ],
+    "Weil der Handwerker eine Bauausführung übernimmt .": [
+        {
+            "sequence": "<s> Weil der Handwerker eine Verantwortung übernimmt.</s>",
+            "score": 0.5179185271263123,
+            "token": 130629,
+            "token_str": "▁Verantwortung"
+        },
+        {
+            "sequence": "<s> Weil der Handwerker eine Aufgabe übernimmt.</s>",
+            "score": 0.17257735133171082,
+            "token": 99211,
+            "token_str": "▁Aufgabe"
+        },
+        {
+            "sequence": "<s> Weil der Handwerker eine Arbeit übernimmt.</s>",
+            "score": 0.06568313390016556,
+            "token": 20053,
+            "token_str": "▁Arbeit"
+        },
+        {
+            "sequence": "<s> Weil der Handwerker eine Herausforderung übernimmt.</s>",
+            "score": 0.02429879829287529,
+            "token": 99620,
+            "token_str": "▁Herausforderung"
+        },
+        {
+            "sequence": "<s> Weil der Handwerker eine Verpflichtung übernimmt.</s>",
+            "score": 0.019148964434862137,
+            "token": 219662,
+            "token_str": "▁Verpflichtung"
+        }
+    ]
+}

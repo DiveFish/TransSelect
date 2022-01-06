@@ -1,0 +1,2402 @@
+{
+    "De generaal begint aanvallen .": [
+        {
+            "sequence": "[CLS] De generaal begint v. [SEP]",
+            "score": 0.05838477611541748,
+            "token": 190,
+            "token_str": "v"
+        },
+        {
+            "sequence": "[CLS] De generaal begint N. [SEP]",
+            "score": 0.02819361537694931,
+            "token": 151,
+            "token_str": "N"
+        },
+        {
+            "sequence": "[CLS] De generaal begint a. [SEP]",
+            "score": 0.02049310691654682,
+            "token": 169,
+            "token_str": "a"
+        },
+        {
+            "sequence": "[CLS] De generaal begint u. [SEP]",
+            "score": 0.02018703520298004,
+            "token": 189,
+            "token_str": "u"
+        },
+        {
+            "sequence": "[CLS] De generaal begint s. [SEP]",
+            "score": 0.019785145297646523,
+            "token": 187,
+            "token_str": "s"
+        }
+    ],
+    "Aanvallen begint de generaal .": [
+        {
+            "sequence": "[CLS] Hij begint de generaal. [SEP]",
+            "score": 0.15852898359298706,
+            "token": 12076,
+            "token_str": "Hij"
+        },
+        {
+            "sequence": "[CLS] Zo begint de generaal. [SEP]",
+            "score": 0.11930376291275024,
+            "token": 31494,
+            "token_str": "Zo"
+        },
+        {
+            "sequence": "[CLS] Hier begint de generaal. [SEP]",
+            "score": 0.049383845180273056,
+            "token": 19994,
+            "token_str": "Hier"
+        },
+        {
+            "sequence": "[CLS] zo begint de generaal. [SEP]",
+            "score": 0.030918093398213387,
+            "token": 12555,
+            "token_str": "zo"
+        },
+        {
+            "sequence": "[CLS] Ze begint de generaal. [SEP]",
+            "score": 0.018005546182394028,
+            "token": 15536,
+            "token_str": "Ze"
+        }
+    ],
+    "Daarom begint de generaal aanvallen .": [
+        {
+            "sequence": "[CLS] Daarom begint de generaal N. [SEP]",
+            "score": 0.11791972070932388,
+            "token": 151,
+            "token_str": "N"
+        },
+        {
+            "sequence": "[CLS] Daarom begint de generaal P. [SEP]",
+            "score": 0.059355203062295914,
+            "token": 153,
+            "token_str": "P"
+        },
+        {
+            "sequence": "[CLS] Daarom begint de generaal J. [SEP]",
+            "score": 0.04453425854444504,
+            "token": 147,
+            "token_str": "J"
+        },
+        {
+            "sequence": "[CLS] Daarom begint de generaal C. [SEP]",
+            "score": 0.04323943704366684,
+            "token": 140,
+            "token_str": "C"
+        },
+        {
+            "sequence": "[CLS] Daarom begint de generaal M. [SEP]",
+            "score": 0.03994202986359596,
+            "token": 150,
+            "token_str": "M"
+        }
+    ],
+    "Begint de generaal aanvallen ?": [
+        {
+            "sequence": "[CLS] Begint de generaal?? [SEP]",
+            "score": 0.17371542751789093,
+            "token": 136,
+            "token_str": "?"
+        },
+        {
+            "sequence": "[CLS] Begint de generaal :? [SEP]",
+            "score": 0.06924078613519669,
+            "token": 131,
+            "token_str": ":"
+        },
+        {
+            "sequence": "[CLS] Begint de generaals? [SEP]",
+            "score": 0.02743855118751526,
+            "token": 10107,
+            "token_str": "##s"
+        },
+        {
+            "sequence": "[CLS] Begint de generaal!? [SEP]",
+            "score": 0.024305127561092377,
+            "token": 106,
+            "token_str": "!"
+        },
+        {
+            "sequence": "[CLS] Begint de generaal,? [SEP]",
+            "score": 0.021322516724467278,
+            "token": 117,
+            "token_str": ","
+        }
+    ],
+    "Omdat de generaal aanvallen begint .": [
+        {
+            "sequence": "[CLS] Omdat de generaal. begint. [SEP]",
+            "score": 0.05766058713197708,
+            "token": 119,
+            "token_str": "."
+        },
+        {
+            "sequence": "[CLS] Omdat de generaals begint. [SEP]",
+            "score": 0.05499677360057831,
+            "token": 10107,
+            "token_str": "##s"
+        },
+        {
+            "sequence": "[CLS] Omdat de generaal niet begint. [SEP]",
+            "score": 0.04904312640428543,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] Omdat de generaal, begint. [SEP]",
+            "score": 0.040914591401815414,
+            "token": 117,
+            "token_str": ","
+        },
+        {
+            "sequence": "[CLS] Omdat de generaal hier begint. [SEP]",
+            "score": 0.023211270570755005,
+            "token": 13329,
+            "token_str": "hier"
+        }
+    ],
+    "De partners leven een dubbelleven .": [
+        {
+            "sequence": "[CLS] De partners leven een week. [SEP]",
+            "score": 0.09526398032903671,
+            "token": 16118,
+            "token_str": "week"
+        },
+        {
+            "sequence": "[CLS] De partners leven een leven. [SEP]",
+            "score": 0.08609002083539963,
+            "token": 21583,
+            "token_str": "leven"
+        },
+        {
+            "sequence": "[CLS] De partners leven een dag. [SEP]",
+            "score": 0.05937008559703827,
+            "token": 14177,
+            "token_str": "dag"
+        },
+        {
+            "sequence": "[CLS] De partners leven een jaar. [SEP]",
+            "score": 0.05564642697572708,
+            "token": 12626,
+            "token_str": "jaar"
+        },
+        {
+            "sequence": "[CLS] De partners leven eenmaal. [SEP]",
+            "score": 0.02848021127283573,
+            "token": 24018,
+            "token_str": "##maal"
+        }
+    ],
+    "Een dubbelleven leven de partners .": [
+        {
+            "sequence": "[CLS] Een tijd leven de partners. [SEP]",
+            "score": 0.04295890033245087,
+            "token": 18215,
+            "token_str": "tijd"
+        },
+        {
+            "sequence": "[CLS] Een dag leven de partners. [SEP]",
+            "score": 0.0403139553964138,
+            "token": 14177,
+            "token_str": "dag"
+        },
+        {
+            "sequence": "[CLS] Een moment leven de partners. [SEP]",
+            "score": 0.021110927686095238,
+            "token": 14316,
+            "token_str": "moment"
+        },
+        {
+            "sequence": "[CLS] Eendag leven de partners. [SEP]",
+            "score": 0.020257022231817245,
+            "token": 19115,
+            "token_str": "##dag"
+        },
+        {
+            "sequence": "[CLS] Een kind leven de partners. [SEP]",
+            "score": 0.019126523286104202,
+            "token": 22282,
+            "token_str": "kind"
+        }
+    ],
+    "Daarom leven de partners een dubbelleven .": [
+        {
+            "sequence": "[CLS] Daarom leven de partners een relatie. [SEP]",
+            "score": 0.07894685119390488,
+            "token": 79347,
+            "token_str": "relatie"
+        },
+        {
+            "sequence": "[CLS] Daarom leven de partners een elkaar. [SEP]",
+            "score": 0.05505269020795822,
+            "token": 26632,
+            "token_str": "elkaar"
+        },
+        {
+            "sequence": "[CLS] Daarom leven de partners een leven. [SEP]",
+            "score": 0.033005621284246445,
+            "token": 21583,
+            "token_str": "leven"
+        },
+        {
+            "sequence": "[CLS] Daarom leven de partners een partners. [SEP]",
+            "score": 0.030111171305179596,
+            "token": 48125,
+            "token_str": "partners"
+        },
+        {
+            "sequence": "[CLS] Daarom leven de partners een samenwerking. [SEP]",
+            "score": 0.021596578881144524,
+            "token": 74554,
+            "token_str": "samenwerking"
+        }
+    ],
+    "Leven de partners een dubbelleven ?": [
+        {
+            "sequence": "[CLS] Leven de partners een partij? [SEP]",
+            "score": 0.036693818867206573,
+            "token": 40466,
+            "token_str": "partij"
+        },
+        {
+            "sequence": "[CLS] Leven de partners een prijs? [SEP]",
+            "score": 0.015990812331438065,
+            "token": 61097,
+            "token_str": "prijs"
+        },
+        {
+            "sequence": "[CLS] Leven de partners een wet? [SEP]",
+            "score": 0.014028794132173061,
+            "token": 41115,
+            "token_str": "wet"
+        },
+        {
+            "sequence": "[CLS] Leven de partners een hand? [SEP]",
+            "score": 0.012665309011936188,
+            "token": 15230,
+            "token_str": "hand"
+        },
+        {
+            "sequence": "[CLS] Leven de partners een kans? [SEP]",
+            "score": 0.012547789141535759,
+            "token": 81212,
+            "token_str": "kans"
+        }
+    ],
+    "Omdat de partners een dubbelleven leven .": [
+        {
+            "sequence": "[CLS] Omdat de partners een tijd leven. [SEP]",
+            "score": 0.02834818884730339,
+            "token": 18215,
+            "token_str": "tijd"
+        },
+        {
+            "sequence": "[CLS] Omdat de partners een paar leven. [SEP]",
+            "score": 0.028333621099591255,
+            "token": 36291,
+            "token_str": "paar"
+        },
+        {
+            "sequence": "[CLS] Omdat de partners een leven leven. [SEP]",
+            "score": 0.02589070424437523,
+            "token": 21583,
+            "token_str": "leven"
+        },
+        {
+            "sequence": "[CLS] Omdat de partners een week leven. [SEP]",
+            "score": 0.015812352299690247,
+            "token": 16118,
+            "token_str": "week"
+        },
+        {
+            "sequence": "[CLS] Omdat de partners een elkaar leven. [SEP]",
+            "score": 0.015161917544901371,
+            "token": 26632,
+            "token_str": "elkaar"
+        }
+    ],
+    "De journalist synchroniseert opnames .": [
+        {
+            "sequence": "[CLS] De journalist synchroniseert TV. [SEP]",
+            "score": 0.039023224264383316,
+            "token": 10813,
+            "token_str": "TV"
+        },
+        {
+            "sequence": "[CLS] De journalist synchroniseert z. [SEP]",
+            "score": 0.031232785433530807,
+            "token": 194,
+            "token_str": "z"
+        },
+        {
+            "sequence": "[CLS] De journalist synchroniseert radio. [SEP]",
+            "score": 0.030485862866044044,
+            "token": 12429,
+            "token_str": "radio"
+        },
+        {
+            "sequence": "[CLS] De journalist synchroniseert u. [SEP]",
+            "score": 0.02841944620013237,
+            "token": 189,
+            "token_str": "u"
+        },
+        {
+            "sequence": "[CLS] De journalist synchroniseert s. [SEP]",
+            "score": 0.02470937930047512,
+            "token": 187,
+            "token_str": "s"
+        }
+    ],
+    "Opnames synchroniseert de journalist .": [
+        {
+            "sequence": "[CLS] De synchroniseert de journalist. [SEP]",
+            "score": 0.028142226859927177,
+            "token": 10190,
+            "token_str": "De"
+        },
+        {
+            "sequence": "[CLS]. synchroniseert de journalist. [SEP]",
+            "score": 0.014826714992523193,
+            "token": 119,
+            "token_str": "."
+        },
+        {
+            "sequence": "[CLS] Hij synchroniseert de journalist. [SEP]",
+            "score": 0.014673870988190174,
+            "token": 12076,
+            "token_str": "Hij"
+        },
+        {
+            "sequence": "[CLS] en synchroniseert de journalist. [SEP]",
+            "score": 0.013971940614283085,
+            "token": 10110,
+            "token_str": "en"
+        },
+        {
+            "sequence": "[CLS] En synchroniseert de journalist. [SEP]",
+            "score": 0.012334092520177364,
+            "token": 10243,
+            "token_str": "En"
+        }
+    ],
+    "Daarom synchroniseert de journalist opnames .": [
+        {
+            "sequence": "[CLS] Daarom synchroniseert de journalistiek. [SEP]",
+            "score": 0.46780967712402344,
+            "token": 24325,
+            "token_str": "##iek"
+        },
+        {
+            "sequence": "[CLS] Daarom synchroniseert de journalistie. [SEP]",
+            "score": 0.19066856801509857,
+            "token": 10400,
+            "token_str": "##ie"
+        },
+        {
+            "sequence": "[CLS] Daarom synchroniseert de journalistik. [SEP]",
+            "score": 0.09530060738325119,
+            "token": 10896,
+            "token_str": "##ik"
+        },
+        {
+            "sequence": "[CLS] Daarom synchroniseert de journalistchap. [SEP]",
+            "score": 0.040917158126831055,
+            "token": 31678,
+            "token_str": "##chap"
+        },
+        {
+            "sequence": "[CLS] Daarom synchroniseert de journalistek. [SEP]",
+            "score": 0.010471590794622898,
+            "token": 10707,
+            "token_str": "##ek"
+        }
+    ],
+    "Synchroniseert de journalist opnames ?": [
+        {
+            "sequence": "[CLS] Synchroniseert de journalistik? [SEP]",
+            "score": 0.16882190108299255,
+            "token": 10896,
+            "token_str": "##ik"
+        },
+        {
+            "sequence": "[CLS] Synchroniseert de journalistie? [SEP]",
+            "score": 0.09502918273210526,
+            "token": 10400,
+            "token_str": "##ie"
+        },
+        {
+            "sequence": "[CLS] Synchroniseert de journalistiek? [SEP]",
+            "score": 0.07428854703903198,
+            "token": 24325,
+            "token_str": "##iek"
+        },
+        {
+            "sequence": "[CLS] Synchroniseert de journalistchap? [SEP]",
+            "score": 0.06809672713279724,
+            "token": 31678,
+            "token_str": "##chap"
+        },
+        {
+            "sequence": "[CLS] Synchroniseert de journalist.? [SEP]",
+            "score": 0.06461093574762344,
+            "token": 119,
+            "token_str": "."
+        }
+    ],
+    "Omdat de journalist opnames synchroniseert .": [
+        {
+            "sequence": "[CLS] Omdat de journalist niet synchroniseert. [SEP]",
+            "score": 0.2882409691810608,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] Omdat de journalist zich synchroniseert. [SEP]",
+            "score": 0.030243150889873505,
+            "token": 12302,
+            "token_str": "zich"
+        },
+        {
+            "sequence": "[CLS] Omdat de journalist is synchroniseert. [SEP]",
+            "score": 0.021282771602272987,
+            "token": 10124,
+            "token_str": "is"
+        },
+        {
+            "sequence": "[CLS] Omdat de journalist wordt synchroniseert. [SEP]",
+            "score": 0.020205236971378326,
+            "token": 11656,
+            "token_str": "wordt"
+        },
+        {
+            "sequence": "[CLS] Omdat de journalist te synchroniseert. [SEP]",
+            "score": 0.020054690539836884,
+            "token": 10361,
+            "token_str": "te"
+        }
+    ],
+    "De vriendinnen spelen een droombruiloft .": [
+        {
+            "sequence": "[CLS] De vriendinnen spelen een spel. [SEP]",
+            "score": 0.19918793439865112,
+            "token": 36549,
+            "token_str": "spel"
+        },
+        {
+            "sequence": "[CLS] De vriendinnen spelen een rol. [SEP]",
+            "score": 0.07080947607755661,
+            "token": 16880,
+            "token_str": "rol"
+        },
+        {
+            "sequence": "[CLS] De vriendinnen spelen een wedstrijd. [SEP]",
+            "score": 0.043224405497312546,
+            "token": 36025,
+            "token_str": "wedstrijd"
+        },
+        {
+            "sequence": "[CLS] De vriendinnen spelen een sport. [SEP]",
+            "score": 0.0367480143904686,
+            "token": 17925,
+            "token_str": "sport"
+        },
+        {
+            "sequence": "[CLS] De vriendinnen spelen een voetbal. [SEP]",
+            "score": 0.0256191398948431,
+            "token": 61750,
+            "token_str": "voetbal"
+        }
+    ],
+    "Een droombruiloft spelen de vriendinnen .": [
+        {
+            "sequence": "[CLS] Een rol spelen de vriendinnen. [SEP]",
+            "score": 0.16417506337165833,
+            "token": 16880,
+            "token_str": "rol"
+        },
+        {
+            "sequence": "[CLS] Een theater spelen de vriendinnen. [SEP]",
+            "score": 0.029537802562117577,
+            "token": 33462,
+            "token_str": "theater"
+        },
+        {
+            "sequence": "[CLS] Een spel spelen de vriendinnen. [SEP]",
+            "score": 0.019852200523018837,
+            "token": 36549,
+            "token_str": "spel"
+        },
+        {
+            "sequence": "[CLS] Een partij spelen de vriendinnen. [SEP]",
+            "score": 0.015465952455997467,
+            "token": 40466,
+            "token_str": "partij"
+        },
+        {
+            "sequence": "[CLS] Eenzaam spelen de vriendinnen. [SEP]",
+            "score": 0.014523293823003769,
+            "token": 53214,
+            "token_str": "##zaam"
+        }
+    ],
+    "Daarom spelen de vriendinnen een droombruiloft .": [
+        {
+            "sequence": "[CLS] Daarom spelen de vriendinnen een spel. [SEP]",
+            "score": 0.1451307088136673,
+            "token": 36549,
+            "token_str": "spel"
+        },
+        {
+            "sequence": "[CLS] Daarom spelen de vriendinnen een rol. [SEP]",
+            "score": 0.14107230305671692,
+            "token": 16880,
+            "token_str": "rol"
+        },
+        {
+            "sequence": "[CLS] Daarom spelen de vriendinnen een wedstrijd. [SEP]",
+            "score": 0.08622416853904724,
+            "token": 36025,
+            "token_str": "wedstrijd"
+        },
+        {
+            "sequence": "[CLS] Daarom spelen de vriendinnen een club. [SEP]",
+            "score": 0.018867380917072296,
+            "token": 11111,
+            "token_str": "club"
+        },
+        {
+            "sequence": "[CLS] Daarom spelen de vriendinnen een theater. [SEP]",
+            "score": 0.017435817047953606,
+            "token": 33462,
+            "token_str": "theater"
+        }
+    ],
+    "Spelen de vriendinnen een droombruiloft ?": [
+        {
+            "sequence": "[CLS] Spelen de vriendinnen een jaar? [SEP]",
+            "score": 0.03273763880133629,
+            "token": 12626,
+            "token_str": "jaar"
+        },
+        {
+            "sequence": "[CLS] Spelen de vriendinnen een keer? [SEP]",
+            "score": 0.024590101093053818,
+            "token": 19861,
+            "token_str": "keer"
+        },
+        {
+            "sequence": "[CLS] Spelen de vriendinnen een nummer? [SEP]",
+            "score": 0.018313294276595116,
+            "token": 16905,
+            "token_str": "nummer"
+        },
+        {
+            "sequence": "[CLS] Spelen de vriendinnen een punt? [SEP]",
+            "score": 0.013647287152707577,
+            "token": 20652,
+            "token_str": "punt"
+        },
+        {
+            "sequence": "[CLS] Spelen de vriendinnen een week? [SEP]",
+            "score": 0.013559575192630291,
+            "token": 16118,
+            "token_str": "week"
+        }
+    ],
+    "Omdat de vriendinnen een droombruiloft spelen .": [
+        {
+            "sequence": "[CLS] Omdat de vriendinnen een wedstrijd spelen. [SEP]",
+            "score": 0.11697211116552353,
+            "token": 36025,
+            "token_str": "wedstrijd"
+        },
+        {
+            "sequence": "[CLS] Omdat de vriendinnen een spel spelen. [SEP]",
+            "score": 0.08163928985595703,
+            "token": 36549,
+            "token_str": "spel"
+        },
+        {
+            "sequence": "[CLS] Omdat de vriendinnen een rol spelen. [SEP]",
+            "score": 0.03539229929447174,
+            "token": 16880,
+            "token_str": "rol"
+        },
+        {
+            "sequence": "[CLS] Omdat de vriendinnen een voetbal spelen. [SEP]",
+            "score": 0.017233125865459442,
+            "token": 61750,
+            "token_str": "voetbal"
+        },
+        {
+            "sequence": "[CLS] Omdat de vriendinnen een lot spelen. [SEP]",
+            "score": 0.014174407348036766,
+            "token": 19826,
+            "token_str": "lot"
+        }
+    ],
+    "De voorbijganger bekogelt kunstwerken .": [
+        {
+            "sequence": "[CLS] De voorbijganger bekogelt niet. [SEP]",
+            "score": 0.025897711515426636,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] De voorbijganger bekogelt het. [SEP]",
+            "score": 0.021877499297261238,
+            "token": 10187,
+            "token_str": "het"
+        },
+        {
+            "sequence": "[CLS] De voorbijganger bekogelt er. [SEP]",
+            "score": 0.020102322101593018,
+            "token": 10163,
+            "token_str": "er"
+        },
+        {
+            "sequence": "[CLS] De voorbijganger bekogelt ook. [SEP]",
+            "score": 0.016852829605340958,
+            "token": 11187,
+            "token_str": "ook"
+        },
+        {
+            "sequence": "[CLS] De voorbijganger bekogelt zich. [SEP]",
+            "score": 0.016599606722593307,
+            "token": 12302,
+            "token_str": "zich"
+        }
+    ],
+    "Kunstwerken bekogelt de voorbijganger .": [
+        {
+            "sequence": "[CLS] Hij bekogelt de voorbijganger. [SEP]",
+            "score": 0.4667688310146332,
+            "token": 12076,
+            "token_str": "Hij"
+        },
+        {
+            "sequence": "[CLS] Zo bekogelt de voorbijganger. [SEP]",
+            "score": 0.037865448743104935,
+            "token": 31494,
+            "token_str": "Zo"
+        },
+        {
+            "sequence": "[CLS] Ze bekogelt de voorbijganger. [SEP]",
+            "score": 0.02686220034956932,
+            "token": 15536,
+            "token_str": "Ze"
+        },
+        {
+            "sequence": "[CLS] Ook bekogelt de voorbijganger. [SEP]",
+            "score": 0.026571108028292656,
+            "token": 16434,
+            "token_str": "Ook"
+        },
+        {
+            "sequence": "[CLS] en bekogelt de voorbijganger. [SEP]",
+            "score": 0.02032090723514557,
+            "token": 10110,
+            "token_str": "en"
+        }
+    ],
+    "Daarom bekogelt de voorbijganger kunstwerken .": [
+        {
+            "sequence": "[CLS] Daarom bekogelt de voorbijganger niet. [SEP]",
+            "score": 0.039780035614967346,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] Daarom bekogelt de voorbijganger op. [SEP]",
+            "score": 0.023743461817502975,
+            "token": 10303,
+            "token_str": "op"
+        },
+        {
+            "sequence": "[CLS] Daarom bekogelt de voorbijganger zich. [SEP]",
+            "score": 0.0188932903110981,
+            "token": 12302,
+            "token_str": "zich"
+        },
+        {
+            "sequence": "[CLS] Daarom bekogelt de voorbijganger zichzelf. [SEP]",
+            "score": 0.017083395272493362,
+            "token": 64461,
+            "token_str": "zichzelf"
+        },
+        {
+            "sequence": "[CLS] Daarom bekogelt de voorbijganger zijn. [SEP]",
+            "score": 0.012912224046885967,
+            "token": 10574,
+            "token_str": "zijn"
+        }
+    ],
+    "Bekogelt de voorbijganger kunstwerken ?": [
+        {
+            "sequence": "[CLS] Bekogelt de voorbijganger?? [SEP]",
+            "score": 0.3031708300113678,
+            "token": 136,
+            "token_str": "?"
+        },
+        {
+            "sequence": "[CLS] Bekogelt de voorbijganger :? [SEP]",
+            "score": 0.27544113993644714,
+            "token": 131,
+            "token_str": ":"
+        },
+        {
+            "sequence": "[CLS] Bekogelt de voorbijganger (? [SEP]",
+            "score": 0.05517340078949928,
+            "token": 113,
+            "token_str": "("
+        },
+        {
+            "sequence": "[CLS] Bekogelt de voorbijganger!? [SEP]",
+            "score": 0.028319504112005234,
+            "token": 106,
+            "token_str": "!"
+        },
+        {
+            "sequence": "[CLS] Bekogelt de voorbijganger -? [SEP]",
+            "score": 0.022492697462439537,
+            "token": 118,
+            "token_str": "-"
+        }
+    ],
+    "Omdat de voorbijganger kunstwerken bekogelt .": [
+        {
+            "sequence": "[CLS] Omdat de voorbijganger niet bekogelt. [SEP]",
+            "score": 0.0915110781788826,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] Omdat de voorbijganger. bekogelt. [SEP]",
+            "score": 0.0711047500371933,
+            "token": 119,
+            "token_str": "."
+        },
+        {
+            "sequence": "[CLS] Omdat de voorbijganger : bekogelt. [SEP]",
+            "score": 0.049626898020505905,
+            "token": 131,
+            "token_str": ":"
+        },
+        {
+            "sequence": "[CLS] Omdat de voorbijganger, bekogelt. [SEP]",
+            "score": 0.032259535044431686,
+            "token": 117,
+            "token_str": ","
+        },
+        {
+            "sequence": "[CLS] Omdat de voorbijganger hem bekogelt. [SEP]",
+            "score": 0.020787818357348442,
+            "token": 14166,
+            "token_str": "hem"
+        }
+    ],
+    "De kinderen vinden een oplossing .": [
+        {
+            "sequence": "[CLS] De kinderen vinden een plaats. [SEP]",
+            "score": 0.05422907695174217,
+            "token": 12767,
+            "token_str": "plaats"
+        },
+        {
+            "sequence": "[CLS] De kinderen vinden een baan. [SEP]",
+            "score": 0.05358584225177765,
+            "token": 70991,
+            "token_str": "baan"
+        },
+        {
+            "sequence": "[CLS] De kinderen vinden een plek. [SEP]",
+            "score": 0.015261350199580193,
+            "token": 51344,
+            "token_str": "plek"
+        },
+        {
+            "sequence": "[CLS] De kinderen vinden een dorp. [SEP]",
+            "score": 0.013322832062840462,
+            "token": 27127,
+            "token_str": "dorp"
+        },
+        {
+            "sequence": "[CLS] De kinderen vinden een kind. [SEP]",
+            "score": 0.012987501919269562,
+            "token": 22282,
+            "token_str": "kind"
+        }
+    ],
+    "Een oplossing vinden de kinderen .": [
+        {
+            "sequence": "[CLS] Eendag vinden de kinderen. [SEP]",
+            "score": 0.06421387940645218,
+            "token": 19115,
+            "token_str": "##dag"
+        },
+        {
+            "sequence": "[CLS] Eenmaal vinden de kinderen. [SEP]",
+            "score": 0.024002045392990112,
+            "token": 24018,
+            "token_str": "##maal"
+        },
+        {
+            "sequence": "[CLS] Een dag vinden de kinderen. [SEP]",
+            "score": 0.02240155264735222,
+            "token": 14177,
+            "token_str": "dag"
+        },
+        {
+            "sequence": "[CLS] Een dorp vinden de kinderen. [SEP]",
+            "score": 0.021250605583190918,
+            "token": 27127,
+            "token_str": "dorp"
+        },
+        {
+            "sequence": "[CLS] Een week vinden de kinderen. [SEP]",
+            "score": 0.015521394088864326,
+            "token": 16118,
+            "token_str": "week"
+        }
+    ],
+    "Daarom vinden de kinderen een oplossing .": [
+        {
+            "sequence": "[CLS] Daarom vinden de kinderen een plaats. [SEP]",
+            "score": 0.10573220252990723,
+            "token": 12767,
+            "token_str": "plaats"
+        },
+        {
+            "sequence": "[CLS] Daarom vinden de kinderen een baan. [SEP]",
+            "score": 0.03886214643716812,
+            "token": 70991,
+            "token_str": "baan"
+        },
+        {
+            "sequence": "[CLS] Daarom vinden de kinderen een school. [SEP]",
+            "score": 0.017341850325465202,
+            "token": 11393,
+            "token_str": "school"
+        },
+        {
+            "sequence": "[CLS] Daarom vinden de kinderen een dorp. [SEP]",
+            "score": 0.01647087372839451,
+            "token": 27127,
+            "token_str": "dorp"
+        },
+        {
+            "sequence": "[CLS] Daarom vinden de kinderen een café. [SEP]",
+            "score": 0.014338926412165165,
+            "token": 34551,
+            "token_str": "café"
+        }
+    ],
+    "Vinden de kinderen een oplossing ?": [
+        {
+            "sequence": "[CLS] Vinden de kinderen een boek? [SEP]",
+            "score": 0.02101163938641548,
+            "token": 27451,
+            "token_str": "boek"
+        },
+        {
+            "sequence": "[CLS] Vinden de kinderen een dag? [SEP]",
+            "score": 0.017178237438201904,
+            "token": 14177,
+            "token_str": "dag"
+        },
+        {
+            "sequence": "[CLS] Vinden de kinderen een prijs? [SEP]",
+            "score": 0.01568739302456379,
+            "token": 61097,
+            "token_str": "prijs"
+        },
+        {
+            "sequence": "[CLS] Vinden de kinderen een jaar? [SEP]",
+            "score": 0.013641965575516224,
+            "token": 12626,
+            "token_str": "jaar"
+        },
+        {
+            "sequence": "[CLS] Vinden de kinderen een voor? [SEP]",
+            "score": 0.010406273417174816,
+            "token": 10423,
+            "token_str": "voor"
+        }
+    ],
+    "Omdat de kinderen een oplossing vinden .": [
+        {
+            "sequence": "[CLS] Omdat de kinderen een plaats vinden. [SEP]",
+            "score": 0.028720391914248466,
+            "token": 12767,
+            "token_str": "plaats"
+        },
+        {
+            "sequence": "[CLS] Omdat de kinderen eenheid vinden. [SEP]",
+            "score": 0.02236882783472538,
+            "token": 13454,
+            "token_str": "##heid"
+        },
+        {
+            "sequence": "[CLS] Omdat de kinderen een plek vinden. [SEP]",
+            "score": 0.021515892818570137,
+            "token": 51344,
+            "token_str": "plek"
+        },
+        {
+            "sequence": "[CLS] Omdat de kinderen een school vinden. [SEP]",
+            "score": 0.019519595429301262,
+            "token": 11393,
+            "token_str": "school"
+        },
+        {
+            "sequence": "[CLS] Omdat de kinderen een te vinden. [SEP]",
+            "score": 0.01675133779644966,
+            "token": 10361,
+            "token_str": "te"
+        }
+    ],
+    "De lezer bestelt tijdschriften .": [
+        {
+            "sequence": "[CLS] De lezer bestelt h. [SEP]",
+            "score": 0.02077171951532364,
+            "token": 176,
+            "token_str": "h"
+        },
+        {
+            "sequence": "[CLS] De lezer bestelt v. [SEP]",
+            "score": 0.01981905847787857,
+            "token": 190,
+            "token_str": "v"
+        },
+        {
+            "sequence": "[CLS] De lezer bestelt a. [SEP]",
+            "score": 0.01979903317987919,
+            "token": 169,
+            "token_str": "a"
+        },
+        {
+            "sequence": "[CLS] De lezer bestelt s. [SEP]",
+            "score": 0.019492877647280693,
+            "token": 187,
+            "token_str": "s"
+        },
+        {
+            "sequence": "[CLS] De lezer bestelt o. [SEP]",
+            "score": 0.0171993188560009,
+            "token": 183,
+            "token_str": "o"
+        }
+    ],
+    "Tijdschriften bestelt de lezer .": [
+        {
+            "sequence": "[CLS] Hij bestelt de lezer. [SEP]",
+            "score": 0.08413098007440567,
+            "token": 12076,
+            "token_str": "Hij"
+        },
+        {
+            "sequence": "[CLS] Het bestelt de lezer. [SEP]",
+            "score": 0.040568865835666656,
+            "token": 10867,
+            "token_str": "Het"
+        },
+        {
+            "sequence": "[CLS] Ze bestelt de lezer. [SEP]",
+            "score": 0.024402087554335594,
+            "token": 15536,
+            "token_str": "Ze"
+        },
+        {
+            "sequence": "[CLS] Zo bestelt de lezer. [SEP]",
+            "score": 0.0203683003783226,
+            "token": 31494,
+            "token_str": "Zo"
+        },
+        {
+            "sequence": "[CLS] Men bestelt de lezer. [SEP]",
+            "score": 0.01506909541785717,
+            "token": 13026,
+            "token_str": "Men"
+        }
+    ],
+    "Daarom bestelt de lezer tijdschriften .": [
+        {
+            "sequence": "[CLS] Daarom bestelt de lezer a. [SEP]",
+            "score": 0.02533084712922573,
+            "token": 169,
+            "token_str": "a"
+        },
+        {
+            "sequence": "[CLS] Daarom bestelt de lezer v. [SEP]",
+            "score": 0.022518981248140335,
+            "token": 190,
+            "token_str": "v"
+        },
+        {
+            "sequence": "[CLS] Daarom bestelt de lezer o. [SEP]",
+            "score": 0.019269313663244247,
+            "token": 183,
+            "token_str": "o"
+        },
+        {
+            "sequence": "[CLS] Daarom bestelt de lezer af. [SEP]",
+            "score": 0.0183345265686512,
+            "token": 10452,
+            "token_str": "af"
+        },
+        {
+            "sequence": "[CLS] Daarom bestelt de lezer s. [SEP]",
+            "score": 0.018270842730998993,
+            "token": 187,
+            "token_str": "s"
+        }
+    ],
+    "Bestelt de lezer tijdschriften ?": [
+        {
+            "sequence": "[CLS] Bestelt de lezer?? [SEP]",
+            "score": 0.1922782063484192,
+            "token": 136,
+            "token_str": "?"
+        },
+        {
+            "sequence": "[CLS] Bestelt de lezer :? [SEP]",
+            "score": 0.10382993519306183,
+            "token": 131,
+            "token_str": ":"
+        },
+        {
+            "sequence": "[CLS] Bestelt de lezer (? [SEP]",
+            "score": 0.046060241758823395,
+            "token": 113,
+            "token_str": "("
+        },
+        {
+            "sequence": "[CLS] Bestelt de lezer of? [SEP]",
+            "score": 0.030308326706290245,
+            "token": 10108,
+            "token_str": "of"
+        },
+        {
+            "sequence": "[CLS] Bestelt de lezer,? [SEP]",
+            "score": 0.025988023728132248,
+            "token": 117,
+            "token_str": ","
+        }
+    ],
+    "Omdat de lezer tijdschriften bestelt .": [
+        {
+            "sequence": "[CLS] Omdat de lezer niet bestelt. [SEP]",
+            "score": 0.14338846504688263,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] Omdat de lezer. bestelt. [SEP]",
+            "score": 0.03833676874637604,
+            "token": 119,
+            "token_str": "."
+        },
+        {
+            "sequence": "[CLS] Omdat de lezer zich bestelt. [SEP]",
+            "score": 0.033824723213911057,
+            "token": 12302,
+            "token_str": "zich"
+        },
+        {
+            "sequence": "[CLS] Omdat de lezer te bestelt. [SEP]",
+            "score": 0.027252640575170517,
+            "token": 10361,
+            "token_str": "te"
+        },
+        {
+            "sequence": "[CLS] Omdat de lezer of bestelt. [SEP]",
+            "score": 0.023928772658109665,
+            "token": 10108,
+            "token_str": "of"
+        }
+    ],
+    "De heer scheert baarden .": [
+        {
+            "sequence": "[CLS] De heer scheert niet. [SEP]",
+            "score": 0.03857087716460228,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] De heer scheert s. [SEP]",
+            "score": 0.02385323867201805,
+            "token": 187,
+            "token_str": "s"
+        },
+        {
+            "sequence": "[CLS] De heer scheert af. [SEP]",
+            "score": 0.020305177196860313,
+            "token": 10452,
+            "token_str": "af"
+        },
+        {
+            "sequence": "[CLS] De heer scheert uit. [SEP]",
+            "score": 0.02000552788376808,
+            "token": 10540,
+            "token_str": "uit"
+        },
+        {
+            "sequence": "[CLS] De heer scheert en. [SEP]",
+            "score": 0.01566852442920208,
+            "token": 10110,
+            "token_str": "en"
+        }
+    ],
+    "Baarden scheert de heer .": [
+        {
+            "sequence": "[CLS] Hij scheert de heer. [SEP]",
+            "score": 0.1374211460351944,
+            "token": 12076,
+            "token_str": "Hij"
+        },
+        {
+            "sequence": "[CLS] en scheert de heer. [SEP]",
+            "score": 0.06526760011911392,
+            "token": 10110,
+            "token_str": "en"
+        },
+        {
+            "sequence": "[CLS] Zij scheert de heer. [SEP]",
+            "score": 0.04235205054283142,
+            "token": 30234,
+            "token_str": "Zij"
+        },
+        {
+            "sequence": "[CLS] Ze scheert de heer. [SEP]",
+            "score": 0.038297154009342194,
+            "token": 15536,
+            "token_str": "Ze"
+        },
+        {
+            "sequence": "[CLS] Het scheert de heer. [SEP]",
+            "score": 0.020380899310112,
+            "token": 10867,
+            "token_str": "Het"
+        }
+    ],
+    "Daarom scheert de heer baarden .": [
+        {
+            "sequence": "[CLS] Daarom scheert de heer over. [SEP]",
+            "score": 0.04560781270265579,
+            "token": 10491,
+            "token_str": "over"
+        },
+        {
+            "sequence": "[CLS] Daarom scheert de heer heer. [SEP]",
+            "score": 0.04375023394823074,
+            "token": 76079,
+            "token_str": "heer"
+        },
+        {
+            "sequence": "[CLS] Daarom scheert de heer af. [SEP]",
+            "score": 0.04015451669692993,
+            "token": 10452,
+            "token_str": "af"
+        },
+        {
+            "sequence": "[CLS] Daarom scheert de heer uit. [SEP]",
+            "score": 0.03573300689458847,
+            "token": 10540,
+            "token_str": "uit"
+        },
+        {
+            "sequence": "[CLS] Daarom scheert de heer niet. [SEP]",
+            "score": 0.02557327412068844,
+            "token": 11670,
+            "token_str": "niet"
+        }
+    ],
+    "Scheert de heer baarden ?": [
+        {
+            "sequence": "[CLS] Scheert de heer?? [SEP]",
+            "score": 0.2205473631620407,
+            "token": 136,
+            "token_str": "?"
+        },
+        {
+            "sequence": "[CLS] Scheert de heer heer? [SEP]",
+            "score": 0.03212737664580345,
+            "token": 76079,
+            "token_str": "heer"
+        },
+        {
+            "sequence": "[CLS] Scheert de heer :? [SEP]",
+            "score": 0.029879992827773094,
+            "token": 131,
+            "token_str": ":"
+        },
+        {
+            "sequence": "[CLS] Scheert de heerlijkheid? [SEP]",
+            "score": 0.026233980432152748,
+            "token": 103468,
+            "token_str": "##lijkheid"
+        },
+        {
+            "sequence": "[CLS] Scheert de heer,? [SEP]",
+            "score": 0.023383798077702522,
+            "token": 117,
+            "token_str": ","
+        }
+    ],
+    "Omdat de heer baarden scheert .": [
+        {
+            "sequence": "[CLS] Omdat de heer niet scheert. [SEP]",
+            "score": 0.07330458611249924,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] Omdat de heers scheert. [SEP]",
+            "score": 0.042670439928770065,
+            "token": 10107,
+            "token_str": "##s"
+        },
+        {
+            "sequence": "[CLS] Omdat de heerlijk scheert. [SEP]",
+            "score": 0.03128055855631828,
+            "token": 15789,
+            "token_str": "##lijk"
+        },
+        {
+            "sequence": "[CLS] Omdat de heer of scheert. [SEP]",
+            "score": 0.02482527680695057,
+            "token": 10108,
+            "token_str": "of"
+        },
+        {
+            "sequence": "[CLS] Omdat de heerlijke scheert. [SEP]",
+            "score": 0.022547544911503792,
+            "token": 18945,
+            "token_str": "##lijke"
+        }
+    ],
+    "De mama’s drinken een kopje koffie .": [
+        {
+            "sequence": "[CLS] De mama [UNK] s drinken een kopje water. [SEP]",
+            "score": 0.11440273374319077,
+            "token": 12286,
+            "token_str": "water"
+        },
+        {
+            "sequence": "[CLS] De mama [UNK] s drinken een kopje drink. [SEP]",
+            "score": 0.08014561235904694,
+            "token": 69423,
+            "token_str": "drink"
+        },
+        {
+            "sequence": "[CLS] De mama [UNK] s drinken een kopje beer. [SEP]",
+            "score": 0.05360736697912216,
+            "token": 73768,
+            "token_str": "beer"
+        },
+        {
+            "sequence": "[CLS] De mama [UNK] s drinken een kopje op. [SEP]",
+            "score": 0.028166159987449646,
+            "token": 10303,
+            "token_str": "op"
+        },
+        {
+            "sequence": "[CLS] De mama [UNK] s drinken een kopje van. [SEP]",
+            "score": 0.02791045419871807,
+            "token": 10145,
+            "token_str": "van"
+        }
+    ],
+    "Een kopje koffie drinken de mama’s .": [
+        {
+            "sequence": "[CLS] Een kopje, drinken de mama [UNK] s. [SEP]",
+            "score": 0.11587478965520859,
+            "token": 117,
+            "token_str": ","
+        },
+        {
+            "sequence": "[CLS] Een kopje van drinken de mama [UNK] s. [SEP]",
+            "score": 0.05730356648564339,
+            "token": 10145,
+            "token_str": "van"
+        },
+        {
+            "sequence": "[CLS] Een kopje en drinken de mama [UNK] s. [SEP]",
+            "score": 0.031129715964198112,
+            "token": 10110,
+            "token_str": "en"
+        },
+        {
+            "sequence": "[CLS] Een kopje drink drinken de mama [UNK] s. [SEP]",
+            "score": 0.02444945089519024,
+            "token": 69423,
+            "token_str": "drink"
+        },
+        {
+            "sequence": "[CLS] Een kopje water drinken de mama [UNK] s. [SEP]",
+            "score": 0.023566728457808495,
+            "token": 12286,
+            "token_str": "water"
+        }
+    ],
+    "Daarom drinken de mama’s een kopje koffie .": [
+        {
+            "sequence": "[CLS] Daarom drinken de mama [UNK] s een kopje drink. [SEP]",
+            "score": 0.09865006804466248,
+            "token": 69423,
+            "token_str": "drink"
+        },
+        {
+            "sequence": "[CLS] Daarom drinken de mama [UNK] s een kopje water. [SEP]",
+            "score": 0.0690663680434227,
+            "token": 12286,
+            "token_str": "water"
+        },
+        {
+            "sequence": "[CLS] Daarom drinken de mama [UNK] s een kopje van. [SEP]",
+            "score": 0.053585417568683624,
+            "token": 10145,
+            "token_str": "van"
+        },
+        {
+            "sequence": "[CLS] Daarom drinken de mama [UNK] s een kopje beer. [SEP]",
+            "score": 0.028001703321933746,
+            "token": 73768,
+            "token_str": "beer"
+        },
+        {
+            "sequence": "[CLS] Daarom drinken de mama [UNK] s een kopje op. [SEP]",
+            "score": 0.027261245995759964,
+            "token": 10303,
+            "token_str": "op"
+        }
+    ],
+    "Drinken de mama’s een kopje koffie ?": [
+        {
+            "sequence": "[CLS] Drinken de mama [UNK] s een kopje?? [SEP]",
+            "score": 0.2709779441356659,
+            "token": 136,
+            "token_str": "?"
+        },
+        {
+            "sequence": "[CLS] Drinken de mama [UNK] s een kopje!? [SEP]",
+            "score": 0.0641656219959259,
+            "token": 106,
+            "token_str": "!"
+        },
+        {
+            "sequence": "[CLS] Drinken de mama [UNK] s een kopje van? [SEP]",
+            "score": 0.04458126425743103,
+            "token": 10145,
+            "token_str": "van"
+        },
+        {
+            "sequence": "[CLS] Drinken de mama [UNK] s een kopje voor? [SEP]",
+            "score": 0.03255755081772804,
+            "token": 10423,
+            "token_str": "voor"
+        },
+        {
+            "sequence": "[CLS] Drinken de mama [UNK] s een kopje '? [SEP]",
+            "score": 0.02240859530866146,
+            "token": 112,
+            "token_str": "'"
+        }
+    ],
+    "Omdat de mama’s een kopje koffie drinken .": [
+        {
+            "sequence": "[CLS] Omdat de mama [UNK] s een kopje zal drinken. [SEP]",
+            "score": 0.10223924368619919,
+            "token": 30639,
+            "token_str": "zal"
+        },
+        {
+            "sequence": "[CLS] Omdat de mama [UNK] s een kopje kan drinken. [SEP]",
+            "score": 0.07205493003129959,
+            "token": 10905,
+            "token_str": "kan"
+        },
+        {
+            "sequence": "[CLS] Omdat de mama [UNK] s een kopje kon drinken. [SEP]",
+            "score": 0.07197011262178421,
+            "token": 18840,
+            "token_str": "kon"
+        },
+        {
+            "sequence": "[CLS] Omdat de mama [UNK] s een kopje moet drinken. [SEP]",
+            "score": 0.055036868900060654,
+            "token": 23047,
+            "token_str": "moet"
+        },
+        {
+            "sequence": "[CLS] Omdat de mama [UNK] s een kopje te drinken. [SEP]",
+            "score": 0.05387367680668831,
+            "token": 10361,
+            "token_str": "te"
+        }
+    ],
+    "De schrijver schrijft romans .": [
+        {
+            "sequence": "[CLS] De schrijver schrijft s. [SEP]",
+            "score": 0.019325092434883118,
+            "token": 187,
+            "token_str": "s"
+        },
+        {
+            "sequence": "[CLS] De schrijver schrijft voor. [SEP]",
+            "score": 0.013096785172820091,
+            "token": 10423,
+            "token_str": "voor"
+        },
+        {
+            "sequence": "[CLS] De schrijver schrijft af. [SEP]",
+            "score": 0.009989525191485882,
+            "token": 10452,
+            "token_str": "af"
+        },
+        {
+            "sequence": "[CLS] De schrijver schrijft niet. [SEP]",
+            "score": 0.009180420078337193,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] De schrijver schrijft t. [SEP]",
+            "score": 0.008934839628636837,
+            "token": 188,
+            "token_str": "t"
+        }
+    ],
+    "Romans schrijft de schrijver .": [
+        {
+            "sequence": "[CLS], schrijft de schrijver. [SEP]",
+            "score": 0.08943624794483185,
+            "token": 117,
+            "token_str": ","
+        },
+        {
+            "sequence": "[CLS] Hij schrijft de schrijver. [SEP]",
+            "score": 0.08721969276666641,
+            "token": 12076,
+            "token_str": "Hij"
+        },
+        {
+            "sequence": "[CLS] Ze schrijft de schrijver. [SEP]",
+            "score": 0.08204001188278198,
+            "token": 15536,
+            "token_str": "Ze"
+        },
+        {
+            "sequence": "[CLS] Het schrijft de schrijver. [SEP]",
+            "score": 0.04956233873963356,
+            "token": 10867,
+            "token_str": "Het"
+        },
+        {
+            "sequence": "[CLS] en schrijft de schrijver. [SEP]",
+            "score": 0.02581380307674408,
+            "token": 10110,
+            "token_str": "en"
+        }
+    ],
+    "Daarom schrijft de schrijver romans .": [
+        {
+            "sequence": "[CLS] Daarom schrijft de schrijver P. [SEP]",
+            "score": 0.01815810427069664,
+            "token": 153,
+            "token_str": "P"
+        },
+        {
+            "sequence": "[CLS] Daarom schrijft de schrijver af. [SEP]",
+            "score": 0.013228853233158588,
+            "token": 10452,
+            "token_str": "af"
+        },
+        {
+            "sequence": "[CLS] Daarom schrijft de schrijver niet. [SEP]",
+            "score": 0.012934577651321888,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] Daarom schrijft de schrijver A. [SEP]",
+            "score": 0.012054362334311008,
+            "token": 138,
+            "token_str": "A"
+        },
+        {
+            "sequence": "[CLS] Daarom schrijft de schrijver p. [SEP]",
+            "score": 0.011592031456530094,
+            "token": 184,
+            "token_str": "p"
+        }
+    ],
+    "Schrijft de schrijver romans ?": [
+        {
+            "sequence": "[CLS] Schrijft de schrijver?? [SEP]",
+            "score": 0.1967318058013916,
+            "token": 136,
+            "token_str": "?"
+        },
+        {
+            "sequence": "[CLS] Schrijft de schrijver :? [SEP]",
+            "score": 0.056953031569719315,
+            "token": 131,
+            "token_str": ":"
+        },
+        {
+            "sequence": "[CLS] Schrijft de schrijvers? [SEP]",
+            "score": 0.030188249424099922,
+            "token": 10107,
+            "token_str": "##s"
+        },
+        {
+            "sequence": "[CLS] Schrijft de schrijver in? [SEP]",
+            "score": 0.021237999200820923,
+            "token": 10106,
+            "token_str": "in"
+        },
+        {
+            "sequence": "[CLS] Schrijft de schrijver,? [SEP]",
+            "score": 0.017412317916750908,
+            "token": 117,
+            "token_str": ","
+        }
+    ],
+    "Omdat de schrijver romans schrijft .": [
+        {
+            "sequence": "[CLS] Omdat de schrijver niet schrijft. [SEP]",
+            "score": 0.22729937732219696,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] Omdat de schrijver zelf schrijft. [SEP]",
+            "score": 0.0324019156396389,
+            "token": 24810,
+            "token_str": "zelf"
+        },
+        {
+            "sequence": "[CLS] Omdat de schrijver al schrijft. [SEP]",
+            "score": 0.029549216851592064,
+            "token": 10164,
+            "token_str": "al"
+        },
+        {
+            "sequence": "[CLS] Omdat de schrijvers schrijft. [SEP]",
+            "score": 0.022180214524269104,
+            "token": 10107,
+            "token_str": "##s"
+        },
+        {
+            "sequence": "[CLS] Omdat de schrijver of schrijft. [SEP]",
+            "score": 0.021191472187638283,
+            "token": 10108,
+            "token_str": "of"
+        }
+    ],
+    "De politicus beëindigt toespraken .": [
+        {
+            "sequence": "[CLS] De politicus beëindigt niet. [SEP]",
+            "score": 0.022258196026086807,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] De politicus beëindigt v. [SEP]",
+            "score": 0.021058157086372375,
+            "token": 190,
+            "token_str": "v"
+        },
+        {
+            "sequence": "[CLS] De politicus beëindigt s. [SEP]",
+            "score": 0.018959075212478638,
+            "token": 187,
+            "token_str": "s"
+        },
+        {
+            "sequence": "[CLS] De politicus beëindigt A. [SEP]",
+            "score": 0.01466288510710001,
+            "token": 138,
+            "token_str": "A"
+        },
+        {
+            "sequence": "[CLS] De politicus beëindigt de. [SEP]",
+            "score": 0.013602996245026588,
+            "token": 10104,
+            "token_str": "de"
+        }
+    ],
+    "Toespraken beëindigt de politicus .": [
+        {
+            "sequence": "[CLS] Hij beëindigt de politicus. [SEP]",
+            "score": 0.07516125589609146,
+            "token": 12076,
+            "token_str": "Hij"
+        },
+        {
+            "sequence": "[CLS] Het beëindigt de politicus. [SEP]",
+            "score": 0.0697658360004425,
+            "token": 10867,
+            "token_str": "Het"
+        },
+        {
+            "sequence": "[CLS] Ze beëindigt de politicus. [SEP]",
+            "score": 0.03434405475854874,
+            "token": 15536,
+            "token_str": "Ze"
+        },
+        {
+            "sequence": "[CLS] Zo beëindigt de politicus. [SEP]",
+            "score": 0.02227436564862728,
+            "token": 31494,
+            "token_str": "Zo"
+        },
+        {
+            "sequence": "[CLS] en beëindigt de politicus. [SEP]",
+            "score": 0.01988096721470356,
+            "token": 10110,
+            "token_str": "en"
+        }
+    ],
+    "Daarom beëindigt de politicus toespraken .": [
+        {
+            "sequence": "[CLS] Daarom beëindigt de politicus A. [SEP]",
+            "score": 0.02593851275742054,
+            "token": 138,
+            "token_str": "A"
+        },
+        {
+            "sequence": "[CLS] Daarom beëindigt de politicus v. [SEP]",
+            "score": 0.022409208118915558,
+            "token": 190,
+            "token_str": "v"
+        },
+        {
+            "sequence": "[CLS] Daarom beëindigt de politicus P. [SEP]",
+            "score": 0.017829064279794693,
+            "token": 153,
+            "token_str": "P"
+        },
+        {
+            "sequence": "[CLS] Daarom beëindigt de politicus S. [SEP]",
+            "score": 0.01668601669371128,
+            "token": 156,
+            "token_str": "S"
+        },
+        {
+            "sequence": "[CLS] Daarom beëindigt de politicus s. [SEP]",
+            "score": 0.014627229422330856,
+            "token": 187,
+            "token_str": "s"
+        }
+    ],
+    "Beëindigt de politicus toespraken ?": [
+        {
+            "sequence": "[CLS] Beëindigt de politicus?? [SEP]",
+            "score": 0.22826118767261505,
+            "token": 136,
+            "token_str": "?"
+        },
+        {
+            "sequence": "[CLS] Beëindigt de politicus :? [SEP]",
+            "score": 0.16117487847805023,
+            "token": 131,
+            "token_str": ":"
+        },
+        {
+            "sequence": "[CLS] Beëindigt de politicus -? [SEP]",
+            "score": 0.04064713791012764,
+            "token": 118,
+            "token_str": "-"
+        },
+        {
+            "sequence": "[CLS] Beëindigt de politicus.? [SEP]",
+            "score": 0.03752204030752182,
+            "token": 119,
+            "token_str": "."
+        },
+        {
+            "sequence": "[CLS] Beëindigt de politicus een? [SEP]",
+            "score": 0.029753059148788452,
+            "token": 10200,
+            "token_str": "een"
+        }
+    ],
+    "Omdat de politicus toespraken beëindigt .": [
+        {
+            "sequence": "[CLS] Omdat de politicus niet beëindigt. [SEP]",
+            "score": 0.05790655314922333,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] Omdat de politicus. beëindigt. [SEP]",
+            "score": 0.04749885946512222,
+            "token": 119,
+            "token_str": "."
+        },
+        {
+            "sequence": "[CLS] Omdat de politicus, beëindigt. [SEP]",
+            "score": 0.04312394559383392,
+            "token": 117,
+            "token_str": ","
+        },
+        {
+            "sequence": "[CLS] Omdat de politicus is beëindigt. [SEP]",
+            "score": 0.03842310607433319,
+            "token": 10124,
+            "token_str": "is"
+        },
+        {
+            "sequence": "[CLS] Omdat de politicus heeft beëindigt. [SEP]",
+            "score": 0.017219269648194313,
+            "token": 12365,
+            "token_str": "heeft"
+        }
+    ],
+    "De parlementsleden krijgen een basissalaris .": [
+        {
+            "sequence": "[CLS] De parlementsleden krijgen een ticket. [SEP]",
+            "score": 0.05277779698371887,
+            "token": 59037,
+            "token_str": "ticket"
+        },
+        {
+            "sequence": "[CLS] De parlementsleden krijgen een stem. [SEP]",
+            "score": 0.028773190453648567,
+            "token": 37649,
+            "token_str": "stem"
+        },
+        {
+            "sequence": "[CLS] De parlementsleden krijgen een meerderheid. [SEP]",
+            "score": 0.026266759261488914,
+            "token": 107189,
+            "token_str": "meerderheid"
+        },
+        {
+            "sequence": "[CLS] De parlementsleden krijgen een licentie. [SEP]",
+            "score": 0.025452498346567154,
+            "token": 57274,
+            "token_str": "licentie"
+        },
+        {
+            "sequence": "[CLS] De parlementsleden krijgen een partij. [SEP]",
+            "score": 0.02053060755133629,
+            "token": 40466,
+            "token_str": "partij"
+        }
+    ],
+    "Een basissalaris krijgen de parlementsleden .": [
+        {
+            "sequence": "[CLS] Een partij krijgen de parlementsleden. [SEP]",
+            "score": 0.06687317788600922,
+            "token": 40466,
+            "token_str": "partij"
+        },
+        {
+            "sequence": "[CLS] Een voor krijgen de parlementsleden. [SEP]",
+            "score": 0.0193560142070055,
+            "token": 10423,
+            "token_str": "voor"
+        },
+        {
+            "sequence": "[CLS] Een ticket krijgen de parlementsleden. [SEP]",
+            "score": 0.01918923854827881,
+            "token": 59037,
+            "token_str": "ticket"
+        },
+        {
+            "sequence": "[CLS] Een functie krijgen de parlementsleden. [SEP]",
+            "score": 0.018962910398840904,
+            "token": 50833,
+            "token_str": "functie"
+        },
+        {
+            "sequence": "[CLS] Een meerderheid krijgen de parlementsleden. [SEP]",
+            "score": 0.01822122372686863,
+            "token": 107189,
+            "token_str": "meerderheid"
+        }
+    ],
+    "Daarom krijgen de parlementsleden een basissalaris .": [
+        {
+            "sequence": "[CLS] Daarom krijgen de parlementsleden een meerderheid. [SEP]",
+            "score": 0.09565234929323196,
+            "token": 107189,
+            "token_str": "meerderheid"
+        },
+        {
+            "sequence": "[CLS] Daarom krijgen de parlementsleden een partij. [SEP]",
+            "score": 0.03301561251282692,
+            "token": 40466,
+            "token_str": "partij"
+        },
+        {
+            "sequence": "[CLS] Daarom krijgen de parlementsleden een stem. [SEP]",
+            "score": 0.029926758259534836,
+            "token": 37649,
+            "token_str": "stem"
+        },
+        {
+            "sequence": "[CLS] Daarom krijgen de parlementsleden een ticket. [SEP]",
+            "score": 0.02781025879085064,
+            "token": 59037,
+            "token_str": "ticket"
+        },
+        {
+            "sequence": "[CLS] Daarom krijgen de parlementsleden een licentie. [SEP]",
+            "score": 0.02639191411435604,
+            "token": 57274,
+            "token_str": "licentie"
+        }
+    ],
+    "Krijgen de parlementsleden een basissalaris ?": [
+        {
+            "sequence": "[CLS] Krijgen de parlementsleden een partij? [SEP]",
+            "score": 0.06696774810552597,
+            "token": 40466,
+            "token_str": "partij"
+        },
+        {
+            "sequence": "[CLS] Krijgen de parlementsleden een kans? [SEP]",
+            "score": 0.027960166335105896,
+            "token": 81212,
+            "token_str": "kans"
+        },
+        {
+            "sequence": "[CLS] Krijgen de parlementsleden een meerderheid? [SEP]",
+            "score": 0.022464526817202568,
+            "token": 107189,
+            "token_str": "meerderheid"
+        },
+        {
+            "sequence": "[CLS] Krijgen de parlementsleden een wet? [SEP]",
+            "score": 0.02001669444143772,
+            "token": 41115,
+            "token_str": "wet"
+        },
+        {
+            "sequence": "[CLS] Krijgen de parlementsleden een parlement? [SEP]",
+            "score": 0.014287426136434078,
+            "token": 51691,
+            "token_str": "parlement"
+        }
+    ],
+    "Omdat de parlementsleden een basissalaris krijgen .": [
+        {
+            "sequence": "[CLS] Omdat de parlementsleden een partij krijgen. [SEP]",
+            "score": 0.0838998556137085,
+            "token": 40466,
+            "token_str": "partij"
+        },
+        {
+            "sequence": "[CLS] Omdat de parlementsleden een meerderheid krijgen. [SEP]",
+            "score": 0.032648537307977676,
+            "token": 107189,
+            "token_str": "meerderheid"
+        },
+        {
+            "sequence": "[CLS] Omdat de parlementsleden een stem krijgen. [SEP]",
+            "score": 0.025106066837906837,
+            "token": 37649,
+            "token_str": "stem"
+        },
+        {
+            "sequence": "[CLS] Omdat de parlementsleden een recht krijgen. [SEP]",
+            "score": 0.017150871455669403,
+            "token": 31629,
+            "token_str": "recht"
+        },
+        {
+            "sequence": "[CLS] Omdat de parlementsleden een parlement krijgen. [SEP]",
+            "score": 0.01694011688232422,
+            "token": 51691,
+            "token_str": "parlement"
+        }
+    ],
+    "De boer bouwt hekken .": [
+        {
+            "sequence": "[CLS] De boer bouwt bouw. [SEP]",
+            "score": 0.017690159380435944,
+            "token": 56313,
+            "token_str": "bouw"
+        },
+        {
+            "sequence": "[CLS] De boer bouwt in. [SEP]",
+            "score": 0.01537169050425291,
+            "token": 10106,
+            "token_str": "in"
+        },
+        {
+            "sequence": "[CLS] De boer bouwt A. [SEP]",
+            "score": 0.014629616402089596,
+            "token": 138,
+            "token_str": "A"
+        },
+        {
+            "sequence": "[CLS] De boer bouwt o. [SEP]",
+            "score": 0.014536603353917599,
+            "token": 183,
+            "token_str": "o"
+        },
+        {
+            "sequence": "[CLS] De boer bouwt op. [SEP]",
+            "score": 0.01427191961556673,
+            "token": 10303,
+            "token_str": "op"
+        }
+    ],
+    "Hekken bouwt de boer .": [
+        {
+            "sequence": "[CLS] Hij bouwt de boer. [SEP]",
+            "score": 0.24114689230918884,
+            "token": 12076,
+            "token_str": "Hij"
+        },
+        {
+            "sequence": "[CLS] Ze bouwt de boer. [SEP]",
+            "score": 0.1469162553548813,
+            "token": 15536,
+            "token_str": "Ze"
+        },
+        {
+            "sequence": "[CLS] Zij bouwt de boer. [SEP]",
+            "score": 0.02764555625617504,
+            "token": 30234,
+            "token_str": "Zij"
+        },
+        {
+            "sequence": "[CLS] ze bouwt de boer. [SEP]",
+            "score": 0.018502647057175636,
+            "token": 10941,
+            "token_str": "ze"
+        },
+        {
+            "sequence": "[CLS] Het bouwt de boer. [SEP]",
+            "score": 0.012381934560835361,
+            "token": 10867,
+            "token_str": "Het"
+        }
+    ],
+    "Daarom bouwt de boer hekken .": [
+        {
+            "sequence": "[CLS] Daarom bouwt de boer op. [SEP]",
+            "score": 0.08175014704465866,
+            "token": 10303,
+            "token_str": "op"
+        },
+        {
+            "sequence": "[CLS] Daarom bouwt de boer af. [SEP]",
+            "score": 0.05624143406748772,
+            "token": 10452,
+            "token_str": "af"
+        },
+        {
+            "sequence": "[CLS] Daarom bouwt de boer uit. [SEP]",
+            "score": 0.030121415853500366,
+            "token": 10540,
+            "token_str": "uit"
+        },
+        {
+            "sequence": "[CLS] Daarom bouwt de boer een. [SEP]",
+            "score": 0.02248866856098175,
+            "token": 10200,
+            "token_str": "een"
+        },
+        {
+            "sequence": "[CLS] Daarom bouwt de boer in. [SEP]",
+            "score": 0.020134329795837402,
+            "token": 10106,
+            "token_str": "in"
+        }
+    ],
+    "Bouwt de boer hekken ?": [
+        {
+            "sequence": "[CLS] Bouwt de boer :? [SEP]",
+            "score": 0.13956966996192932,
+            "token": 131,
+            "token_str": ":"
+        },
+        {
+            "sequence": "[CLS] Bouwt de boer,? [SEP]",
+            "score": 0.12358161807060242,
+            "token": 117,
+            "token_str": ","
+        },
+        {
+            "sequence": "[CLS] Bouwt de boer?? [SEP]",
+            "score": 0.10881084948778152,
+            "token": 136,
+            "token_str": "?"
+        },
+        {
+            "sequence": "[CLS] Bouwt de boer '? [SEP]",
+            "score": 0.05582049489021301,
+            "token": 112,
+            "token_str": "'"
+        },
+        {
+            "sequence": "[CLS] Bouwt de boer!? [SEP]",
+            "score": 0.037475284188985825,
+            "token": 106,
+            "token_str": "!"
+        }
+    ],
+    "Omdat de boer hekken bouwt .": [
+        {
+            "sequence": "[CLS] Omdat de boer niet bouwt. [SEP]",
+            "score": 0.1834927350282669,
+            "token": 11670,
+            "token_str": "niet"
+        },
+        {
+            "sequence": "[CLS] Omdat de boer. bouwt. [SEP]",
+            "score": 0.05076149106025696,
+            "token": 119,
+            "token_str": "."
+        },
+        {
+            "sequence": "[CLS] Omdat de boer niets bouwt. [SEP]",
+            "score": 0.02620544284582138,
+            "token": 75342,
+            "token_str": "niets"
+        },
+        {
+            "sequence": "[CLS] Omdat de boer, bouwt. [SEP]",
+            "score": 0.021596750244498253,
+            "token": 117,
+            "token_str": ","
+        },
+        {
+            "sequence": "[CLS] Omdat de boer het bouwt. [SEP]",
+            "score": 0.019176864996552467,
+            "token": 10187,
+            "token_str": "het"
+        }
+    ],
+    "De sportvrouwen winnen een toer .": [
+        {
+            "sequence": "[CLS] De sportvrouwen winnen een wedstrijd. [SEP]",
+            "score": 0.24180571734905243,
+            "token": 36025,
+            "token_str": "wedstrijd"
+        },
+        {
+            "sequence": "[CLS] De sportvrouwen winnen een finale. [SEP]",
+            "score": 0.10123158991336823,
+            "token": 12239,
+            "token_str": "finale"
+        },
+        {
+            "sequence": "[CLS] De sportvrouwen winnen een toernooi. [SEP]",
+            "score": 0.052672795951366425,
+            "token": 39652,
+            "token_str": "toernooi"
+        },
+        {
+            "sequence": "[CLS] De sportvrouwen winnen een ronde. [SEP]",
+            "score": 0.019484365358948708,
+            "token": 32539,
+            "token_str": "ronde"
+        },
+        {
+            "sequence": "[CLS] De sportvrouwen winnen een winnaar. [SEP]",
+            "score": 0.018677394837141037,
+            "token": 92104,
+            "token_str": "winnaar"
+        }
+    ],
+    "Een toer winnen de sportvrouwen .": [
+        {
+            "sequence": "[CLS] Eendag winnen de sportvrouwen. [SEP]",
+            "score": 0.12190704047679901,
+            "token": 19115,
+            "token_str": "##dag"
+        },
+        {
+            "sequence": "[CLS] Eenmaal winnen de sportvrouwen. [SEP]",
+            "score": 0.09689392894506454,
+            "token": 24018,
+            "token_str": "##maal"
+        },
+        {
+            "sequence": "[CLS] Een dag winnen de sportvrouwen. [SEP]",
+            "score": 0.08653989434242249,
+            "token": 14177,
+            "token_str": "dag"
+        },
+        {
+            "sequence": "[CLS] Een wedstrijd winnen de sportvrouwen. [SEP]",
+            "score": 0.0430186502635479,
+            "token": 36025,
+            "token_str": "wedstrijd"
+        },
+        {
+            "sequence": "[CLS] Een jaar winnen de sportvrouwen. [SEP]",
+            "score": 0.031231706961989403,
+            "token": 12626,
+            "token_str": "jaar"
+        }
+    ],
+    "Daarom winnen de sportvrouwen een toer .": [
+        {
+            "sequence": "[CLS] Daarom winnen de sportvrouwen een wedstrijd. [SEP]",
+            "score": 0.48188161849975586,
+            "token": 36025,
+            "token_str": "wedstrijd"
+        },
+        {
+            "sequence": "[CLS] Daarom winnen de sportvrouwen een finale. [SEP]",
+            "score": 0.10411050170660019,
+            "token": 12239,
+            "token_str": "finale"
+        },
+        {
+            "sequence": "[CLS] Daarom winnen de sportvrouwen een toernooi. [SEP]",
+            "score": 0.06902263313531876,
+            "token": 39652,
+            "token_str": "toernooi"
+        },
+        {
+            "sequence": "[CLS] Daarom winnen de sportvrouwen een ronde. [SEP]",
+            "score": 0.014928159303963184,
+            "token": 32539,
+            "token_str": "ronde"
+        },
+        {
+            "sequence": "[CLS] Daarom winnen de sportvrouwen een medaille. [SEP]",
+            "score": 0.010425979271531105,
+            "token": 57058,
+            "token_str": "medaille"
+        }
+    ],
+    "Winnen de sportvrouwen een toer ?": [
+        {
+            "sequence": "[CLS] Winnen de sportvrouwen een prijs? [SEP]",
+            "score": 0.11805906146764755,
+            "token": 61097,
+            "token_str": "prijs"
+        },
+        {
+            "sequence": "[CLS] Winnen de sportvrouwen een wedstrijd? [SEP]",
+            "score": 0.033230580389499664,
+            "token": 36025,
+            "token_str": "wedstrijd"
+        },
+        {
+            "sequence": "[CLS] Winnen de sportvrouwen een sport? [SEP]",
+            "score": 0.02596910484135151,
+            "token": 17925,
+            "token_str": "sport"
+        },
+        {
+            "sequence": "[CLS] Winnen de sportvrouwen een medaille? [SEP]",
+            "score": 0.021273717284202576,
+            "token": 57058,
+            "token_str": "medaille"
+        },
+        {
+            "sequence": "[CLS] Winnen de sportvrouwen een jaar? [SEP]",
+            "score": 0.020883485674858093,
+            "token": 12626,
+            "token_str": "jaar"
+        }
+    ],
+    "Omdat de sportvrouwen een toer winnen .": [
+        {
+            "sequence": "[CLS] Omdat de sportvrouwen een wedstrijd winnen. [SEP]",
+            "score": 0.25838160514831543,
+            "token": 36025,
+            "token_str": "wedstrijd"
+        },
+        {
+            "sequence": "[CLS] Omdat de sportvrouwen een toernooi winnen. [SEP]",
+            "score": 0.04313976690173149,
+            "token": 39652,
+            "token_str": "toernooi"
+        },
+        {
+            "sequence": "[CLS] Omdat de sportvrouwen een finale winnen. [SEP]",
+            "score": 0.021828046068549156,
+            "token": 12239,
+            "token_str": "finale"
+        },
+        {
+            "sequence": "[CLS] Omdat de sportvrouwen een prijs winnen. [SEP]",
+            "score": 0.014687130227684975,
+            "token": 61097,
+            "token_str": "prijs"
+        },
+        {
+            "sequence": "[CLS] Omdat de sportvrouwen een winnaar winnen. [SEP]",
+            "score": 0.012155452743172646,
+            "token": 92104,
+            "token_str": "winnaar"
+        }
+    ],
+    "De ambachtsmannen nemen een constructie .": [
+        {
+            "sequence": "[CLS] De ambachtsmannen nemen een aan. [SEP]",
+            "score": 0.05258752033114433,
+            "token": 10727,
+            "token_str": "aan"
+        },
+        {
+            "sequence": "[CLS] De ambachtsmannen nemen een hand. [SEP]",
+            "score": 0.04586156830191612,
+            "token": 15230,
+            "token_str": "hand"
+        },
+        {
+            "sequence": "[CLS] De ambachtsmannen nemen een beroep. [SEP]",
+            "score": 0.03451481834053993,
+            "token": 94004,
+            "token_str": "beroep"
+        },
+        {
+            "sequence": "[CLS] De ambachtsmannen nemen een baan. [SEP]",
+            "score": 0.026204554364085197,
+            "token": 70991,
+            "token_str": "baan"
+        },
+        {
+            "sequence": "[CLS] De ambachtsmannen nemen een op. [SEP]",
+            "score": 0.02510237880051136,
+            "token": 10303,
+            "token_str": "op"
+        }
+    ],
+    "Een constructie nemen de ambachtsmannen .": [
+        {
+            "sequence": "[CLS] Eenzaam nemen de ambachtsmannen. [SEP]",
+            "score": 0.047014977782964706,
+            "token": 53214,
+            "token_str": "##zaam"
+        },
+        {
+            "sequence": "[CLS] Een hand nemen de ambachtsmannen. [SEP]",
+            "score": 0.031643662601709366,
+            "token": 15230,
+            "token_str": "hand"
+        },
+        {
+            "sequence": "[CLS] Een deel nemen de ambachtsmannen. [SEP]",
+            "score": 0.03148520365357399,
+            "token": 13380,
+            "token_str": "deel"
+        },
+        {
+            "sequence": "[CLS] Een dag nemen de ambachtsmannen. [SEP]",
+            "score": 0.02900727093219757,
+            "token": 14177,
+            "token_str": "dag"
+        },
+        {
+            "sequence": "[CLS] Eendag nemen de ambachtsmannen. [SEP]",
+            "score": 0.01698518916964531,
+            "token": 19115,
+            "token_str": "##dag"
+        }
+    ],
+    "Daarom nemen de ambachtsmannen een constructie .": [
+        {
+            "sequence": "[CLS] Daarom nemen de ambachtsmannen een besluit. [SEP]",
+            "score": 0.05649270489811897,
+            "token": 55418,
+            "token_str": "besluit"
+        },
+        {
+            "sequence": "[CLS] Daarom nemen de ambachtsmannen een hand. [SEP]",
+            "score": 0.03259080648422241,
+            "token": 15230,
+            "token_str": "hand"
+        },
+        {
+            "sequence": "[CLS] Daarom nemen de ambachtsmannen een aan. [SEP]",
+            "score": 0.030753856524825096,
+            "token": 10727,
+            "token_str": "aan"
+        },
+        {
+            "sequence": "[CLS] Daarom nemen de ambachtsmannen een over. [SEP]",
+            "score": 0.025761812925338745,
+            "token": 10491,
+            "token_str": "over"
+        },
+        {
+            "sequence": "[CLS] Daarom nemen de ambachtsmannen een beroep. [SEP]",
+            "score": 0.024611860513687134,
+            "token": 94004,
+            "token_str": "beroep"
+        }
+    ],
+    "Nemen de ambachtsmannen een constructie ?": [
+        {
+            "sequence": "[CLS] Nemen de ambachtsmannen een partij? [SEP]",
+            "score": 0.021431410685181618,
+            "token": 40466,
+            "token_str": "partij"
+        },
+        {
+            "sequence": "[CLS] Nemen de ambachtsmannen een prijs? [SEP]",
+            "score": 0.01783464290201664,
+            "token": 61097,
+            "token_str": "prijs"
+        },
+        {
+            "sequence": "[CLS] Nemen de ambachtsmannen een kans? [SEP]",
+            "score": 0.015235542319715023,
+            "token": 81212,
+            "token_str": "kans"
+        },
+        {
+            "sequence": "[CLS] Nemen de ambachtsmannen een probleem? [SEP]",
+            "score": 0.013499757274985313,
+            "token": 94678,
+            "token_str": "probleem"
+        },
+        {
+            "sequence": "[CLS] Nemen de ambachtsmannen een deel? [SEP]",
+            "score": 0.012670595198869705,
+            "token": 13380,
+            "token_str": "deel"
+        }
+    ],
+    "Omdat de ambachtsmannen een constructie nemen .": [
+        {
+            "sequence": "[CLS] Omdat de ambachtsmannen een besluit nemen. [SEP]",
+            "score": 0.02744104526937008,
+            "token": 55418,
+            "token_str": "besluit"
+        },
+        {
+            "sequence": "[CLS] Omdat de ambachtsmannen een recht nemen. [SEP]",
+            "score": 0.0240482185035944,
+            "token": 31629,
+            "token_str": "recht"
+        },
+        {
+            "sequence": "[CLS] Omdat de ambachtsmannen een beroep nemen. [SEP]",
+            "score": 0.017159266397356987,
+            "token": 94004,
+            "token_str": "beroep"
+        },
+        {
+            "sequence": "[CLS] Omdat de ambachtsmannen een te nemen. [SEP]",
+            "score": 0.012006708420813084,
+            "token": 10361,
+            "token_str": "te"
+        },
+        {
+            "sequence": "[CLS] Omdat de ambachtsmannen een hand nemen. [SEP]",
+            "score": 0.011156545951962471,
+            "token": 15230,
+            "token_str": "hand"
+        }
+    ]
+}

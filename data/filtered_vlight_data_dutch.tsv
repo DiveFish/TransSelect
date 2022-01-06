@@ -1,0 +1,665 @@
+VF[S]LK[V]MF[O]	base-vlight	2	4	De mens maakt fouten .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Fouten maakt de mens .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	5	Daarom maakt de mens fouten .
+LK[V]MF[SO]	base-vlight	3	4	Maakt de mens fouten ?
+MF[SO]VC[V]	base-vlight	3	4	Omdat de mens fouten maakt .
+VF[S]LK[V]MF[O]	base-vlight	2	4	De boef begaat misdaden .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Misdaden begaat de boef .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	5	Daarom begaat de boef misdaden .
+LK[V]MF[SO]	base-vlight	3	4	Begaat de boef misdaden ?
+MF[SO]VC[V]	base-vlight	3	4	Omdat de boef misdaden begaat .
+VF[S]LK[V]MF[O]	base-vlight	2	4	De bazin neemt beslissingen .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Beslissingen neemt de bazin .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	5	Daarom neemt de bazin beslissingen .
+LK[V]MF[SO]	base-vlight	3	4	Neemt de bazin beslissingen ?
+MF[SO]VC[V]	base-vlight	3	4	Omdat de bazin beslissingen neemt .
+VF[S]LK[V]MF[O]	base-vlight	2	4	De advocaat doet verzoeken .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Verzoeken doet de advocaat .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	5	Daarom doet de advocaat verzoeken .
+LK[V]MF[SO]	base-vlight	3	4	Doet de advocaat verzoeken ?
+MF[SO]VC[V]	base-vlight	3	4	Omdat de advocaat verzoeken doet .
+VF[S]LK[V]MF[O]	base-vlight	2	5	De leerlingen stellen een vraag .
+VF[O]LK[V]MF[S]	base-vlight	5	2	Een vraag stellen de leerlingen .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	6	Daarom stellen de leerlingen een vraag .
+LK[V]MF[SO]	base-vlight	3	5	Stellen de leerlingen een vraag ?
+MF[SO]VC[V]	base-vlight	3	5	Omdat de leerlingen een vraag stellen .
+VF[S]LK[V]MF[O]	base-vlight	2	4	De klerk plaatst orders .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Orders plaatst de klerk .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	5	Daarom plaatst de klerk orders .
+LK[V]MF[SO]	base-vlight	3	4	Plaatst de klerk orders ?
+MF[SO]VC[V]	base-vlight	3	4	Omdat de klerk orders plaatst .
+VF[S]LK[V]MF[O]	base-vlight	2	4	De dieren hebben geluk .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Geluk hebben de dieren .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	5	Daarom hebben de dieren geluk .
+LK[V]MF[SO]	base-vlight	3	4	Hebben de dieren geluk ?
+MF[SO]VC[V]	base-vlight	3	4	Omdat de dieren geluk hebben .
+VF[S]LK[V]MF[O]	base-vlight	2	4	De collega's houden rekening .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Rekening houden de collega's .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	5	Daarom houden de collega's rekening .
+LK[V]MF[SO]	base-vlight	3	4	Houden de collega's rekening ?
+MF[SO]VC[V]	base-vlight	3	4	Omdat de collega's rekening houden .
+VF[S]LK[V]MF[O]	base-vlight	2	4	De vriendinnen nemen afscheid .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Afscheid nemen de vriendinnen .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	5	Daarom nemen de vriendinnen afscheid .
+LK[V]MF[SO]	base-vlight	3	4	Nemen de vriendinnen afscheid ?
+MF[SO]VC[V]	base-vlight	3	4	Omdat de vriendinnen afscheid nemen .
+VF[S]LK[V]MF[O]	base-vlight	2	5	De kandidaten blazen een aftocht .
+VF[O]LK[V]MF[S]	base-vlight	5	2	Een aftocht blazen de kandidaten .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	6	Daarom blazen de kandidaten een aftocht .
+LK[V]MF[SO]	base-vlight	3	5	Blazen de kandidaten een aftocht ?
+MF[SO]VC[V]	base-vlight	3	5	Omdat de kandidaten een aftocht blazen .
+VF[S]LK[V]MF[O]	base-vlight	2	4	De politici leveren kritiek .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Kritiek leveren de politici .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	5	Daarom leveren de politici kritiek .
+LK[V]MF[SO]	base-vlight	3	4	Leveren de politici kritiek ?
+MF[SO]VC[V]	base-vlight	3	4	Omdat de politici kritiek leveren .
+VF[S]LK[V]MF[O]	base-vlight	2	4	De gevangenen bieden weerstand .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Weerstand bieden de gevangenen .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	5	Daarom bieden de gevangenen weerstand .
+LK[V]MF[SO]	base-vlight	3	4	Bieden de gevangenen weerstand ?
+MF[SO]VC[V]	base-vlight	3	4	Omdat de gevangenen weerstand bieden .
+VF[S]LK[V]MF[O]	base-vlight	2	4	De auteur verdeelt rollen .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Rollen verdeelt de auteur .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	5	Daarom verdeelt de auteur rollen .
+LK[V]MF[SO]	base-vlight	3	4	Verdeelt de auteur rollen ?
+MF[SO]VC[V]	base-vlight	3	4	Omdat de auteur rollen verdeelt .
+VF[S]LK[V]MF[O]	base-vlight	2	5	De mountainbikers vervullen een hoop .
+VF[O]LK[V]MF[S]	base-vlight	5	2	Een hoop vervullen de mountainbikers .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	6	Daarom vervullen de mountainbikers een hoop .
+LK[V]MF[SO]	base-vlight	3	5	Vervullen de mountainbikers een hoop ?
+MF[SO]VC[V]	base-vlight	3	5	Omdat de mountainbikers een hoop vervullen .
+VF[S]LK[V]MF[O]	base-vlight	2	5	De persvoorlichters bepalen hun houding .
+VF[O]LK[V]MF[S]	base-vlight	5	2	Hun houding bepalen de persvoorlichters .
+VF[ADV]LK[V]MF[SO]	base-vlight	4	6	Daarom bepalen de persvoorlichters hun houding .
+LK[V]MF[SO]	base-vlight	3	5	Bepalen de persvoorlichters hun houding ?
+MF[SO]VC[V]	base-vlight	3	5	Omdat de persvoorlichters hun houding bepalen .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	De mensen maken fouten .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Fouten maken de mensen .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	5	Daarom maken de mensen fouten .
+LK[V]MF[SO]	amb-vlight	3	4	Maken de mensen fouten ?
+MF[SO]VC[V]	amb-vlight	3	4	Omdat de mensen fouten maken .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	De boeven begaan misdaden .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Misdaden begaan de boeven .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	5	Daarom begaan de boeven misdaden .
+LK[V]MF[SO]	amb-vlight	3	4	Begaan de boeven misdaden ?
+MF[SO]VC[V]	amb-vlight	3	4	Omdat de boeven misdaden begaan .
+VF[S]LK[V]MF[O]	amb-vlight	2	5	De bazin neemt een beslissing .
+VF[O]LK[V]MF[S]	amb-vlight	5	2	Een beslissing neemt de bazin .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	6	Daarom neemt de bazin een beslissing .
+LK[V]MF[SO]	amb-vlight	3	5	Neemt de bazin een beslissing ?
+MF[SO]VC[V]	amb-vlight	3	5	Omdat de bazin een beslissing neemt .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	De advocaten doen verzoeken .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Verzoeken doen de advocaten .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	5	Daarom doen de advocaten verzoeken .
+LK[V]MF[SO]	amb-vlight	3	4	Doen de advocaten verzoeken ?
+MF[SO]VC[V]	amb-vlight	3	4	Omdat de advocaten verzoeken doen .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	De leerlingen stellen vragen .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Vragen stellen de leerlingen .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	5	Daarom stellen de leerlingen vragen .
+LK[V]MF[SO]	amb-vlight	3	4	Stellen de leerlingen vragen ?
+MF[SO]VC[V]	amb-vlight	3	4	Omdat de leerlingen vragen stellen .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	De klerken plaatsen orders .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Orders plaatsen de klerken .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	5	Daarom plaatsen de klerken orders .
+LK[V]MF[SO]	amb-vlight	3	4	Plaatsen de klerken orders ?
+MF[SO]VC[V]	amb-vlight	3	4	Omdat de klerken orders plaatsen .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Het dier heeft geluk .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Geluk heeft het dier .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	5	Daarom heeft het dier geluk .
+LK[V]MF[SO]	amb-vlight	3	4	Heeft het dier geluk ?
+MF[SO]VC[V]	amb-vlight	3	4	Omdat het dier geluk heeft .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	De collega houdt rekening .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Rekening houdt de collega .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	5	Daarom houdt de collega rekening .
+LK[V]MF[SO]	amb-vlight	3	4	Houdt de collega rekening ?
+MF[SO]VC[V]	amb-vlight	3	4	Omdat de collega rekening houdt .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	De vriendin neemt afscheid .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Afscheid neemt de vriendin .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	5	Daarom neemt de vriendin afscheid .
+LK[V]MF[SO]	amb-vlight	3	4	Neemt de vriendin afscheid ?
+MF[SO]VC[V]	amb-vlight	3	4	Omdat de vriendin afscheid neemt .
+VF[S]LK[V]MF[O]	amb-vlight	2	5	De kandidaat blaast een aftocht .
+VF[O]LK[V]MF[S]	amb-vlight	5	2	Een aftocht blaast de kandidaat .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	6	Daarom blaast de kandidaat een aftocht .
+LK[V]MF[SO]	amb-vlight	3	5	Blaast de kandidaat een aftocht ?
+MF[SO]VC[V]	amb-vlight	3	5	Omdat de kandidaat een aftocht blaast .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	De politicus levert kritiek .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Kritiek levert de politicus .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	5	Daarom levert de politicus kritiek .
+LK[V]MF[SO]	amb-vlight	3	4	Levert de politicus kritiek ?
+MF[SO]VC[V]	amb-vlight	3	4	Omdat de politicus kritiek levert .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	De gevangene biedt weerstand .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Weerstand biedt de gevangene .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	5	Daarom biedt de gevangene weerstand .
+LK[V]MF[SO]	amb-vlight	3	4	Biedt de gevangene weerstand ?
+MF[SO]VC[V]	amb-vlight	3	4	Omdat de gevangene weerstand biedt .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	De auteurs verdelen rollen .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Rollen verdelen de auteurs .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	5	Daarom verdelen de auteurs rollen .
+LK[V]MF[SO]	amb-vlight	3	4	Verdelen de auteurs rollen ?
+MF[SO]VC[V]	amb-vlight	3	4	Omdat de auteurs rollen verdelen .
+VF[S]LK[V]MF[O]	amb-vlight	2	5	De mountainbiker vervult een hoop .
+VF[O]LK[V]MF[S]	amb-vlight	5	2	Een hoop vervult de mountainbiker .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	6	Daarom vervult de mountainbiker een hoop .
+LK[V]MF[SO]	amb-vlight	3	5	Vervult de mountainbiker een hoop ?
+MF[SO]VC[V]	amb-vlight	3	5	Omdat de mountainbiker een hoop vervult .
+VF[S]LK[V]MF[O]	amb-vlight	2	5	De persvoorlichter bepaalt zijn houding .
+VF[O]LK[V]MF[S]	amb-vlight	5	2	Zijn houding bepaalt de persvoorlichter .
+VF[ADV]LK[V]MF[SO]	amb-vlight	4	6	Daarom bepaalt de persvoorlichter zijn houding .
+LK[V]MF[SO]	amb-vlight	3	5	Bepaalt de persvoorlichter zijn houding ?
+MF[SO]VC[V]	amb-vlight	3	5	Omdat de persvoorlichter zijn houding bepaalt .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	De mens zal fouten maken .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Fouten zal de mens maken .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	5	Daarom zal de mens fouten maken .
+LK[V]MF[SO]	aux-vlight	3	4	Zal de mens fouten maken ?
+MF[SO]VC[V]	aux-vlight	3	4	Omdat de mens fouten zal maken .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	De boef zal misdaden begaan .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Misdaden zal de boef begaan .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	5	Daarom zal de boef misdaden begaan .
+LK[V]MF[SO]	aux-vlight	3	4	Zal de boef misdaden begaan ?
+MF[SO]VC[V]	aux-vlight	3	4	Omdat de boef misdaden zal begaan .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	De bazin zal beslissingen nemen .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Beslissingen zal de bazin nemen .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	5	Daarom zal de bazin beslissingen nemen .
+LK[V]MF[SO]	aux-vlight	3	4	Zal de bazin beslissingen nemen ?
+MF[SO]VC[V]	aux-vlight	3	4	Omdat de bazin beslissingen zal nemen .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	De advocaat zal verzoeken doen .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Verzoeken zal de advocaat doen .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	5	Daarom zal de advocaat verzoeken doen .
+LK[V]MF[SO]	aux-vlight	3	4	Zal de advocaat verzoeken doen ?
+MF[SO]VC[V]	aux-vlight	3	4	Omdat de advocaat verzoeken zal doen .
+VF[S]LK[V]MF[O]	aux-vlight	2	5	De leerlingen zullen een vraag stellen .
+VF[O]LK[V]MF[S]	aux-vlight	5	2	Een vraag zullen de leerlingen stellen .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	6	Daarom zullen de leerlingen een vraag stellen .
+LK[V]MF[SO]	aux-vlight	3	5	Zullen de leerlingen een vraag stellen ?
+MF[SO]VC[V]	aux-vlight	3	5	Omdat de leerlingen een vraag zullen stellen .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	De klerk zal orders plaatsen .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Orders zal de klerk plaatsen .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	5	Daarom zal de klerk orders plaatsen .
+LK[V]MF[SO]	aux-vlight	3	4	Zal de klerk orders plaatsen ?
+MF[SO]VC[V]	aux-vlight	3	4	Omdat de klerk orders zal plaatsen .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	De dieren zullen geluk hebben .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Geluk zullen de dieren hebben .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	5	Daarom zullen de dieren geluk hebben .
+LK[V]MF[SO]	aux-vlight	3	4	Zullen de dieren geluk hebben ?
+MF[SO]VC[V]	aux-vlight	3	4	Omdat de dieren geluk zullen hebben .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	De collega's zullen rekening houden .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Rekening zullen de collega's houden .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	5	Daarom zullen de collega's rekening houden .
+LK[V]MF[SO]	aux-vlight	3	4	Zullen de collega's rekening houden ?
+MF[SO]VC[V]	aux-vlight	3	4	Omdat de collega's rekening zullen houden .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	De vriendinnen zullen afscheid nemen .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Afscheid zullen de vriendinnen nemen .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	5	Daarom zullen de vriendinnen afscheid nemen .
+LK[V]MF[SO]	aux-vlight	3	4	Zullen de vriendinnen afscheid nemen ?
+MF[SO]VC[V]	aux-vlight	3	4	Omdat de vriendinnen afscheid zullen nemen .
+VF[S]LK[V]MF[O]	aux-vlight	2	5	De kandidaten zullen een aftocht blazen .
+VF[O]LK[V]MF[S]	aux-vlight	5	2	Een aftocht zullen de kandidaten blazen .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	6	Daarom zullen de kandidaten een aftocht blazen .
+LK[V]MF[SO]	aux-vlight	3	5	Zullen de kandidaten een aftocht blazen ?
+MF[SO]VC[V]	aux-vlight	3	5	Omdat de kandidaten een aftocht zullen blazen .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	De politici zullen kritiek leveren .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Kritiek zullen de politici leveren .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	5	Daarom zullen de politici kritiek leveren .
+LK[V]MF[SO]	aux-vlight	3	4	Zullen de politici kritiek leveren ?
+MF[SO]VC[V]	aux-vlight	3	4	Omdat de politici kritiek zullen leveren .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	De gevangenen zullen weerstand bieden .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Weerstand zullen de gevangenen bieden .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	5	Daarom zullen de gevangenen weerstand bieden .
+LK[V]MF[SO]	aux-vlight	3	4	Zullen de gevangenen weerstand bieden ?
+MF[SO]VC[V]	aux-vlight	3	4	Omdat de gevangenen weerstand zullen bieden .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	De auteur zal rollen verdelen .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Rollen zal de auteur verdelen .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	5	Daarom zal de auteur rollen verdelen .
+LK[V]MF[SO]	aux-vlight	3	4	Zal de auteur rollen verdelen ?
+MF[SO]VC[V]	aux-vlight	3	4	Omdat de auteur rollen zal verdelen .
+VF[S]LK[V]MF[O]	aux-vlight	2	5	De mountainbikers zullen een hoop vervullen .
+VF[O]LK[V]MF[S]	aux-vlight	5	2	Een hoop zullen de mountainbikers vervullen .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	6	Daarom zullen de mountainbikers een hoop vervullen .
+LK[V]MF[SO]	aux-vlight	3	5	Zullen de mountainbikers een hoop vervullen ?
+MF[SO]VC[V]	aux-vlight	3	5	Omdat de mountainbikers een hoop zullen vervullen .
+VF[S]LK[V]MF[O]	aux-vlight	2	5	De persvoorlichters zullen hun houding bepalen .
+VF[O]LK[V]MF[S]	aux-vlight	5	2	Hun houding zullen de persvoorlichters bepalen .
+VF[ADV]LK[V]MF[SO]	aux-vlight	4	6	Daarom zullen de persvoorlichters hun houding bepalen .
+LK[V]MF[SO]	aux-vlight	3	5	Zullen de persvoorlichters hun houding bepalen ?
+MF[SO]VC[V]	aux-vlight	3	5	Omdat de persvoorlichters hun houding zullen bepalen .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Hij maakt een fout .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Een fout maakt hij .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	5	Daarom maakt hij een fout .
+LK[V]MF[SO]	spron-vlight	2	4	Maakt hij een fout ?
+MF[SO]VC[V]	spron-vlight	2	4	Omdat hij een fout maakt .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Ze begaan een misdaad .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Een misdaad begaan ze .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	5	Daarom begaan ze een misdaad .
+LK[V]MF[SO]	spron-vlight	2	4	Begaan ze een misdaad ?
+MF[SO]VC[V]	spron-vlight	2	4	Omdat ze een misdaad begaan .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Hij neemt beslissingen .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Beslissingen neemt hij .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	4	Daarom neemt hij beslissingen .
+LK[V]MF[SO]	spron-vlight	2	3	Neemt hij beslissingen ?
+MF[SO]VC[V]	spron-vlight	2	3	Omdat hij beslissingen neemt .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	We doen een verzoek .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Een verzoek doen we .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	5	Daarom doen we een verzoek .
+LK[V]MF[SO]	spron-vlight	2	4	Doen we een verzoek ?
+MF[SO]VC[V]	spron-vlight	2	4	Omdat we een verzoek doen .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Hij stelt een vraag .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Een vraag stelt hij .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	5	Daarom stelt hij een vraag .
+LK[V]MF[SO]	spron-vlight	2	4	Stelt hij een vraag ?
+MF[SO]VC[V]	spron-vlight	2	4	Omdat hij een vraag stelt .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Ze plaatsen een order .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Een order plaatsen ze .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	5	Daarom plaatsen ze een order .
+LK[V]MF[SO]	spron-vlight	2	4	Plaatsen ze een order ?
+MF[SO]VC[V]	spron-vlight	2	4	Omdat ze een order plaatsen .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Ik heb geluk .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Geluk heb ik .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	4	Daarom heb ik geluk .
+LK[V]MF[SO]	spron-vlight	2	3	Heb ik geluk ?
+MF[SO]VC[V]	spron-vlight	2	3	Omdat ik geluk heb .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Je houdt rekening .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Rekening houdt je .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	4	Daarom houdt je rekening .
+LK[V]MF[SO]	spron-vlight	2	3	Houdt je rekening ?
+MF[SO]VC[V]	spron-vlight	2	3	Omdat je rekening houdt .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Jullie nemen afscheid .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Afscheid nemen jullie .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	4	Daarom nemen jullie afscheid .
+LK[V]MF[SO]	spron-vlight	2	3	Nemen jullie afscheid ?
+MF[SO]VC[V]	spron-vlight	2	3	Omdat jullie afscheid nemen .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Hij blaast een aftocht .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Een aftocht blaast hij .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	5	Daarom blaast hij een aftocht .
+LK[V]MF[SO]	spron-vlight	2	4	Blaast hij een aftocht ?
+MF[SO]VC[V]	spron-vlight	2	4	Omdat hij een aftocht blaast .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	We leveren kritiek .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Kritiek leveren we .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	4	Daarom leveren we kritiek .
+LK[V]MF[SO]	spron-vlight	2	3	Leveren we kritiek ?
+MF[SO]VC[V]	spron-vlight	2	3	Omdat we kritiek leveren .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Hij biedt weerstand .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Weerstand biedt hij .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	4	Daarom biedt hij weerstand .
+LK[V]MF[SO]	spron-vlight	2	3	Biedt hij weerstand ?
+MF[SO]VC[V]	spron-vlight	2	3	Omdat hij weerstand biedt .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	We verdelen rollen .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Rollen verdelen we .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	4	Daarom verdelen we rollen .
+LK[V]MF[SO]	spron-vlight	2	3	Verdelen we rollen ?
+MF[SO]VC[V]	spron-vlight	2	3	Omdat we rollen verdelen .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Jullie vervullen een hoop .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Een hoop vervullen jullie .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	5	Daarom vervullen jullie een hoop .
+LK[V]MF[SO]	spron-vlight	2	4	Vervullen jullie een hoop ?
+MF[SO]VC[V]	spron-vlight	2	4	Omdat jullie een hoop vervullen .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Hij bepaalt zijn houding .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Zijn houding bepaalt hij .
+VF[ADV]LK[V]MF[SO]	spron-vlight	3	5	Daarom bepaalt hij zijn houding .
+LK[V]MF[SO]	spron-vlight	2	4	Bepaalt hij zijn houding ?
+MF[SO]VC[V]	spron-vlight	2	4	Omdat hij zijn houding bepaalt .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De mens maakt geen fouten .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen fouten maakt de mens .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom maakt de mens geen fouten .
+LK[V]MF[SO]	oneg-vlight	3	5	Maakt de mens geen fouten ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de mens geen fouten maakt .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De boef begaat geen misdaden .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen misdaden begaat de boef .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom begaat de boef geen misdaden .
+LK[V]MF[SO]	oneg-vlight	3	5	Begaat de boef geen misdaden ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de boef geen misdaden begaat .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De bazin neemt geen beslissingen .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen beslissingen neemt de bazin .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom neemt de bazin geen beslissingen .
+LK[V]MF[SO]	oneg-vlight	3	5	Neemt de bazin geen beslissingen ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de bazin geen beslissingen neemt .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De advocaat doet geen verzoeken .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen verzoeken doet de advocaat .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom doet de advocaat geen verzoeken .
+LK[V]MF[SO]	oneg-vlight	3	5	Doet de advocaat geen verzoeken ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de advocaat geen verzoeken doet .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De leerlingen stellen geen vraag .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen vraag stellen de leerlingen .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom stellen de leerlingen geen vraag .
+LK[V]MF[SO]	oneg-vlight	3	5	Stellen de leerlingen geen vraag ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de leerlingen geen vraag stellen .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De klerk plaatst geen orders .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen orders plaatst de klerk .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom plaatst de klerk geen orders .
+LK[V]MF[SO]	oneg-vlight	3	5	Plaatst de klerk geen orders ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de klerk geen orders plaatst .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De dieren hebben geen geluk .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen geluk hebben de dieren .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom hebben de dieren geen geluk .
+LK[V]MF[SO]	oneg-vlight	3	5	Hebben de dieren geen geluk ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de dieren geen geluk hebben .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De collega's houden geen rekening .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen rekening houden de collega's .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom houden de collega's geen rekening .
+LK[V]MF[SO]	oneg-vlight	3	5	Houden de collega's geen rekening ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de collega's geen rekening houden .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De vriendinnen nemen geen afscheid .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen afscheid nemen de vriendinnen .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom nemen de vriendinnen geen afscheid .
+LK[V]MF[SO]	oneg-vlight	3	5	Nemen de vriendinnen geen afscheid ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de vriendinnen geen afscheid nemen .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De kandidaten blazen geen aftocht .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen aftocht blazen de kandidaten .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom blazen de kandidaten geen aftocht .
+LK[V]MF[SO]	oneg-vlight	3	5	Blazen de kandidaten geen aftocht ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de kandidaten geen aftocht blazen .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De politici leveren geen kritiek .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen kritiek leveren de politici .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom leveren de politici geen kritiek .
+LK[V]MF[SO]	oneg-vlight	3	5	Leveren de politici geen kritiek ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de politici geen kritiek leveren .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De gevangenen bieden geen weerstand .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen weerstand bieden de gevangenen .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom bieden de gevangenen geen weerstand .
+LK[V]MF[SO]	oneg-vlight	3	5	Bieden de gevangenen geen weerstand ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de gevangenen geen weerstand bieden .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De auteur verdeelt geen rollen .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen rollen verdeelt de auteur .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom verdeelt de auteur geen rollen .
+LK[V]MF[SO]	oneg-vlight	3	5	Verdeelt de auteur geen rollen ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de auteur geen rollen verdeelt .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De mountainbikers vervullen geen hoop .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen hoop vervullen de mountainbikers .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom vervullen de mountainbikers geen hoop .
+LK[V]MF[SO]	oneg-vlight	3	5	Vervullen de mountainbikers geen hoop ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de mountainbikers geen hoop vervullen .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	De persvoorlichters bepalen geen houding .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Geen houding bepalen de persvoorlichters .
+VF[ADV]LK[V]MF[SO]	oneg-vlight	4	6	Daarom bepalen de persvoorlichters geen houding .
+LK[V]MF[SO]	oneg-vlight	3	5	Bepalen de persvoorlichters geen houding ?
+MF[SO]VC[V]	oneg-vlight	3	5	Omdat de persvoorlichters geen houding bepalen .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	De mens maakt in een week fouten .
+VF[O]LK[V]MF[S]	pp-vlight	4	1	Fouten maakt de mens in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	8	Daarom maakt de mens in een week fouten .
+LK[V]MF[SO]	pp-vlight	3	7	Maakt de mens in een week fouten ?
+MF[SO]VC[V]	pp-vlight	3	7	Omdat de mens in een week fouten maakt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	De boef begaat in een week misdaden .
+VF[O]LK[V]MF[S]	pp-vlight	4	1	Misdaden begaat de boef in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	8	Daarom begaat de boef in een week misdaden .
+LK[V]MF[SO]	pp-vlight	3	7	Begaat de boef in een week misdaden ?
+MF[SO]VC[V]	pp-vlight	3	7	Omdat de boef in een week misdaden begaat .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	De bazin neemt in een week beslissingen .
+VF[O]LK[V]MF[S]	pp-vlight	4	1	Beslissingen neemt de bazin in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	8	Daarom neemt de bazin in een week beslissingen .
+LK[V]MF[SO]	pp-vlight	3	7	Neemt de bazin in een week beslissingen ?
+MF[SO]VC[V]	pp-vlight	3	7	Omdat de bazin in een week beslissingen neemt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	De advocaat doet in een week verzoeken .
+VF[O]LK[V]MF[S]	pp-vlight	4	1	Verzoeken doet de advocaat in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	8	Daarom doet de advocaat in een week verzoeken .
+LK[V]MF[SO]	pp-vlight	3	7	Doet de advocaat in een week verzoeken ?
+MF[SO]VC[V]	pp-vlight	3	7	Omdat de advocaat in een week verzoeken doet .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	De leerlingen stellen in een week een vraag .
+VF[O]LK[V]MF[S]	pp-vlight	5	2	Een vraag stellen de leerlingen in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	9	Daarom stellen de leerlingen in een week een vraag .
+LK[V]MF[SO]	pp-vlight	3	8	Stellen de leerlingen in een week een vraag ?
+MF[SO]VC[V]	pp-vlight	3	8	Omdat de leerlingen in een week een vraag stellen .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	De klerk plaatst in een week orders .
+VF[O]LK[V]MF[S]	pp-vlight	4	1	Orders plaatst de klerk in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	8	Daarom plaatst de klerk in een week orders .
+LK[V]MF[SO]	pp-vlight	3	7	Plaatst de klerk in een week orders ?
+MF[SO]VC[V]	pp-vlight	3	7	Omdat de klerk in een week orders plaatst .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	De dieren hebben in een week geluk .
+VF[O]LK[V]MF[S]	pp-vlight	4	1	Geluk hebben de dieren in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	8	Daarom hebben de dieren in een week geluk .
+LK[V]MF[SO]	pp-vlight	3	7	Hebben de dieren in een week geluk ?
+MF[SO]VC[V]	pp-vlight	3	7	Omdat de dieren in een week geluk hebben .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	De collega's houden in een week rekening .
+VF[O]LK[V]MF[S]	pp-vlight	4	1	Rekening houden de collega's in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	8	Daarom houden de collega's in een week rekening .
+LK[V]MF[SO]	pp-vlight	3	7	Houden de collega's in een week rekening ?
+MF[SO]VC[V]	pp-vlight	3	7	Omdat de collega's in een week rekening houden .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	De vriendinnen nemen in een week afscheid .
+VF[O]LK[V]MF[S]	pp-vlight	4	1	Afscheid nemen de vriendinnen in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	8	Daarom nemen de vriendinnen in een week afscheid .
+LK[V]MF[SO]	pp-vlight	3	7	Nemen de vriendinnen in een week afscheid ?
+MF[SO]VC[V]	pp-vlight	3	7	Omdat de vriendinnen in een week afscheid nemen .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	De kandidaten blazen in een week een aftocht .
+VF[O]LK[V]MF[S]	pp-vlight	5	2	Een aftocht blazen de kandidaten in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	9	Daarom blazen de kandidaten in een week een aftocht .
+LK[V]MF[SO]	pp-vlight	3	8	Blazen de kandidaten in een week een aftocht ?
+MF[SO]VC[V]	pp-vlight	3	8	Omdat de kandidaten in een week een aftocht blazen .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	De politici leveren in een week kritiek .
+VF[O]LK[V]MF[S]	pp-vlight	4	1	Kritiek leveren de politici in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	8	Daarom leveren de politici in een week kritiek .
+LK[V]MF[SO]	pp-vlight	3	7	Leveren de politici in een week kritiek ?
+MF[SO]VC[V]	pp-vlight	3	7	Omdat de politici in een week kritiek leveren .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	De gevangenen bieden in een week weerstand .
+VF[O]LK[V]MF[S]	pp-vlight	4	1	Weerstand bieden de gevangenen in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	8	Daarom bieden de gevangenen in een week weerstand .
+LK[V]MF[SO]	pp-vlight	3	7	Bieden de gevangenen in een week weerstand ?
+MF[SO]VC[V]	pp-vlight	3	7	Omdat de gevangenen in een week weerstand bieden .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	De auteur verdeelt in een week rollen .
+VF[O]LK[V]MF[S]	pp-vlight	4	1	Rollen verdeelt de auteur in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	8	Daarom verdeelt de auteur in een week rollen .
+LK[V]MF[SO]	pp-vlight	3	7	Verdeelt de auteur in een week rollen ?
+MF[SO]VC[V]	pp-vlight	3	7	Omdat de auteur in een week rollen verdeelt .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	De mountainbikers vervullen in een week een hoop .
+VF[O]LK[V]MF[S]	pp-vlight	5	2	Een hoop vervullen de mountainbikers in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	9	Daarom vervullen de mountainbikers in een week een hoop .
+LK[V]MF[SO]	pp-vlight	3	8	Vervullen de mountainbikers in een week een hoop ?
+MF[SO]VC[V]	pp-vlight	3	8	Omdat de mountainbikers in een week een hoop vervullen .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	De persvoorlichters bepalen in een week hun houding .
+VF[O]LK[V]MF[S]	pp-vlight	5	2	Hun houding bepalen de persvoorlichters in een week .
+VF[ADV]LK[V]MF[SO]	pp-vlight	4	9	Daarom bepalen de persvoorlichters in een week hun houding .
+LK[V]MF[SO]	pp-vlight	3	8	Bepalen de persvoorlichters in een week hun houding ?
+MF[SO]VC[V]	pp-vlight	3	8	Omdat de persvoorlichters in een week hun houding bepalen .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	Het programma maakt fouten .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Fouten maakt het programma .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom maakt het programma fouten .
+LK[V]MF[SO]	sinan-vlight	3	4	Maakt het programma fouten ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat het programma fouten maakt .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	De software begaat misdaden .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Misdaden begaat de software .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom begaat de software misdaden .
+LK[V]MF[SO]	sinan-vlight	3	4	Begaat de software misdaden ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat de software misdaden begaat .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	Het systeem neemt beslissingen .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Beslissingen neemt het systeem .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom neemt het systeem beslissingen .
+LK[V]MF[SO]	sinan-vlight	3	4	Neemt het systeem beslissingen ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat het systeem beslissingen neemt .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	De klik doet verzoeken .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Verzoeken doet de klik .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom doet de klik verzoeken .
+LK[V]MF[SO]	sinan-vlight	3	4	Doet de klik verzoeken ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat de klik verzoeken doet .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	De chatbot stelt vragen .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Vragen stelt de chatbot .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom stelt de chatbot vragen .
+LK[V]MF[SO]	sinan-vlight	3	4	Stelt de chatbot vragen ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat de chatbot vragen stelt .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	De vergunning plaatst orders .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Orders plaatst de vergunning .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom plaatst de vergunning orders .
+LK[V]MF[SO]	sinan-vlight	3	4	Plaatst de vergunning orders ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat de vergunning orders plaatst .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	De onderwerpen leveren kritiek .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Kritiek leveren de onderwerpen .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom leveren de onderwerpen kritiek .
+LK[V]MF[SO]	sinan-vlight	3	4	Leveren de onderwerpen kritiek ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat de onderwerpen kritiek leveren .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	De watermassa's houden rekening .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Rekening houden de watermassa's .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom houden de watermassa's rekening .
+LK[V]MF[SO]	sinan-vlight	3	4	Houden de watermassa's rekening ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat de watermassa's rekening houden .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	De faxapparaten nemen afscheid .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Afscheid nemen de faxapparaten .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom nemen de faxapparaten afscheid .
+LK[V]MF[SO]	sinan-vlight	3	4	Nemen de faxapparaten afscheid ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat de faxapparaten afscheid nemen .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	De omstandigheden hebben geluk .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Geluk hebben de omstandigheden .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom hebben de omstandigheden geluk .
+LK[V]MF[SO]	sinan-vlight	3	4	Hebben de omstandigheden geluk ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat de omstandigheden geluk hebben .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	De ritssluitingen bieden weerstand .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Weerstand bieden de ritssluitingen .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom bieden de ritssluitingen weerstand .
+LK[V]MF[SO]	sinan-vlight	3	4	Bieden de ritssluitingen weerstand ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat de ritssluitingen weerstand bieden .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	Het boek verdeelt rollen .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Rollen verdeelt het boek .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	5	Daarom verdeelt het boek rollen .
+LK[V]MF[SO]	sinan-vlight	3	4	Verdeelt het boek rollen ?
+MF[SO]VC[V]	sinan-vlight	3	4	Omdat het boek rollen verdeelt .
+VF[S]LK[V]MF[O]	sinan-vlight	2	5	De verslagen bepalen hun houding .
+VF[O]LK[V]MF[S]	sinan-vlight	5	2	Hun houding bepalen de verslagen .
+VF[ADV]LK[V]MF[SO]	sinan-vlight	4	6	Daarom bepalen de verslagen hun houding .
+LK[V]MF[SO]	sinan-vlight	3	5	Bepalen de verslagen hun houding ?
+MF[SO]VC[V]	sinan-vlight	3	5	Omdat de verslagen hun houding bepalen .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	De praktijk maakt fouten .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Fouten maakt de praktijk .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom maakt de praktijk fouten .
+LK[V]MF[SO]	regpol-vlight	3	4	Maakt de praktijk fouten ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat de praktijk fouten maakt .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	De winkel begaat misdaden .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Misdaden begaat de winkel .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom begaat de winkel misdaden .
+LK[V]MF[SO]	regpol-vlight	3	4	Begaat de winkel misdaden ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat de winkel misdaden begaat .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	Het districtskantoor neemt beslissingen .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Beslissingen neemt het districtskantoor .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom neemt het districtskantoor beslissingen .
+LK[V]MF[SO]	regpol-vlight	3	4	Neemt het districtskantoor beslissingen ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat het districtskantoor beslissingen neemt .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	Het reclamebureau plaatst orders .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Orders plaatst het reclamebureau .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom plaatst het reclamebureau orders .
+LK[V]MF[SO]	regpol-vlight	3	4	Plaatst het reclamebureau orders ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat het reclamebureau orders plaatst .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	De redactie stelt vragen .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Vragen stelt de redactie .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom stelt de redactie vragen .
+LK[V]MF[SO]	regpol-vlight	3	4	Stelt de redactie vragen ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat de redactie vragen stelt .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	Het kapsalon doet verzoeken .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Verzoeken doet het kapsalon .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom doet het kapsalon verzoeken .
+LK[V]MF[SO]	regpol-vlight	3	4	Doet het kapsalon verzoeken ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat het kapsalon verzoeken doet .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	De dorpen hebben geluk .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Geluk hebben de dorpen .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom hebben de dorpen geluk .
+LK[V]MF[SO]	regpol-vlight	3	4	Hebben de dorpen geluk ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat de dorpen geluk hebben .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	De instituten houden rekening .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Rekening houden de instituten .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom houden de instituten rekening .
+LK[V]MF[SO]	regpol-vlight	3	4	Houden de instituten rekening ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat de instituten rekening houden .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	De gemeenten nemen afscheid .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Afscheid nemen de gemeenten .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom nemen de gemeenten afscheid .
+LK[V]MF[SO]	regpol-vlight	3	4	Nemen de gemeenten afscheid ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat de gemeenten afscheid nemen .
+VF[S]LK[V]MF[O]	regpol-vlight	2	5	De scholen blazen een aftocht .
+VF[O]LK[V]MF[S]	regpol-vlight	5	2	Een aftocht blazen de scholen .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	6	Daarom blazen de scholen een aftocht .
+LK[V]MF[SO]	regpol-vlight	3	5	Blazen de scholen een aftocht ?
+MF[SO]VC[V]	regpol-vlight	3	5	Omdat de scholen een aftocht blazen .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	De bureaus leveren kritiek .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Kritiek leveren de bureaus .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom leveren de bureaus kritiek .
+LK[V]MF[SO]	regpol-vlight	3	4	Leveren de bureaus kritiek ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat de bureaus kritiek leveren .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	De kantoren bieden weerstand .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Weerstand bieden de kantoren .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom bieden de kantoren weerstand .
+LK[V]MF[SO]	regpol-vlight	3	4	Bieden de kantoren weerstand ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat de kantoren weerstand bieden .
+VF[S]LK[V]MF[O]	regpol-vlight	2	4	De universiteit verdeelt rollen .
+VF[O]LK[V]MF[S]	regpol-vlight	4	1	Rollen verdeelt de universiteit .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	5	Daarom verdeelt de universiteit rollen .
+LK[V]MF[SO]	regpol-vlight	3	4	Verdeelt de universiteit rollen ?
+MF[SO]VC[V]	regpol-vlight	3	4	Omdat de universiteit rollen verdeelt .
+VF[S]LK[V]MF[O]	regpol-vlight	2	5	De garages vervullen een hoop .
+VF[O]LK[V]MF[S]	regpol-vlight	5	2	Een hoop vervullen de garages .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	6	Daarom vervullen de garages een hoop .
+LK[V]MF[SO]	regpol-vlight	3	5	Vervullen de garages een hoop ?
+MF[SO]VC[V]	regpol-vlight	3	5	Omdat de garages een hoop vervullen .
+VF[S]LK[V]MF[O]	regpol-vlight	2	5	De concerns bepalen hun houding .
+VF[O]LK[V]MF[S]	regpol-vlight	5	2	Hun houding bepalen de concerns .
+VF[ADV]LK[V]MF[SO]	regpol-vlight	4	6	Daarom bepalen de concerns hun houding .
+LK[V]MF[SO]	regpol-vlight	3	5	Bepalen de concerns hun houding ?
+MF[SO]VC[V]	regpol-vlight	3	5	Omdat de concerns hun houding bepalen .
+VF[S]LK[V]MF[O]	snp-vlight	1	3	Mercedes maakt fouten .
+VF[O]LK[V]MF[S]	snp-vlight	3	1	Fouten maakt Mercedes .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom maakt Mercedes fouten .
+LK[V]MF[SO]	snp-vlight	2	3	Maakt Mercedes fouten ?
+MF[SO]VC[V]	snp-vlight	2	3	Omdat Mercedes fouten maakt .
+VF[S]LK[V]MF[O]	snp-vlight	1	3	AkzoNobel begaat misdaden .
+VF[O]LK[V]MF[S]	snp-vlight	3	1	Misdaden begaat AkzoNobel .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom begaat AkzoNobel misdaden .
+LK[V]MF[SO]	snp-vlight	2	3	Begaat AkzoNobel misdaden ?
+MF[SO]VC[V]	snp-vlight	2	3	Omdat AkzoNobel misdaden begaat .
+VF[S]LK[V]MF[O]	snp-vlight	1	3	Harry neemt beslissingen .
+VF[O]LK[V]MF[S]	snp-vlight	3	1	Beslissingen neemt Harry .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom neemt Harry beslissingen .
+LK[V]MF[SO]	snp-vlight	2	3	Neemt Harry beslissingen ?
+MF[SO]VC[V]	snp-vlight	2	3	Omdat Harry beslissingen neemt .
+VF[S]LK[V]MF[O]	snp-vlight	1	3	Balazs plaatst orders .
+VF[O]LK[V]MF[S]	snp-vlight	3	1	Orders plaatst Balazs .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom plaatst Balazs orders .
+LK[V]MF[SO]	snp-vlight	2	3	Plaatst Balazs orders ?
+MF[SO]VC[V]	snp-vlight	2	3	Omdat Balazs orders plaatst .
+VF[S]LK[V]MF[O]	snp-vlight	1	3	Clooney stelt vragen .
+VF[O]LK[V]MF[S]	snp-vlight	3	1	Vragen stelt Clooney .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom stelt Clooney vragen .
+LK[V]MF[SO]	snp-vlight	2	3	Stelt Clooney vragen ?
+MF[SO]VC[V]	snp-vlight	2	3	Omdat Clooney vragen stelt .
+VF[S]LK[V]MF[O]	snp-vlight	2	4	Han Voskuil doet verzoeken .
+VF[O]LK[V]MF[S]	snp-vlight	4	1	Verzoeken doet Han Voskuil .
+VF[ADV]LK[V]MF[SO]	snp-vlight	4	5	Daarom doet Han Voskuil verzoeken .
+LK[V]MF[SO]	snp-vlight	3	4	Doet Han Voskuil verzoeken ?
+MF[SO]VC[V]	snp-vlight	3	4	Omdat Han Voskuil verzoeken doet .
+VF[S]LK[V]MF[O]	snp-vlight	1	3	Gillette heeft geluk .
+VF[O]LK[V]MF[S]	snp-vlight	3	1	Geluk heeft Gillette .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom heeft Gillette geluk .
+LK[V]MF[SO]	snp-vlight	2	3	Heeft Gillette geluk ?
+MF[SO]VC[V]	snp-vlight	2	3	Omdat Gillette geluk heeft .
+VF[S]LK[V]MF[O]	snp-vlight	2	4	NPO 1 houdt rekening .
+VF[O]LK[V]MF[S]	snp-vlight	4	1	Rekening houdt NPO 1 .
+VF[ADV]LK[V]MF[SO]	snp-vlight	4	5	Daarom houdt NPO 1 rekening .
+LK[V]MF[SO]	snp-vlight	3	4	Houdt NPO 1 rekening ?
+MF[SO]VC[V]	snp-vlight	3	4	Omdat NPO 1 rekening houdt .
+VF[S]LK[V]MF[O]	snp-vlight	2	4	Staf Coppens neemt afscheid .
+VF[O]LK[V]MF[S]	snp-vlight	4	1	Afscheid neemt Staf Coppens .
+VF[ADV]LK[V]MF[SO]	snp-vlight	4	5	Daarom neemt Staf Coppens afscheid .
+LK[V]MF[SO]	snp-vlight	3	4	Neemt Staf Coppens afscheid ?
+MF[SO]VC[V]	snp-vlight	3	4	Omdat Staf Coppens afscheid neemt .
+VF[S]LK[V]MF[O]	snp-vlight	1	4	Rutte blaast een aftochten .
+VF[O]LK[V]MF[S]	snp-vlight	4	2	Een aftochten blaast Rutte .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	5	Daarom blaast Rutte een aftochten .
+LK[V]MF[SO]	snp-vlight	2	4	Blaast Rutte een aftochten ?
+MF[SO]VC[V]	snp-vlight	2	4	Omdat Rutte een aftochten blaast .
+VF[S]LK[V]MF[O]	snp-vlight	1	3	Degas levert kritiek .
+VF[O]LK[V]MF[S]	snp-vlight	3	1	Kritiek levert Degas .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom levert Degas kritiek .
+LK[V]MF[SO]	snp-vlight	2	3	Levert Degas kritiek ?
+MF[SO]VC[V]	snp-vlight	2	3	Omdat Degas kritiek levert .
+VF[S]LK[V]MF[O]	snp-vlight	1	3	Vietnam biedt weerstand .
+VF[O]LK[V]MF[S]	snp-vlight	3	1	Weerstand biedt Vietnam .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom biedt Vietnam weerstand .
+LK[V]MF[SO]	snp-vlight	2	3	Biedt Vietnam weerstand ?
+MF[SO]VC[V]	snp-vlight	2	3	Omdat Vietnam weerstand biedt .
+VF[S]LK[V]MF[O]	snp-vlight	1	3	Anouk verdeelt rollen .
+VF[O]LK[V]MF[S]	snp-vlight	3	1	Rollen verdeelt Anouk .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	4	Daarom verdeelt Anouk rollen .
+LK[V]MF[SO]	snp-vlight	2	3	Verdeelt Anouk rollen ?
+MF[SO]VC[V]	snp-vlight	2	3	Omdat Anouk rollen verdeelt .
+VF[S]LK[V]MF[O]	snp-vlight	1	4	Nijmegen vervult een hoop .
+VF[O]LK[V]MF[S]	snp-vlight	4	2	Een hoop vervult Nijmegen .
+VF[ADV]LK[V]MF[SO]	snp-vlight	3	5	Daarom vervult Nijmegen een hoop .
+LK[V]MF[SO]	snp-vlight	2	4	Vervult Nijmegen een hoop ?
+MF[SO]VC[V]	snp-vlight	2	4	Omdat Nijmegen een hoop vervult .
+VF[S]LK[V]MF[O]	snp-vlight	2	5	Essent NV bepaalt zijn houding .
+VF[O]LK[V]MF[S]	snp-vlight	5	2	Zijn houding bepaalt Essent NV .
+VF[ADV]LK[V]MF[SO]	snp-vlight	4	6	Daarom bepaalt Essent NV zijn houding .
+LK[V]MF[SO]	snp-vlight	3	5	Bepaalt Essent NV zijn houding ?
+MF[SO]VC[V]	snp-vlight	3	5	Omdat Essent NV zijn houding bepaalt .

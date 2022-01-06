@@ -1,0 +1,270 @@
+VF[S]LK[V]MF[O]	base-idm	1	3	Belofte maakt schuld .
+VF[O]LK[V]MF[S]	base-idm	3	1	Schuld maakt belofte .
+VF[ADV]LK[V]MF[SO]	base-idm	3	4	Daarom maakt belofte schuld .
+LK[V]MF[SO]	base-idm	2	3	Maakt belofte schuld ?
+MF[SO]VC[V]	base-idm	2	3	Omdat belofte schuld maakt .
+VF[S]LK[V]MF[O]	base-idm	2	5	De eersten zijn de laatsten .
+VF[O]LK[V]MF[S]	base-idm	5	2	De laatsten zijn de eersten .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Daarom zijn de eersten de laatsten .
+LK[V]MF[SO]	base-idm	3	5	Zijn de eersten de laatsten ?
+MF[SO]VC[V]	base-idm	3	5	Omdat de eersten de laatsten zijn .
+VF[S]LK[V]MF[O]	base-idm	3	6	De gestadige drup holt de steen .
+VF[O]LK[V]MF[S]	base-idm	6	2	De steen holt de gestadige drup .
+VF[ADV]LK[V]MF[SO]	base-idm	5	7	Daarom holt de gestadige drup de steen .
+LK[V]MF[SO]	base-idm	4	6	Holt de gestadige drup de steen ?
+MF[SO]VC[V]	base-idm	4	6	Omdat de gestadige drup de steen holt .
+VF[S]LK[V]MF[O]	base-idm	3	6	De grote vissen eten de kleine .
+VF[O]LK[V]MF[S]	base-idm	6	2	De kleine eten de grote vissen .
+VF[ADV]LK[V]MF[SO]	base-idm	5	7	Daarom eten de grote vissen de kleine .
+LK[V]MF[SO]	base-idm	4	6	Eten de grote vissen de kleine ?
+MF[SO]VC[V]	base-idm	4	6	Omdat de grote vissen de kleine eten .
+VF[S]LK[V]MF[O]	base-idm	2	4	De muren hebben oren .
+VF[O]LK[V]MF[S]	base-idm	4	1	Oren hebben de muren .
+VF[ADV]LK[V]MF[SO]	base-idm	4	5	Daarom hebben de muren oren .
+LK[V]MF[SO]	base-idm	3	4	Hebben de muren oren ?
+MF[SO]VC[V]	base-idm	3	4	Omdat de muren oren hebben .
+VF[S]LK[V]MF[O]	base-idm	2	6	De ratten verlaten het zinkende schip .
+VF[O]LK[V]MF[S]	base-idm	6	3	Het zinkende schip verlaten de ratten .
+VF[ADV]LK[V]MF[SO]	base-idm	4	7	Daarom verlaten de ratten het zinkende schip .
+LK[V]MF[SO]	base-idm	3	6	Verlaten de ratten het zinkende schip ?
+MF[SO]VC[V]	base-idm	3	6	Omdat de ratten het zinkende schip verlaten .
+VF[S]LK[V]MF[O]	base-idm	2	4	De uitkomst leert het .
+VF[O]LK[V]MF[S]	base-idm	4	1	Het leert de uitkomst .
+VF[ADV]LK[V]MF[SO]	base-idm	4	5	Daarom leert de uitkomst het .
+LK[V]MF[SO]	base-idm	3	4	Leert de uitkomst het ?
+MF[SO]VC[V]	base-idm	3	4	Omdat de uitkomst het leert .
+VF[S]LK[V]MF[O]	base-idm	2	5	De uitzondering bevestigt de regel .
+VF[O]LK[V]MF[S]	base-idm	5	2	De regel bevestigt de uitzondering .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Daarom bevestigt de uitzondering de regel .
+LK[V]MF[SO]	base-idm	3	5	Bevestigt de uitzondering de regel ?
+MF[SO]VC[V]	base-idm	3	5	Omdat de uitzondering de regel bevestigt .
+VF[S]LK[V]MF[O]	base-idm	2	5	Goede wijn behoeft geen krans .
+VF[O]LK[V]MF[S]	base-idm	5	2	Geen krans behoeft goede wijn .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Daarom behoeft goede wijn geen krans .
+LK[V]MF[SO]	base-idm	3	5	Behoeft goede wijn geen krans ?
+MF[SO]VC[V]	base-idm	3	5	Omdat goede wijn geen krans behoeft .
+VF[S]LK[V]MF[O]	base-idm	2	5	Het geluk helpt de dapperen .
+VF[O]LK[V]MF[S]	base-idm	5	2	De dapperen helpt het geluk .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Daarom helpt het geluk de dapperen .
+LK[V]MF[SO]	base-idm	3	5	Helpt het geluk de dapperen ?
+MF[SO]VC[V]	base-idm	3	5	Omdat het geluk de dapperen helpt .
+VF[S]LK[V]MF[O]	base-idm	2	5	Kleine potjes hebben grote oren .
+VF[O]LK[V]MF[S]	base-idm	5	2	Grote oren hebben kleine potjes .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Daarom hebben kleine potjes grote oren .
+LK[V]MF[SO]	base-idm	3	5	Hebben kleine potjes grote oren ?
+MF[SO]VC[V]	base-idm	3	5	Omdat kleine potjes grote oren hebben .
+VF[S]LK[V]MF[O]	base-idm	1	4	Leugens hebben korte benen .
+VF[O]LK[V]MF[S]	base-idm	4	2	Korte benen hebben leugens .
+VF[ADV]LK[V]MF[SO]	base-idm	3	5	Daarom hebben leugens korte benen .
+LK[V]MF[SO]	base-idm	2	4	Hebben leugens korte benen ?
+MF[SO]VC[V]	base-idm	2	4	Omdat leugens korte benen hebben .
+VF[S]LK[V]MF[O]	base-idm	2	5	Het doel heiligt de middelen .
+VF[O]LK[V]MF[S]	base-idm	5	2	De middelen heiligt het doel .
+VF[ADV]LK[V]MF[SO]	base-idm	4	6	Daarom heiligt het doel de middelen .
+LK[V]MF[SO]	base-idm	3	5	Heiligt het doel de middelen ?
+MF[SO]VC[V]	base-idm	3	5	Omdat het doel de middelen heiligt .
+VF[S]LK[V]MF[O]	base-idm	1	4	Tijd heelt alle wonden .
+VF[O]LK[V]MF[S]	base-idm	4	2	Alle wonden heelt tijd .
+VF[ADV]LK[V]MF[SO]	base-idm	3	5	Daarom heelt tijd alle wonden .
+LK[V]MF[SO]	base-idm	2	4	Heelt tijd alle wonden ?
+MF[SO]VC[V]	base-idm	2	4	Omdat tijd alle wonden heelt .
+VF[S]LK[V]MF[O]	aux-idm	1	3	Belofte zal schuld maken .
+VF[O]LK[V]MF[S]	aux-idm	3	1	Schuld zal belofte maken .
+VF[ADV]LK[V]MF[SO]	aux-idm	3	4	Daarom zal belofte schuld maken .
+LK[V]MF[SO]	aux-idm	2	3	Zal belofte schuld maken ?
+MF[SO]VC[V]	aux-idm	2	3	Omdat belofte schuld zal maken .
+VF[S]LK[V]MF[O]	aux-idm	2	5	De eersten zullen de laatsten zijn .
+VF[O]LK[V]MF[S]	aux-idm	5	2	De laatsten zullen de eersten zijn .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Daarom zullen de eersten de laatsten zijn .
+LK[V]MF[SO]	aux-idm	3	5	Zullen de eersten de laatsten zijn ?
+MF[SO]VC[V]	aux-idm	3	5	Omdat de eersten de laatsten zullen zijn .
+VF[S]LK[V]MF[O]	aux-idm	3	6	De gestadige drup zal de steen hollen .
+VF[O]LK[V]MF[S]	aux-idm	6	2	De steen zal de gestadige drup hollen .
+VF[ADV]LK[V]MF[SO]	aux-idm	5	7	Daarom zal de gestadige drup de steen hollen .
+LK[V]MF[SO]	aux-idm	4	6	Zal de gestadige drup de steen hollen ?
+MF[SO]VC[V]	aux-idm	4	6	Omdat de gestadige drup de steen zal hollen .
+VF[S]LK[V]MF[O]	aux-idm	3	6	De grote vissen zullen de kleine eten .
+VF[O]LK[V]MF[S]	aux-idm	6	2	De kleine zullen de grote vissen eten .
+VF[ADV]LK[V]MF[SO]	aux-idm	5	7	Daarom zullen de grote vissen de kleine eten .
+LK[V]MF[SO]	aux-idm	4	6	Zullen de grote vissen de kleine eten ?
+MF[SO]VC[V]	aux-idm	4	6	Omdat de grote vissen de kleine zullen eten .
+VF[S]LK[V]MF[O]	aux-idm	2	4	De muren zullen oren hebben .
+VF[O]LK[V]MF[S]	aux-idm	4	1	Oren zullen de muren hebben .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	5	Daarom zullen de muren oren hebben .
+LK[V]MF[SO]	aux-idm	3	4	Zullen de muren oren hebben ?
+MF[SO]VC[V]	aux-idm	3	4	Omdat de muren oren zullen hebben .
+VF[S]LK[V]MF[O]	aux-idm	2	6	De ratten zullen het zinkende schip verlaten .
+VF[O]LK[V]MF[S]	aux-idm	6	3	Het zinkende schip zullen de ratten verlaten .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	7	Daarom zullen de ratten het zinkende schip verlaten .
+LK[V]MF[SO]	aux-idm	3	6	Zullen de ratten het zinkende schip verlaten ?
+MF[SO]VC[V]	aux-idm	3	6	Omdat de ratten het zinkende schip zullen verlaten .
+VF[S]LK[V]MF[O]	aux-idm	2	4	De uitkomst zal het leren .
+VF[O]LK[V]MF[S]	aux-idm	4	1	Het zal de uitkomst leren .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	5	Daarom zal de uitkomst het leren .
+LK[V]MF[SO]	aux-idm	3	4	Zal de uitkomst het leren ?
+MF[SO]VC[V]	aux-idm	3	4	Omdat de uitkomst het zal leren .
+VF[S]LK[V]MF[O]	aux-idm	2	5	De uitzondering zal de regel bevestigen .
+VF[O]LK[V]MF[S]	aux-idm	5	2	De regel zal de uitzondering bevestigen .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Daarom zal de uitzondering de regel bevestigen .
+LK[V]MF[SO]	aux-idm	3	5	Zal de uitzondering de regel bevestigen ?
+MF[SO]VC[V]	aux-idm	3	5	Omdat de uitzondering de regel zal bevestigen .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Goede wijn zal geen krans behoeven .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Geen krans zal goede wijn behoeven .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Daarom zal goede wijn geen krans behoeven .
+LK[V]MF[SO]	aux-idm	3	5	Zal goede wijn geen krans behoeven ?
+MF[SO]VC[V]	aux-idm	3	5	Omdat goede wijn geen krans zal behoeven .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Het geluk zal de dapperen helpen .
+VF[O]LK[V]MF[S]	aux-idm	5	2	De dapperen zal het geluk helpen .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Daarom zal het geluk de dapperen helpen .
+LK[V]MF[SO]	aux-idm	3	5	Zal het geluk de dapperen helpen ?
+MF[SO]VC[V]	aux-idm	3	5	Omdat het geluk de dapperen zal helpen .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Kleine potjes zullen grote oren hebben .
+VF[O]LK[V]MF[S]	aux-idm	5	2	Grote oren zullen kleine potjes hebben .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Daarom zullen kleine potjes grote oren hebben .
+LK[V]MF[SO]	aux-idm	3	5	Zullen kleine potjes grote oren hebben ?
+MF[SO]VC[V]	aux-idm	3	5	Omdat kleine potjes grote oren zullen hebben .
+VF[S]LK[V]MF[O]	aux-idm	1	4	Leugens zullen korte benen hebben .
+VF[O]LK[V]MF[S]	aux-idm	4	2	Korte benen zullen leugens hebben .
+VF[ADV]LK[V]MF[SO]	aux-idm	3	5	Daarom zullen leugens korte benen hebben .
+LK[V]MF[SO]	aux-idm	2	4	Zullen leugens korte benen hebben ?
+MF[SO]VC[V]	aux-idm	2	4	Omdat leugens korte benen zullen hebben .
+VF[S]LK[V]MF[O]	aux-idm	2	5	Het doel zal de middel heiligen .
+VF[O]LK[V]MF[S]	aux-idm	5	2	De middel zal het doel heiligen .
+VF[ADV]LK[V]MF[SO]	aux-idm	4	6	Daarom zal het doel de middel heiligen .
+LK[V]MF[SO]	aux-idm	3	5	Zal het doel de middel heiligen ?
+MF[SO]VC[V]	aux-idm	3	5	Omdat het doel de middel zal heiligen .
+VF[S]LK[V]MF[O]	aux-idm	1	4	Tijd zal alle wonden helen .
+VF[O]LK[V]MF[S]	aux-idm	4	2	Alle wonden zal tijd helen .
+VF[ADV]LK[V]MF[SO]	aux-idm	3	5	Daarom zal tijd alle wonden helen .
+LK[V]MF[SO]	aux-idm	2	4	Zal tijd alle wonden helen ?
+MF[SO]VC[V]	aux-idm	2	4	Omdat tijd alle wonden zal helen .
+VF[S]LK[V]MF[O]	oneg-idm	1	4	Belofte maakt geen schuld .
+VF[O]LK[V]MF[S]	oneg-idm	4	2	Geen schuld maakt belofte .
+VF[ADV]LK[V]MF[SO]	oneg-idm	3	5	Daarom maakt belofte geen schuld .
+LK[V]MF[SO]	oneg-idm	2	4	Maakt belofte geen schuld ?
+MF[SO]VC[V]	oneg-idm	2	4	Omdat belofte geen schuld maakt .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	De eersten zijn geen laatsten .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Geen laatsten zijn de eersten .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Daarom zijn de eersten geen laatsten .
+LK[V]MF[SO]	oneg-idm	3	5	Zijn de eersten geen laatsten ?
+MF[SO]VC[V]	oneg-idm	3	5	Omdat de eersten geen laatsten zijn .
+VF[S]LK[V]MF[O]	oneg-idm	3	6	De gestadige drup holt geen steen .
+VF[O]LK[V]MF[S]	oneg-idm	6	2	Geen steen holt de gestadige drup .
+VF[ADV]LK[V]MF[SO]	oneg-idm	5	7	Daarom holt de gestadige drup geen steen .
+LK[V]MF[SO]	oneg-idm	4	6	Holt de gestadige drup geen steen ?
+MF[SO]VC[V]	oneg-idm	4	6	Omdat de gestadige drup geen steen holt .
+VF[S]LK[V]MF[O]	oneg-idm	3	6	De grote vissen eten geen kleine .
+VF[O]LK[V]MF[S]	oneg-idm	6	2	Geen kleine eten de grote vissen .
+VF[ADV]LK[V]MF[SO]	oneg-idm	5	7	Daarom eten de grote vissen geen kleine .
+LK[V]MF[SO]	oneg-idm	4	6	Eten de grote vissen geen kleine ?
+MF[SO]VC[V]	oneg-idm	4	6	Omdat de grote vissen geen kleine eten .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	De muren hebben geen oren .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Geen oren hebben de muren .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Daarom hebben de muren geen oren .
+LK[V]MF[SO]	oneg-idm	3	5	Hebben de muren geen oren ?
+MF[SO]VC[V]	oneg-idm	3	5	Omdat de muren geen oren hebben .
+VF[S]LK[V]MF[O]	oneg-idm	2	6	De ratten verlaten geen zinkende schip .
+VF[O]LK[V]MF[S]	oneg-idm	6	3	Geen zinkende schip verlaten de ratten .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	7	Daarom verlaten de ratten geen zinkende schip .
+LK[V]MF[SO]	oneg-idm	3	6	Verlaten de ratten geen zinkende schip ?
+MF[SO]VC[V]	oneg-idm	3	6	Omdat de ratten geen zinkende schip verlaten .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	De uitzondering bevestigt geen regel .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Geen regel bevestigt de uitzondering .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Daarom bevestigt de uitzondering geen regel .
+LK[V]MF[SO]	oneg-idm	3	5	Bevestigt de uitzondering geen regel ?
+MF[SO]VC[V]	oneg-idm	3	5	Omdat de uitzondering geen regel bevestigt .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	Het geluk helpt geen dapperen .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Geen dapperen helpt het geluk .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Daarom helpt het geluk geen dapperen .
+LK[V]MF[SO]	oneg-idm	3	5	Helpt het geluk geen dapperen ?
+MF[SO]VC[V]	oneg-idm	3	5	Omdat het geluk geen dapperen helpt .
+VF[S]LK[V]MF[O]	oneg-idm	2	6	Kleine potjes hebben geen grote oren .
+VF[O]LK[V]MF[S]	oneg-idm	6	3	Geen grote oren hebben kleine potjes .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	7	Daarom hebben kleine potjes geen grote oren .
+LK[V]MF[SO]	oneg-idm	3	6	Hebben kleine potjes geen grote oren ?
+MF[SO]VC[V]	oneg-idm	3	6	Omdat kleine potjes geen grote oren hebben .
+VF[S]LK[V]MF[O]	oneg-idm	1	5	Leugens hebben geen korte benen .
+VF[O]LK[V]MF[S]	oneg-idm	5	3	Geen korte benen hebben leugens .
+VF[ADV]LK[V]MF[SO]	oneg-idm	3	6	Daarom hebben leugens geen korte benen .
+LK[V]MF[SO]	oneg-idm	2	5	Hebben leugens geen korte benen ?
+MF[SO]VC[V]	oneg-idm	2	5	Omdat leugens geen korte benen hebben .
+VF[S]LK[V]MF[O]	oneg-idm	2	5	Het doel heiligt geen middelen .
+VF[O]LK[V]MF[S]	oneg-idm	5	2	Geen middelen heiligt het doel .
+VF[ADV]LK[V]MF[SO]	oneg-idm	4	6	Daarom heiligt het doel geen middelen .
+LK[V]MF[SO]	oneg-idm	3	5	Heiligt het doel geen middelen ?
+MF[SO]VC[V]	oneg-idm	3	5	Omdat het doel geen middelen heiligt .
+VF[S]LK[V]MF[O]	oneg-idm	1	4	Tijd heelt geen wonden .
+VF[O]LK[V]MF[S]	oneg-idm	4	2	Geen wonden heelt tijd .
+VF[ADV]LK[V]MF[SO]	oneg-idm	3	5	Daarom heelt tijd geen wonden .
+LK[V]MF[SO]	oneg-idm	2	4	Heelt tijd geen wonden ?
+MF[SO]VC[V]	oneg-idm	2	4	Omdat tijd geen wonden heelt .
+VF[S]LK[V]MF[O]	pp-idm	1	6	Belofte maakt in een week schuld .
+VF[O]LK[V]MF[S]	pp-idm	3	1	Schuld maakt belofte in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	3	7	Daarom maakt belofte in een week schuld .
+LK[V]MF[SO]	pp-idm	2	6	Maakt belofte in een week schuld ?
+MF[SO]VC[V]	pp-idm	2	6	Omdat belofte in een week schuld maakt .
+VF[S]LK[V]MF[O]	pp-idm	2	8	De eersten zijn in een week de laatsten .
+VF[O]LK[V]MF[S]	pp-idm	5	2	De laatsten zijn de eersten in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	4	9	Daarom zijn de eersten in een week de laatsten .
+LK[V]MF[SO]	pp-idm	3	8	Zijn de eersten in een week de laatsten ?
+MF[SO]VC[V]	pp-idm	3	8	Omdat de eersten in een week de laatsten zijn .
+VF[S]LK[V]MF[O]	pp-idm	3	9	De gestadige drup holt in een week de steen .
+VF[O]LK[V]MF[S]	pp-idm	6	2	De steen holt de gestadige drup in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	5	10	Daarom holt de gestadige drup in een week de steen .
+LK[V]MF[SO]	pp-idm	4	9	Holt de gestadige drup in een week de steen ?
+MF[SO]VC[V]	pp-idm	4	9	Omdat de gestadige drup in een week de steen holt .
+VF[S]LK[V]MF[O]	pp-idm	3	9	De grote vissen eten in een week de kleine .
+VF[O]LK[V]MF[S]	pp-idm	6	2	De kleine eten de grote vissen in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	5	10	Daarom eten de grote vissen in een week de kleine .
+LK[V]MF[SO]	pp-idm	4	9	Eten de grote vissen in een week de kleine ?
+MF[SO]VC[V]	pp-idm	4	9	Omdat de grote vissen in een week de kleine eten .
+VF[S]LK[V]MF[O]	pp-idm	2	7	De muren hebben in een week oren .
+VF[O]LK[V]MF[S]	pp-idm	4	1	Oren hebben de muren in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	4	8	Daarom hebben de muren in een week oren .
+LK[V]MF[SO]	pp-idm	3	7	Hebben de muren in een week oren ?
+MF[SO]VC[V]	pp-idm	3	7	Omdat de muren in een week oren hebben .
+VF[S]LK[V]MF[O]	pp-idm	2	9	De ratten verlaten in een week het zinkende schip .
+VF[O]LK[V]MF[S]	pp-idm	6	3	Het zinkende schip verlaten de ratten in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	4	10	Daarom verlaten de ratten in een week het zinkende schip .
+LK[V]MF[SO]	pp-idm	3	9	Verlaten de ratten in een week het zinkende schip ?
+MF[SO]VC[V]	pp-idm	3	9	Omdat de ratten in een week het zinkende schip verlaten .
+VF[S]LK[V]MF[O]	pp-idm	2	7	De uitkomst leert in een week het .
+VF[O]LK[V]MF[S]	pp-idm	4	1	Het leert de uitkomst in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	4	8	Daarom leert de uitkomst in een week het .
+LK[V]MF[SO]	pp-idm	3	7	Leert de uitkomst in een week het ?
+MF[SO]VC[V]	pp-idm	3	7	Omdat de uitkomst in een week het leert .
+VF[S]LK[V]MF[O]	pp-idm	2	8	De uitzondering bevestigt in een week de regel .
+VF[O]LK[V]MF[S]	pp-idm	5	2	De regel bevestigt de uitzondering in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	4	9	Daarom bevestigt de uitzondering in een week de regel .
+LK[V]MF[SO]	pp-idm	3	8	Bevestigt de uitzondering in een week de regel ?
+MF[SO]VC[V]	pp-idm	3	8	Omdat de uitzondering in een week de regel bevestigt .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Goede wijn behoeft in een week geen krans .
+VF[O]LK[V]MF[S]	pp-idm	5	2	Geen krans behoeft goede wijn in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	4	9	Daarom behoeft goede wijn in een week geen krans .
+LK[V]MF[SO]	pp-idm	3	8	Behoeft goede wijn in een week geen krans ?
+MF[SO]VC[V]	pp-idm	3	8	Omdat goede wijn in een week geen krans behoeft .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Het geluk helpt in een week de dapperen .
+VF[O]LK[V]MF[S]	pp-idm	5	2	De dapperen helpt het geluk in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	4	9	Daarom helpt het geluk in een week de dapperen .
+LK[V]MF[SO]	pp-idm	3	8	Helpt het geluk in een week de dapperen ?
+MF[SO]VC[V]	pp-idm	3	8	Omdat het geluk in een week de dapperen helpt .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Kleine potjes hebben in een week grote oren .
+VF[O]LK[V]MF[S]	pp-idm	5	2	Grote oren hebben kleine potjes in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	4	9	Daarom hebben kleine potjes in een week grote oren .
+LK[V]MF[SO]	pp-idm	3	8	Hebben kleine potjes in een week grote oren ?
+MF[SO]VC[V]	pp-idm	3	8	Omdat kleine potjes in een week grote oren hebben .
+VF[S]LK[V]MF[O]	pp-idm	1	7	Leugens hebben in een week korte benen .
+VF[O]LK[V]MF[S]	pp-idm	4	2	Korte benen hebben leugens in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	3	8	Daarom hebben leugens in een week korte benen .
+LK[V]MF[SO]	pp-idm	2	7	Hebben leugens in een week korte benen ?
+MF[SO]VC[V]	pp-idm	2	7	Omdat leugens in een week korte benen hebben .
+VF[S]LK[V]MF[O]	pp-idm	2	8	Het doel heiligt in een week de middelen .
+VF[O]LK[V]MF[S]	pp-idm	5	2	De middelen heiligt het doel in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	4	9	Daarom heiligt het doel in een week de middelen .
+LK[V]MF[SO]	pp-idm	3	8	Heiligt het doel in een week de middelen ?
+MF[SO]VC[V]	pp-idm	3	8	Omdat het doel in een week de middelen heiligt .
+VF[S]LK[V]MF[O]	pp-idm	1	7	Tijd heelt in een week alle wonden .
+VF[O]LK[V]MF[S]	pp-idm	4	2	Alle wonden heelt tijd in een week .
+VF[ADV]LK[V]MF[SO]	pp-idm	3	8	Daarom heelt tijd in een week alle wonden .
+LK[V]MF[SO]	pp-idm	2	7	Heelt tijd in een week alle wonden ?
+MF[SO]VC[V]	pp-idm	2	7	Omdat tijd in een week alle wonden heelt .

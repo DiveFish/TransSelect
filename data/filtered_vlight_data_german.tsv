@@ -1,0 +1,675 @@
+VF[S]LK[V]MF[O]	base-vlight	2	5	Der Mensch macht einen Fehler .
+VF[O]LK[V]MF[S]	base-vlight	5	2	Einen Fehler macht der Mensch .
+LK[V]MF[SO]	base-vlight	4	6	Deshalb macht der Mensch einen Fehler .
+LK[V]MF[SO]Q	base-vlight	3	5	Macht der Mensch einen Fehler ?
+MF[SO]VC[V]	base-vlight	3	5	Weil der Mensch einen Fehler macht .
+VF[S]LK[V]MF[O]	base-vlight	2	5	Der Gauner begeht ein Verbrechen .
+VF[O]LK[V]MF[S]	base-vlight	5	2	Ein Verbrechen begeht der Gauner .
+LK[V]MF[SO]	base-vlight	4	6	Deshalb begeht der Gauner ein Verbrechen .
+LK[V]MF[SO]Q	base-vlight	3	5	Begeht der Gauner ein Verbrechen ?
+MF[SO]VC[V]	base-vlight	3	5	Weil der Gauner ein Verbrechen begeht .
+VF[S]LK[V]MF[O]	base-vlight	2	5	Die Chefinnen treffen eine Entscheidung .
+VF[O]LK[V]MF[S]	base-vlight	5	2	Eine Entscheidung treffen die Chefinnen .
+LK[V]MF[SO]	base-vlight	4	6	Deshalb treffen die Chefinnen eine Entscheidung .
+LK[V]MF[SO]Q	base-vlight	3	5	Treffen die Chefinnen eine Entscheidung ?
+MF[SO]VC[V]	base-vlight	3	5	Weil die Chefinnen eine Entscheidung treffen .
+VF[S]LK[V]MF[O]	base-vlight	2	5	Der Anwalt stellt einen Antrag .
+VF[O]LK[V]MF[S]	base-vlight	5	2	Einen Antrag stellt der Anwalt .
+LK[V]MF[SO]	base-vlight	4	6	Deshalb stellt der Anwalt einen Antrag .
+LK[V]MF[SO]Q	base-vlight	3	5	Stellt der Anwalt einen Antrag ?
+MF[SO]VC[V]	base-vlight	3	5	Weil der Anwalt einen Antrag stellt .
+VF[S]LK[V]MF[O]	base-vlight	2	5	Die Schüler stellen eine Frage .
+VF[O]LK[V]MF[S]	base-vlight	5	2	Eine Frage stellen die Schüler .
+LK[V]MF[SO]	base-vlight	4	6	Deshalb stellen die Schüler eine Frage .
+LK[V]MF[SO]Q	base-vlight	3	5	Stellen die Schüler eine Frage ?
+MF[SO]VC[V]	base-vlight	3	5	Weil die Schüler eine Frage stellen .
+VF[S]LK[V]MF[O]	base-vlight	2	5	Der Sachbearbeiter erteilt einen Auftrag .
+VF[O]LK[V]MF[S]	base-vlight	5	2	Einen Auftrag erteilt der Sachbearbeiter .
+LK[V]MF[SO]	base-vlight	4	6	Deshalb erteilt der Sachbearbeiter einen Auftrag .
+LK[V]MF[SO]Q	base-vlight	3	5	Erteilt der Sachbearbeiter einen Auftrag ?
+MF[SO]VC[V]	base-vlight	3	5	Weil der Sachbearbeiter einen Auftrag erteilt .
+VF[S]LK[V]MF[O]	base-vlight	2	5	Die Tiere spielen eine Rolle .
+VF[O]LK[V]MF[S]	base-vlight	5	2	Eine Rolle spielen die Tiere .
+LK[V]MF[SO]	base-vlight	4	6	Deshalb spielen die Tiere eine Rolle .
+LK[V]MF[SO]Q	base-vlight	3	5	Spielen die Tiere eine Rolle ?
+MF[SO]VC[V]	base-vlight	3	5	Weil die Tiere eine Rolle spielen .
+VF[S]LK[V]MF[O]	base-vlight	2	4	Die Kollegen nehmen Rücksicht .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Rücksicht nehmen die Kollegen .
+LK[V]MF[SO]	base-vlight	4	5	Deshalb nehmen die Kollegen Rücksicht .
+LK[V]MF[SO]Q	base-vlight	3	4	Nehmen die Kollegen Rücksicht ?
+MF[SO]VC[V]	base-vlight	3	4	Weil die Kollegen Rücksicht nehmen .
+VF[S]LK[V]MF[O]	base-vlight	2	4	Die Freundinnen nehmen Abschied .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Abschied nehmen die Freundinnen .
+LK[V]MF[SO]	base-vlight	4	5	Deshalb nehmen die Freundinnen Abschied .
+LK[V]MF[SO]Q	base-vlight	3	4	Nehmen die Freundinnen Abschied ?
+MF[SO]VC[V]	base-vlight	3	4	Weil die Freundinnen Abschied nehmen .
+VF[S]LK[V]MF[O]	base-vlight	2	4	Der Kandidat hegt Hoffnungen .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Hoffnungen hegt der Kandidat .
+LK[V]MF[SO]	base-vlight	4	5	Deshalb hegt der Kandidat Hoffnungen .
+LK[V]MF[SO]Q	base-vlight	3	4	Hegt der Kandidat Hoffnungen ?
+MF[SO]VC[V]	base-vlight	3	4	Weil der Kandidat Hoffnungen hegt .
+VF[S]LK[V]MF[O]	base-vlight	2	4	Die Politiker nehmen Einfluss .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Einfluss nehmen die Politiker .
+LK[V]MF[SO]	base-vlight	4	5	Deshalb nehmen die Politiker Einfluss .
+LK[V]MF[SO]Q	base-vlight	3	4	Nehmen die Politiker Einfluss ?
+MF[SO]VC[V]	base-vlight	3	4	Weil die Politiker Einfluss nehmen .
+VF[S]LK[V]MF[O]	base-vlight	2	4	Die Gefangenen leisten Widerstand .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Widerstand leisten die Gefangenen .
+LK[V]MF[SO]	base-vlight	4	5	Deshalb leisten die Gefangenen Widerstand .
+LK[V]MF[SO]Q	base-vlight	3	4	Leisten die Gefangenen Widerstand ?
+MF[SO]VC[V]	base-vlight	3	4	Weil die Gefangenen Widerstand leisten .
+VF[S]LK[V]MF[O]	base-vlight	2	4	Der Autor übt Kritik .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Kritik übt der Autor .
+LK[V]MF[SO]	base-vlight	4	5	Deshalb übt der Autor Kritik .
+LK[V]MF[SO]Q	base-vlight	3	4	Übt der Autor Kritik ?
+MF[SO]VC[V]	base-vlight	3	4	Weil der Autor Kritik übt .
+VF[S]LK[V]MF[O]	base-vlight	2	4	Der Mountainbiker treibt Sport .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Sport treibt der Mountainbiker .
+LK[V]MF[SO]	base-vlight	4	5	Deshalb treibt der Mountainbiker Sport .
+LK[V]MF[SO]Q	base-vlight	3	4	Treibt der Mountainbiker Sport ?
+MF[SO]VC[V]	base-vlight	3	4	Weil der Mountainbiker Sport treibt .
+VF[S]LK[V]MF[O]	base-vlight	2	4	Der Pressesprecher bezieht Stellung .
+VF[O]LK[V]MF[S]	base-vlight	4	1	Stellung bezieht der Pressesprecher .
+LK[V]MF[SO]	base-vlight	4	5	Deshalb bezieht der Pressesprecher Stellung .
+LK[V]MF[SO]Q	base-vlight	3	4	Bezieht der Pressesprecher Stellung ?
+MF[SO]VC[V]	base-vlight	3	4	Weil der Pressesprecher Stellung bezieht .
+VF[S]LK[V]MF[O]	dat-vlight	2	5	Die Beteiligung dient der Sache .
+VF[O]LK[V]MF[S]	dat-vlight	5	2	Der Sache dient die Beteiligung .
+LK[V]MF[SO]	dat-vlight	4	6	Deshalb dient die Beteiligung der Sache .
+LK[V]MF[SO]Q	dat-vlight	3	5	Dient die Beteiligung der Sache ?
+MF[SO]VC[V]	dat-vlight	3	5	Weil die Beteiligung der Sache dient .
+VF[S]LK[V]MF[O]	dat-vlight	2	5	Die Aussage entspricht der Wahrheit .
+VF[O]LK[V]MF[S]	dat-vlight	5	2	Der Wahrheit entspricht die Aussage .
+LK[V]MF[SO]	dat-vlight	4	6	Deshalb entspricht die Aussage der Wahrheit .
+LK[V]MF[SO]Q	dat-vlight	3	5	Entspricht die Aussage der Wahrheit ?
+MF[SO]VC[V]	dat-vlight	3	5	Weil die Aussage der Wahrheit entspricht .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Menschen machen Fehler .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Fehler machen die Menschen .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb machen die Menschen Fehler .
+LK[V]MF[SO]Q	amb-vlight	3	4	Machen die Menschen Fehler ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Menschen Fehler machen .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Gauner begehen Verbrechen .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Verbrechen begehen die Gauner .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb begehen die Gauner Verbrechen .
+LK[V]MF[SO]Q	amb-vlight	3	4	Begehen die Gauner Verbrechen ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Gauner Verbrechen begehen .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Chefin trifft Entscheidung .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Entscheidung trifft die Chefin .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb trifft die Chefin Entscheidung .
+LK[V]MF[SO]Q	amb-vlight	3	4	Trifft die Chefin Entscheidung ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Chefin Entscheidung trifft .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Anwälte stellen Anträge .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Anträge stellen die Anwälte .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb stellen die Anwälte Anträge .
+LK[V]MF[SO]Q	amb-vlight	3	4	Stellen die Anwälte Anträge ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Anwälte Anträge stellen .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Schüler stellen Fragen .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Fragen stellen die Schüler .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb stellen die Schüler Fragen .
+LK[V]MF[SO]Q	amb-vlight	3	4	Stellen die Schüler Fragen ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Schüler Fragen stellen .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Sachbearbeiter erteilen Aufträge .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Aufträge erteilen die Sachbearbeiter .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb erteilen die Sachbearbeiter Aufträge .
+LK[V]MF[SO]Q	amb-vlight	3	4	Erteilen die Sachbearbeiter Aufträge ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Sachbearbeiter Aufträge erteilen .
+VF[S]LK[V]MF[O]	amb-vlight	2	5	Das Tier spielt eine Rolle .
+VF[O]LK[V]MF[S]	amb-vlight	5	2	Eine Rolle spielt das Tier .
+LK[V]MF[SO]	amb-vlight	4	6	Deshalb spielt das Tier eine Rolle .
+LK[V]MF[SO]Q	amb-vlight	3	5	Spielt das Tier eine Rolle ?
+MF[SO]VC[V]	amb-vlight	3	5	Weil das Tier eine Rolle spielt .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Kollegin nimmt Rücksicht .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Rücksicht nimmt die Kollegin .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb nimmt die Kollegin Rücksicht .
+LK[V]MF[SO]Q	amb-vlight	3	4	Nimmt die Kollegin Rücksicht ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Kollegin Rücksicht nimmt .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Freundin nimmt Abschied .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Abschied nimmt die Freundin .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb nimmt die Freundin Abschied .
+LK[V]MF[SO]Q	amb-vlight	3	4	Nimmt die Freundin Abschied ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Freundin Abschied nimmt .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Kandidaten hegen Hoffnungen .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Hoffnungen hegen die Kandidaten .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb hegen die Kandidaten Hoffnungen .
+LK[V]MF[SO]Q	amb-vlight	3	4	Hegen die Kandidaten Hoffnungen ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Kandidaten Hoffnungen hegen .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Politikerin nimmt Einfluss .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Einfluss nimmt die Politikerin .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb nimmt die Politikerin Einfluss .
+LK[V]MF[SO]Q	amb-vlight	3	4	Nimmt die Politikerin Einfluss ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Politikerin Einfluss nimmt .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Gefangene leistet Widerstand .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Widerstand leistet die Gefangene .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb leistet die Gefangene Widerstand .
+LK[V]MF[SO]Q	amb-vlight	3	4	Leistet die Gefangene Widerstand ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Gefangene Widerstand leistet .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Autorin übt Kritik .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Kritik übt die Autorin .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb übt die Autorin Kritik .
+LK[V]MF[SO]Q	amb-vlight	3	4	Übt die Autorin Kritik ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Autorin Kritik übt .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Mountainbikerin treibt Sport .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Sport treibt die Mountainbikerin .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb treibt die Mountainbikerin Sport .
+LK[V]MF[SO]Q	amb-vlight	3	4	Treibt die Mountainbikerin Sport ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Mountainbikerin Sport treibt .
+VF[S]LK[V]MF[O]	amb-vlight	2	4	Die Pressesprecherin bezieht Stellung .
+VF[O]LK[V]MF[S]	amb-vlight	4	1	Stellung bezieht die Pressesprecherin .
+LK[V]MF[SO]	amb-vlight	4	5	Deshalb bezieht die Pressesprecherin Stellung .
+LK[V]MF[SO]Q	amb-vlight	3	4	Bezieht die Pressesprecherin Stellung ?
+MF[SO]VC[V]	amb-vlight	3	4	Weil die Pressesprecherin Stellung bezieht .
+VF[S]LK[V]MF[O]	aux-vlight	2	5	Der Mensch wird einen Fehler machen .
+VF[O]LK[V]MF[S]	aux-vlight	5	2	Einen Fehler wird der Mensch machen .
+LK[V]MF[SO]	aux-vlight	4	6	Deshalb wird der Mensch einen Fehler machen .
+LK[V]MF[SO]Q	aux-vlight	3	5	Wird der Mensch einen Fehler machen ?
+MF[SO]VC[V]	aux-vlight	3	5	Weil der Mensch einen Fehler machen wird .
+VF[S]LK[V]MF[O]	aux-vlight	2	5	Der Gauner wird ein Verbrechen begehen .
+VF[O]LK[V]MF[S]	aux-vlight	5	2	Ein Verbrechen wird der Gauner begehen .
+LK[V]MF[SO]	aux-vlight	4	6	Deshalb wird der Gauner ein Verbrechen begehen .
+LK[V]MF[SO]Q	aux-vlight	3	5	Wird der Gauner ein Verbrechen begehen ?
+MF[SO]VC[V]	aux-vlight	3	5	Weil der Gauner ein Verbrechen begehen wird .
+VF[S]LK[V]MF[O]	aux-vlight	2	5	Die Chefinnen werden eine Entscheidung treffen .
+VF[O]LK[V]MF[S]	aux-vlight	5	2	Eine Entscheidung werden die Chefinnen treffen .
+LK[V]MF[SO]	aux-vlight	4	6	Deshalb werden die Chefinnen eine Entscheidung treffen .
+LK[V]MF[SO]Q	aux-vlight	3	5	Werden die Chefinnen eine Entscheidung treffen ?
+MF[SO]VC[V]	aux-vlight	3	5	Weil die Chefinnen eine Entscheidung treffen werden .
+VF[S]LK[V]MF[O]	aux-vlight	2	5	Der Anwalt wird einen Antrag stellen .
+VF[O]LK[V]MF[S]	aux-vlight	5	2	Einen Antrag wird der Anwalt stellen .
+LK[V]MF[SO]	aux-vlight	4	6	Deshalb wird der Anwalt einen Antrag stellen .
+LK[V]MF[SO]Q	aux-vlight	3	5	Wird der Anwalt einen Antrag stellen ?
+MF[SO]VC[V]	aux-vlight	3	5	Weil der Anwalt einen Antrag stellen wird .
+VF[S]LK[V]MF[O]	aux-vlight	2	5	Die Schüler werden eine Frage stellen .
+VF[O]LK[V]MF[S]	aux-vlight	5	2	Eine Frage werden die Schüler stellen .
+LK[V]MF[SO]	aux-vlight	4	6	Deshalb werden die Schüler eine Frage stellen .
+LK[V]MF[SO]Q	aux-vlight	3	5	Werden die Schüler eine Frage stellen ?
+MF[SO]VC[V]	aux-vlight	3	5	Weil die Schüler eine Frage stellen werden .
+VF[S]LK[V]MF[O]	aux-vlight	2	5	Der Sachbearbeiter wird einen Auftrag erteilen .
+VF[O]LK[V]MF[S]	aux-vlight	5	2	Einen Auftrag wird der Sachbearbeiter erteilen .
+LK[V]MF[SO]	aux-vlight	4	6	Deshalb wird der Sachbearbeiter einen Auftrag erteilen .
+LK[V]MF[SO]Q	aux-vlight	3	5	Wird der Sachbearbeiter einen Auftrag erteilen ?
+MF[SO]VC[V]	aux-vlight	3	5	Weil der Sachbearbeiter einen Auftrag erteilen wird .
+VF[S]LK[V]MF[O]	aux-vlight	2	5	Die Tiere werden eine Rolle spielen .
+VF[O]LK[V]MF[S]	aux-vlight	5	2	Eine Rolle werden die Tiere spielen .
+LK[V]MF[SO]	aux-vlight	4	6	Deshalb werden die Tiere eine Rolle spielen .
+LK[V]MF[SO]Q	aux-vlight	3	5	Werden die Tiere eine Rolle spielen ?
+MF[SO]VC[V]	aux-vlight	3	5	Weil die Tiere eine Rolle spielen werden .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	Die Kollegen werden Rücksicht nehmen .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Rücksicht werden die Kollegen nehmen .
+LK[V]MF[SO]	aux-vlight	4	5	Deshalb werden die Kollegen Rücksicht nehmen .
+LK[V]MF[SO]Q	aux-vlight	3	4	Werden die Kollegen Rücksicht nehmen ?
+MF[SO]VC[V]	aux-vlight	3	4	Weil die Kollegen Rücksicht nehmen werden .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	Die Freundinnen werden Abschied nehmen .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Abschied werden die Freundinnen nehmen .
+LK[V]MF[SO]	aux-vlight	4	5	Deshalb werden die Freundinnen Abschied nehmen .
+LK[V]MF[SO]Q	aux-vlight	3	4	Werden die Freundinnen Abschied nehmen ?
+MF[SO]VC[V]	aux-vlight	3	4	Weil die Freundinnen Abschied nehmen werden .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	Der Kandidat wird Hoffnungen hegen .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Hoffnungen wird der Kandidat hegen .
+LK[V]MF[SO]	aux-vlight	4	5	Deshalb wird der Kandidat Hoffnungen hegen .
+LK[V]MF[SO]Q	aux-vlight	3	4	Wird der Kandidat Hoffnungen hegen ?
+MF[SO]VC[V]	aux-vlight	3	4	Weil der Kandidat Hoffnungen hegen wird .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	Die Politiker werden Einfluss nehmen .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Einfluss werden die Politiker nehmen .
+LK[V]MF[SO]	aux-vlight	4	5	Deshalb werden die Politiker Einfluss nehmen .
+LK[V]MF[SO]Q	aux-vlight	3	4	Werden die Politiker Einfluss nehmen ?
+MF[SO]VC[V]	aux-vlight	3	4	Weil die Politiker Einfluss nehmen werden .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	Die Gefangenen werden Widerstand leisten .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Widerstand werden die Gefangenen leisten .
+LK[V]MF[SO]	aux-vlight	4	5	Deshalb werden die Gefangenen Widerstand leisten .
+LK[V]MF[SO]Q	aux-vlight	3	4	Werden die Gefangenen Widerstand leisten ?
+MF[SO]VC[V]	aux-vlight	3	4	Weil die Gefangenen Widerstand leisten werden .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	Der Autor wird Kritik üben .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Kritik wird der Autor üben .
+LK[V]MF[SO]	aux-vlight	4	5	Deshalb wird der Autor Kritik üben .
+LK[V]MF[SO]Q	aux-vlight	3	4	Wird der Autor Kritik üben ?
+MF[SO]VC[V]	aux-vlight	3	4	Weil der Autor Kritik üben wird .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	Der Mountainbiker wird Sport treiben .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Sport wird der Mountainbiker treiben .
+LK[V]MF[SO]	aux-vlight	4	5	Deshalb wird der Mountainbiker Sport treiben .
+LK[V]MF[SO]Q	aux-vlight	3	4	Wird der Mountainbiker Sport treiben ?
+MF[SO]VC[V]	aux-vlight	3	4	Weil der Mountainbiker Sport treiben wird .
+VF[S]LK[V]MF[O]	aux-vlight	2	4	Der Pressesprecher wird Stellung beziehen .
+VF[O]LK[V]MF[S]	aux-vlight	4	1	Stellung wird der Pressesprecher beziehen .
+LK[V]MF[SO]	aux-vlight	4	5	Deshalb wird der Pressesprecher Stellung beziehen .
+LK[V]MF[SO]Q	aux-vlight	3	4	Wird der Pressesprecher Stellung beziehen ?
+MF[SO]VC[V]	aux-vlight	3	4	Weil der Pressesprecher Stellung beziehen wird .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Er macht einen Fehler .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Einen Fehler macht er .
+LK[V]MF[SO]	spron-vlight	3	5	Deshalb macht er einen Fehler .
+LK[V]MF[SO]Q	spron-vlight	2	4	Macht er einen Fehler ?
+MF[SO]VC[V]	spron-vlight	2	4	Weil er einen Fehler macht .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Sie begehen ein Verbrechen .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Ein Verbrechen begehen sie .
+LK[V]MF[SO]	spron-vlight	3	5	Deshalb begehen sie ein Verbrechen .
+LK[V]MF[SO]Q	spron-vlight	2	4	Begehen sie ein Verbrechen ?
+MF[SO]VC[V]	spron-vlight	2	4	Weil sie ein Verbrechen begehen .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Er trifft eine Entscheidung .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Eine Entscheidung trifft er .
+LK[V]MF[SO]	spron-vlight	3	5	Deshalb trifft er eine Entscheidung .
+LK[V]MF[SO]Q	spron-vlight	2	4	Trifft er eine Entscheidung ?
+MF[SO]VC[V]	spron-vlight	2	4	Weil er eine Entscheidung trifft .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Wir stellen einen Antrag .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Einen Antrag stellen wir .
+LK[V]MF[SO]	spron-vlight	3	5	Deshalb stellen wir einen Antrag .
+LK[V]MF[SO]Q	spron-vlight	2	4	Stellen wir einen Antrag ?
+MF[SO]VC[V]	spron-vlight	2	4	Weil wir einen Antrag stellen .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Er stellt eine Frage .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Eine Frage stellt er .
+LK[V]MF[SO]	spron-vlight	3	5	Deshalb stellt er eine Frage .
+LK[V]MF[SO]Q	spron-vlight	2	4	Stellt er eine Frage ?
+MF[SO]VC[V]	spron-vlight	2	4	Weil er eine Frage stellt .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Sie erteilen einen Auftrag .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Einen Auftrag erteilen sie .
+LK[V]MF[SO]	spron-vlight	3	5	Deshalb erteilen sie einen Auftrag .
+LK[V]MF[SO]Q	spron-vlight	2	4	Erteilen sie einen Auftrag ?
+MF[SO]VC[V]	spron-vlight	2	4	Weil sie einen Auftrag erteilen .
+VF[S]LK[V]MF[O]	spron-vlight	1	4	Ich spiele eine Rolle .
+VF[O]LK[V]MF[S]	spron-vlight	4	2	Eine Rolle spiele ich .
+LK[V]MF[SO]	spron-vlight	3	5	Deshalb spiele ich eine Rolle .
+LK[V]MF[SO]Q	spron-vlight	2	4	Spiele ich eine Rolle ?
+MF[SO]VC[V]	spron-vlight	2	4	Weil ich eine Rolle spiele .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Du nimmst Rücksicht .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Rücksicht nimmst du .
+LK[V]MF[SO]	spron-vlight	3	4	Deshalb nimmst du Rücksicht .
+LK[V]MF[SO]Q	spron-vlight	2	3	Nimmst du Rücksicht ?
+MF[SO]VC[V]	spron-vlight	2	3	Weil du Rücksicht nimmst .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Ihr nehmt Abschied .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Abschied nehmt ihr .
+LK[V]MF[SO]	spron-vlight	3	4	Deshalb nehmt ihr Abschied .
+LK[V]MF[SO]Q	spron-vlight	2	3	Nehmt ihr Abschied ?
+MF[SO]VC[V]	spron-vlight	2	3	Weil ihr Abschied nehmt .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Er hegt Hoffnungen .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Hoffnungen hegt er .
+LK[V]MF[SO]	spron-vlight	3	4	Deshalb hegt er Hoffnungen .
+LK[V]MF[SO]Q	spron-vlight	2	3	Hegt er Hoffnungen ?
+MF[SO]VC[V]	spron-vlight	2	3	Weil er Hoffnungen hegt .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Wir nehmen Einfluss .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Einfluss nehmen wir .
+LK[V]MF[SO]	spron-vlight	3	4	Deshalb nehmen wir Einfluss .
+LK[V]MF[SO]Q	spron-vlight	2	3	Nehmen wir Einfluss ?
+MF[SO]VC[V]	spron-vlight	2	3	Weil wir Einfluss nehmen .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Du leistest Widerstand .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Widerstand leistest du .
+LK[V]MF[SO]	spron-vlight	3	4	Deshalb leistest du Widerstand .
+LK[V]MF[SO]Q	spron-vlight	2	3	Leistest du Widerstand ?
+MF[SO]VC[V]	spron-vlight	2	3	Weil du Widerstand leistest .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Wir üben Kritik .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Kritik üben wir .
+LK[V]MF[SO]	spron-vlight	3	4	Deshalb üben wir Kritik .
+LK[V]MF[SO]Q	spron-vlight	2	3	Üben wir Kritik ?
+MF[SO]VC[V]	spron-vlight	2	3	Weil wir Kritik üben .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Ihr treibt Sport .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Sport treibt ihr .
+LK[V]MF[SO]	spron-vlight	3	4	Deshalb treibt ihr Sport .
+LK[V]MF[SO]Q	spron-vlight	2	3	Treibt ihr Sport ?
+MF[SO]VC[V]	spron-vlight	2	3	Weil ihr Sport treibt .
+VF[S]LK[V]MF[O]	spron-vlight	1	3	Du beziehst Stellung .
+VF[O]LK[V]MF[S]	spron-vlight	3	1	Stellung beziehst du .
+LK[V]MF[SO]	spron-vlight	3	4	Deshalb beziehst du Stellung .
+LK[V]MF[SO]Q	spron-vlight	2	3	Beziehst du Stellung ?
+MF[SO]VC[V]	spron-vlight	2	3	Weil du Stellung beziehst .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Der Mensch macht keinen Fehler .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keinen Fehler macht der Mensch .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb macht der Mensch keinen Fehler .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Macht der Mensch keinen Fehler ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil der Mensch keinen Fehler macht .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Der Gauner begeht kein Verbrechen .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Kein Verbrechen begeht der Gauner .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb begeht der Gauner kein Verbrechen .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Begeht der Gauner kein Verbrechen ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil der Gauner kein Verbrechen begeht .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Die Chefin trifft keine Entscheidungen .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keine Entscheidungen trifft die Chefin .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb trifft die Chefin keine Entscheidungen .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Trifft die Chefin keine Entscheidungen ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil die Chefin keine Entscheidungen trifft .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Der Anwalt stellt keinen Antrag .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keinen Antrag stellt der Anwalt .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb stellt der Anwalt keinen Antrag .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Stellt der Anwalt keinen Antrag ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil der Anwalt keinen Antrag stellt .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Die Schüler stellen keine Frage .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keine Frage stellen die Schüler .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb stellen die Schüler keine Frage .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Stellen die Schüler keine Frage ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil die Schüler keine Frage stellen .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Der Sachbearbeiter erteilt keinen Auftrag .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keinen Auftrag erteilt der Sachbearbeiter .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb erteilt der Sachbearbeiter keinen Auftrag .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Erteilt der Sachbearbeiter keinen Auftrag ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil der Sachbearbeiter keinen Auftrag erteilt .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Die Tiere spielen keine Rolle .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keine Rolle spielen die Tiere .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb spielen die Tiere keine Rolle .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Spielen die Tiere keine Rolle ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil die Tiere keine Rolle spielen .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Die Kollegen nehmen keine Rücksicht .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keine Rücksicht nehmen die Kollegen .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb nehmen die Kollegen keine Rücksicht .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Nehmen die Kollegen keine Rücksicht ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil die Kollegen keine Rücksicht nehmen .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Die Freundinnen nehmen keinen Abschied .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keinen Abschied nehmen die Freundinnen .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb nehmen die Freundinnen keinen Abschied .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Nehmen die Freundinnen keinen Abschied ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil die Freundinnen keinen Abschied nehmen .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Der Kandidat hegt keine Hoffnungen .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keine Hoffnungen hegt der Kandidat .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb hegt der Kandidat keine Hoffnungen .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Hegt der Kandidat keine Hoffnungen ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil der Kandidat keine Hoffnungen hegt .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Die Politiker nehmen keinen Einfluss .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keinen Einfluss nehmen die Politiker .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb nehmen die Politiker keinen Einfluss .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Nehmen die Politiker keinen Einfluss ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil die Politiker keinen Einfluss nehmen .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Die Gefangenen leisten keinen Widerstand .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keinen Widerstand leisten die Gefangenen .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb leisten die Gefangenen keinen Widerstand .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Leisten die Gefangenen keinen Widerstand ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil die Gefangenen keinen Widerstand leisten .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Der Autor übt keine Kritik .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keine Kritik übt der Autor .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb übt der Autor keine Kritik .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Übt der Autor keine Kritik ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil der Autor keine Kritik übt .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Der Mountainbiker treibt keinen Sport .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keinen Sport treibt der Mountainbiker .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb treibt der Mountainbiker keinen Sport .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Treibt der Mountainbiker keinen Sport ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil der Mountainbiker keinen Sport treibt .
+VF[S]LK[V]MF[O]	oneg-vlight	2	5	Der Pressesprecher bezieht keine Stellung .
+VF[O]LK[V]MF[S]	oneg-vlight	5	2	Keine Stellung bezieht der Pressesprecher .
+LK[V]MF[SO]	oneg-vlight	4	6	Deshalb bezieht der Pressesprecher keine Stellung .
+LK[V]MF[SO]Q	oneg-vlight	3	5	Bezieht der Pressesprecher keine Stellung ?
+MF[SO]VC[V]	oneg-vlight	3	5	Weil der Pressesprecher keine Stellung bezieht .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	Der Mensch macht in dem Jahr einen Fehler .
+VF[O]LK[V]MF[S]	pp-vlight	8	2	Einen Fehler macht in dem Jahr der Mensch .
+LK[V]MF[SO]	pp-vlight	7	9	Deshalb macht in dem Jahr der Mensch einen Fehler .
+LK[V]MF[SO]Q	pp-vlight	6	8	Macht in dem Jahr der Mensch einen Fehler ?
+MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr der Mensch einen Fehler macht .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	Der Gauner begeht in dem Jahr ein Verbrechen .
+VF[O]LK[V]MF[S]	pp-vlight	8	2	Ein Verbrechen begeht in dem Jahr der Gauner .
+LK[V]MF[SO]	pp-vlight	7	9	Deshalb begeht in dem Jahr der Gauner ein Verbrechen .
+LK[V]MF[SO]Q	pp-vlight	6	8	Begeht in dem Jahr der Gauner ein Verbrechen ?
+MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr der Gauner ein Verbrechen begeht .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	Die Chefinnen treffen in dem Jahr eine Entscheidung .
+VF[O]LK[V]MF[S]	pp-vlight	8	2	Eine Entscheidung treffen in dem Jahr die Chefinnen .
+LK[V]MF[SO]	pp-vlight	7	9	Deshalb treffen in dem Jahr die Chefinnen eine Entscheidung .
+LK[V]MF[SO]Q	pp-vlight	6	8	Treffen in dem Jahr die Chefinnen eine Entscheidung ?
+MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr die Chefinnen eine Entscheidung treffen .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	Der Anwalt stellt in dem Jahr einen Antrag .
+VF[O]LK[V]MF[S]	pp-vlight	8	2	Einen Antrag stellt in dem Jahr der Anwalt .
+LK[V]MF[SO]	pp-vlight	7	9	Deshalb stellt in dem Jahr der Anwalt einen Antrag .
+LK[V]MF[SO]Q	pp-vlight	6	8	Stellt in dem Jahr der Anwalt einen Antrag ?
+MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr der Anwalt einen Antrag stellt .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	Die Schüler stellen in dem Jahr eine Frage .
+VF[O]LK[V]MF[S]	pp-vlight	8	2	Eine Frage stellen in dem Jahr die Schüler .
+LK[V]MF[SO]	pp-vlight	7	9	Deshalb stellen in dem Jahr die Schüler eine Frage .
+LK[V]MF[SO]Q	pp-vlight	6	8	Stellen in dem Jahr die Schüler eine Frage ?
+MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr die Schüler eine Frage stellen .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	Der Sachbearbeiter erteilt in dem Jahr einen Auftrag .
+VF[O]LK[V]MF[S]	pp-vlight	8	2	Einen Auftrag erteilt in dem Jahr der Sachbearbeiter .
+LK[V]MF[SO]	pp-vlight	7	9	Deshalb erteilt in dem Jahr der Sachbearbeiter einen Auftrag .
+LK[V]MF[SO]Q	pp-vlight	6	8	Erteilt in dem Jahr der Sachbearbeiter einen Auftrag ?
+MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr der Sachbearbeiter einen Auftrag erteilt .
+VF[S]LK[V]MF[O]	pp-vlight	2	8	Die Tiere spielen in dem Jahr eine Rolle .
+VF[O]LK[V]MF[S]	pp-vlight	8	2	Eine Rolle spielen in dem Jahr die Tiere .
+LK[V]MF[SO]	pp-vlight	7	9	Deshalb spielen in dem Jahr die Tiere eine Rolle .
+LK[V]MF[SO]Q	pp-vlight	6	8	Spielen in dem Jahr die Tiere eine Rolle ?
+MF[SO]VC[V]	pp-vlight	6	8	Weil in dem Jahr die Tiere eine Rolle spielen .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Kollegen nehmen in dem Jahr Rücksicht .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Rücksicht nehmen in dem Jahr die Kollegen .
+LK[V]MF[SO]	pp-vlight	7	8	Deshalb nehmen in dem Jahr die Kollegen Rücksicht .
+LK[V]MF[SO]Q	pp-vlight	6	7	Nehmen in dem Jahr die Kollegen Rücksicht ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Kollegen Rücksicht nehmen .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Freundinnen nehmen in dem Jahr Abschied .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Abschied nehmen in dem Jahr die Freundinnen .
+LK[V]MF[SO]	pp-vlight	7	8	Deshalb nehmen in dem Jahr die Freundinnen Abschied .
+LK[V]MF[SO]Q	pp-vlight	6	7	Nehmen in dem Jahr die Freundinnen Abschied ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Freundinnen Abschied nehmen .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Der Kandidat hegt in dem Jahr Hoffnungen .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Hoffnungen hegt in dem Jahr der Kandidat .
+LK[V]MF[SO]	pp-vlight	7	8	Deshalb hegt in dem Jahr der Kandidat Hoffnungen .
+LK[V]MF[SO]Q	pp-vlight	6	7	Hegt in dem Jahr der Kandidat Hoffnungen ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr der Kandidat Hoffnungen hegt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Politiker nehmen in dem Jahr Einfluss .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Einfluss nehmen in dem Jahr die Politiker .
+LK[V]MF[SO]	pp-vlight	7	8	Deshalb nehmen in dem Jahr die Politiker Einfluss .
+LK[V]MF[SO]Q	pp-vlight	6	7	Nehmen in dem Jahr die Politiker Einfluss ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Politiker Einfluss nehmen .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Die Gefangenen leisten in dem Jahr Widerstand .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Widerstand leisten in dem Jahr die Gefangenen .
+LK[V]MF[SO]	pp-vlight	7	8	Deshalb leisten in dem Jahr die Gefangenen Widerstand .
+LK[V]MF[SO]Q	pp-vlight	6	7	Leisten in dem Jahr die Gefangenen Widerstand ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr die Gefangenen Widerstand leisten .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Der Autor übt in dem Jahr Kritik .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Kritik übt in dem Jahr der Autor .
+LK[V]MF[SO]	pp-vlight	7	8	Deshalb übt in dem Jahr der Autor Kritik .
+LK[V]MF[SO]Q	pp-vlight	6	7	Übt in dem Jahr der Autor Kritik ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr der Autor Kritik übt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Der Mountainbiker treibt in dem Jahr Sport .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Sport treibt in dem Jahr der Mountainbiker .
+LK[V]MF[SO]	pp-vlight	7	8	Deshalb treibt in dem Jahr der Mountainbiker Sport .
+LK[V]MF[SO]Q	pp-vlight	6	7	Treibt in dem Jahr der Mountainbiker Sport ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr der Mountainbiker Sport treibt .
+VF[S]LK[V]MF[O]	pp-vlight	2	7	Der Pressesprecher bezieht in dem Jahr Stellung .
+VF[O]LK[V]MF[S]	pp-vlight	7	1	Stellung bezieht in dem Jahr der Pressesprecher .
+LK[V]MF[SO]	pp-vlight	7	8	Deshalb bezieht in dem Jahr der Pressesprecher Stellung .
+LK[V]MF[SO]Q	pp-vlight	6	7	Bezieht in dem Jahr der Pressesprecher Stellung ?
+MF[SO]VC[V]	pp-vlight	6	7	Weil in dem Jahr der Pressesprecher Stellung bezieht .
+VF[S]LK[V]MF[O]	sinan-vlight	2	5	Das Programm macht einen Fehler .
+VF[O]LK[V]MF[S]	sinan-vlight	5	2	Einen Fehler macht das Programm .
+LK[V]MF[SO]	sinan-vlight	4	6	Deshalb macht das Programm einen Fehler .
+LK[V]MF[SO]Q	sinan-vlight	3	5	Macht das Programm einen Fehler ?
+MF[SO]VC[V]	sinan-vlight	3	5	Weil das Programm einen Fehler macht .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	Die Software begeht Verbrechen .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Verbrechen begeht die Software .
+LK[V]MF[SO]	sinan-vlight	4	5	Deshalb begeht die Software Verbrechen .
+LK[V]MF[SO]Q	sinan-vlight	3	4	Begeht die Software Verbrechen ?
+MF[SO]VC[V]	sinan-vlight	3	4	Weil die Software Verbrechen begeht .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	Das System trifft Entscheidungen .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Entscheidungen trifft das System .
+LK[V]MF[SO]	sinan-vlight	4	5	Deshalb trifft das System Entscheidungen .
+LK[V]MF[SO]Q	sinan-vlight	3	4	Trifft das System Entscheidungen ?
+MF[SO]VC[V]	sinan-vlight	3	4	Weil das System Entscheidungen trifft .
+VF[S]LK[V]MF[O]	sinan-vlight	2	5	Der Click stellt einen Antrag .
+VF[O]LK[V]MF[S]	sinan-vlight	5	2	Einen Antrag stellt der Click .
+LK[V]MF[SO]	sinan-vlight	4	6	Deshalb stellt der Click einen Antrag .
+LK[V]MF[SO]Q	sinan-vlight	3	5	Stellt der Click einen Antrag ?
+MF[SO]VC[V]	sinan-vlight	3	5	Weil der Click einen Antrag stellt .
+VF[S]LK[V]MF[O]	sinan-vlight	2	5	Der Chatbot stellt eine Frage .
+VF[O]LK[V]MF[S]	sinan-vlight	5	2	Eine Frage stellt der Chatbot .
+LK[V]MF[SO]	sinan-vlight	4	6	Deshalb stellt der Chatbot eine Frage .
+LK[V]MF[SO]Q	sinan-vlight	3	5	Stellt der Chatbot eine Frage ?
+MF[SO]VC[V]	sinan-vlight	3	5	Weil der Chatbot eine Frage stellt .
+VF[S]LK[V]MF[O]	sinan-vlight	2	5	Die Genehmigung erteilt einen Auftrag .
+VF[O]LK[V]MF[S]	sinan-vlight	5	2	Einen Auftrag erteilt die Genehmigung .
+LK[V]MF[SO]	sinan-vlight	4	6	Deshalb erteilt die Genehmigung einen Auftrag .
+LK[V]MF[SO]Q	sinan-vlight	3	5	Erteilt die Genehmigung einen Auftrag ?
+MF[SO]VC[V]	sinan-vlight	3	5	Weil die Genehmigung einen Auftrag erteilt .
+VF[S]LK[V]MF[O]	sinan-vlight	2	5	Die Themen spielen eine Rolle .
+VF[O]LK[V]MF[S]	sinan-vlight	5	2	Eine Rolle spielen die Themen .
+LK[V]MF[SO]	sinan-vlight	4	6	Deshalb spielen die Themen eine Rolle .
+LK[V]MF[SO]Q	sinan-vlight	3	5	Spielen die Themen eine Rolle ?
+MF[SO]VC[V]	sinan-vlight	3	5	Weil die Themen eine Rolle spielen .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	Die Wassermassen nehmen Rücksicht .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Rücksicht nehmen die Wassermassen .
+LK[V]MF[SO]	sinan-vlight	4	5	Deshalb nehmen die Wassermassen Rücksicht .
+LK[V]MF[SO]Q	sinan-vlight	3	4	Nehmen die Wassermassen Rücksicht ?
+MF[SO]VC[V]	sinan-vlight	3	4	Weil die Wassermassen Rücksicht nehmen .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	Die Faxgeräte nehmen Abschied .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Abschied nehmen die Faxgeräte .
+LK[V]MF[SO]	sinan-vlight	4	5	Deshalb nehmen die Faxgeräte Abschied .
+LK[V]MF[SO]Q	sinan-vlight	3	4	Nehmen die Faxgeräte Abschied ?
+MF[SO]VC[V]	sinan-vlight	3	4	Weil die Faxgeräte Abschied nehmen .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	Die Lebensumstände nehmen Einfluss .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Einfluss nehmen die Lebensumstände .
+LK[V]MF[SO]	sinan-vlight	4	5	Deshalb nehmen die Lebensumstände Einfluss .
+LK[V]MF[SO]Q	sinan-vlight	3	4	Nehmen die Lebensumstände Einfluss ?
+MF[SO]VC[V]	sinan-vlight	3	4	Weil die Lebensumstände Einfluss nehmen .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	Der Reißverschluss leistet Widerstand .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Widerstand leistet der Reißverschluss .
+LK[V]MF[SO]	sinan-vlight	4	5	Deshalb leistet der Reißverschluss Widerstand .
+LK[V]MF[SO]Q	sinan-vlight	3	4	Leistet der Reißverschluss Widerstand ?
+MF[SO]VC[V]	sinan-vlight	3	4	Weil der Reißverschluss Widerstand leistet .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	Die Bücher üben Kritik .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Kritik üben die Bücher .
+LK[V]MF[SO]	sinan-vlight	4	5	Deshalb üben die Bücher Kritik .
+LK[V]MF[SO]Q	sinan-vlight	3	4	Üben die Bücher Kritik ?
+MF[SO]VC[V]	sinan-vlight	3	4	Weil die Bücher Kritik üben .
+VF[S]LK[V]MF[O]	sinan-vlight	2	4	Der Bericht bezieht Stellung .
+VF[O]LK[V]MF[S]	sinan-vlight	4	1	Stellung bezieht der Bericht .
+LK[V]MF[SO]	sinan-vlight	4	5	Deshalb bezieht der Bericht Stellung .
+LK[V]MF[SO]Q	sinan-vlight	3	4	Bezieht der Bericht Stellung ?
+MF[SO]VC[V]	sinan-vlight	3	4	Weil der Bericht Stellung bezieht .
+VF[S]LK[V]MF[O]	sinst-vlight	2	5	Die Praxis macht einen Fehler .
+VF[O]LK[V]MF[S]	sinst-vlight	5	2	Einen Fehler macht die Praxis .
+LK[V]MF[SO]	sinst-vlight	4	6	Deshalb macht die Praxis einen Fehler .
+LK[V]MF[SO]Q	sinst-vlight	3	5	Macht die Praxis einen Fehler ?
+MF[SO]VC[V]	sinst-vlight	3	5	Weil die Praxis einen Fehler macht .
+VF[S]LK[V]MF[O]	sinst-vlight	2	5	Die Läden begehen ein Verbrechen .
+VF[O]LK[V]MF[S]	sinst-vlight	5	2	Ein Verbrechen begehen die Läden .
+LK[V]MF[SO]	sinst-vlight	4	6	Deshalb begehen die Läden ein Verbrechen .
+LK[V]MF[SO]Q	sinst-vlight	3	5	Begehen die Läden ein Verbrechen ?
+MF[SO]VC[V]	sinst-vlight	3	5	Weil die Läden ein Verbrechen begehen .
+VF[S]LK[V]MF[O]	sinst-vlight	2	4	Das Landratsamt trifft Entscheidungen .
+VF[O]LK[V]MF[S]	sinst-vlight	4	1	Entscheidungen trifft das Landratsamt .
+LK[V]MF[SO]	sinst-vlight	4	5	Deshalb trifft das Landratsamt Entscheidungen .
+LK[V]MF[SO]Q	sinst-vlight	3	4	Trifft das Landratsamt Entscheidungen ?
+MF[SO]VC[V]	sinst-vlight	3	4	Weil das Landratsamt Entscheidungen trifft .
+VF[S]LK[V]MF[O]	sinst-vlight	2	5	Die Werbeagentur erteilt einen Auftrag .
+VF[O]LK[V]MF[S]	sinst-vlight	5	2	Einen Auftrag erteilt die Werbeagentur .
+LK[V]MF[SO]	sinst-vlight	4	6	Deshalb erteilt die Werbeagentur einen Auftrag .
+LK[V]MF[SO]Q	sinst-vlight	3	5	Erteilt die Werbeagentur einen Auftrag ?
+MF[SO]VC[V]	sinst-vlight	3	5	Weil die Werbeagentur einen Auftrag erteilt .
+VF[S]LK[V]MF[O]	sinst-vlight	2	4	Die Redaktion stellt Fragen .
+VF[O]LK[V]MF[S]	sinst-vlight	4	1	Fragen stellt die Redaktion .
+LK[V]MF[SO]	sinst-vlight	4	5	Deshalb stellt die Redaktion Fragen .
+LK[V]MF[SO]Q	sinst-vlight	3	4	Stellt die Redaktion Fragen ?
+MF[SO]VC[V]	sinst-vlight	3	4	Weil die Redaktion Fragen stellt .
+VF[S]LK[V]MF[O]	sinst-vlight	2	5	Der Salon stellt einen Antrag .
+VF[O]LK[V]MF[S]	sinst-vlight	5	2	Einen Antrag stellt der Salon .
+LK[V]MF[SO]	sinst-vlight	4	6	Deshalb stellt der Salon einen Antrag .
+LK[V]MF[SO]Q	sinst-vlight	3	5	Stellt der Salon einen Antrag ?
+MF[SO]VC[V]	sinst-vlight	3	5	Weil der Salon einen Antrag stellt .
+VF[S]LK[V]MF[O]	sinst-vlight	2	5	Die Dörfer spielen eine Rolle .
+VF[O]LK[V]MF[S]	sinst-vlight	5	2	Eine Rolle spielen die Dörfer .
+LK[V]MF[SO]	sinst-vlight	4	6	Deshalb spielen die Dörfer eine Rolle .
+LK[V]MF[SO]Q	sinst-vlight	3	5	Spielen die Dörfer eine Rolle ?
+MF[SO]VC[V]	sinst-vlight	3	5	Weil die Dörfer eine Rolle spielen .
+VF[S]LK[V]MF[O]	sinst-vlight	2	4	Die Seminare nehmen Rücksicht .
+VF[O]LK[V]MF[S]	sinst-vlight	4	1	Rücksicht nehmen die Seminare .
+LK[V]MF[SO]	sinst-vlight	4	5	Deshalb nehmen die Seminare Rücksicht .
+LK[V]MF[SO]Q	sinst-vlight	3	4	Nehmen die Seminare Rücksicht ?
+MF[SO]VC[V]	sinst-vlight	3	4	Weil die Seminare Rücksicht nehmen .
+VF[S]LK[V]MF[O]	sinst-vlight	2	4	Die Gemeinden nehmen Abschied .
+VF[O]LK[V]MF[S]	sinst-vlight	4	1	Abschied nehmen die Gemeinden .
+LK[V]MF[SO]	sinst-vlight	4	5	Deshalb nehmen die Gemeinden Abschied .
+LK[V]MF[SO]Q	sinst-vlight	3	4	Nehmen die Gemeinden Abschied ?
+MF[SO]VC[V]	sinst-vlight	3	4	Weil die Gemeinden Abschied nehmen .
+VF[S]LK[V]MF[O]	sinst-vlight	2	4	Die Schulen hegen Hoffnung .
+VF[O]LK[V]MF[S]	sinst-vlight	4	1	Hoffnung hegen die Schulen .
+LK[V]MF[SO]	sinst-vlight	4	5	Deshalb hegen die Schulen Hoffnung .
+LK[V]MF[SO]Q	sinst-vlight	3	4	Hegen die Schulen Hoffnung ?
+MF[SO]VC[V]	sinst-vlight	3	4	Weil die Schulen Hoffnung hegen .
+VF[S]LK[V]MF[O]	sinst-vlight	2	4	Die Büros nehmen Einfluss .
+VF[O]LK[V]MF[S]	sinst-vlight	4	1	Einfluss nehmen die Büros .
+LK[V]MF[SO]	sinst-vlight	4	5	Deshalb nehmen die Büros Einfluss .
+LK[V]MF[SO]Q	sinst-vlight	3	4	Nehmen die Büros Einfluss ?
+MF[SO]VC[V]	sinst-vlight	3	4	Weil die Büros Einfluss nehmen .
+VF[S]LK[V]MF[O]	sinst-vlight	2	4	Die Kanzleien leisten Widerstand .
+VF[O]LK[V]MF[S]	sinst-vlight	4	1	Widerstand leisten die Kanzleien .
+LK[V]MF[SO]	sinst-vlight	4	5	Deshalb leisten die Kanzleien Widerstand .
+LK[V]MF[SO]Q	sinst-vlight	3	4	Leisten die Kanzleien Widerstand ?
+MF[SO]VC[V]	sinst-vlight	3	4	Weil die Kanzleien Widerstand leisten .
+VF[S]LK[V]MF[O]	sinst-vlight	2	4	Die Universitäten üben Kritik .
+VF[O]LK[V]MF[S]	sinst-vlight	4	1	Kritik üben die Universitäten .
+LK[V]MF[SO]	sinst-vlight	4	5	Deshalb üben die Universitäten Kritik .
+LK[V]MF[SO]Q	sinst-vlight	3	4	Üben die Universitäten Kritik ?
+MF[SO]VC[V]	sinst-vlight	3	4	Weil die Universitäten Kritik üben .
+VF[S]LK[V]MF[O]	sinst-vlight	2	4	Die Werkstätte treiben Sport .
+VF[O]LK[V]MF[S]	sinst-vlight	4	1	Sport treiben die Werkstätte .
+LK[V]MF[SO]	sinst-vlight	4	5	Deshalb treiben die Werkstätte Sport .
+LK[V]MF[SO]Q	sinst-vlight	3	4	Treiben die Werkstätte Sport ?
+MF[SO]VC[V]	sinst-vlight	3	4	Weil die Werkstätte Sport treiben .
+VF[S]LK[V]MF[O]	sinst-vlight	2	4	Der Konzern bezieht Stellung .
+VF[O]LK[V]MF[S]	sinst-vlight	4	1	Stellung bezieht der Konzern .
+LK[V]MF[SO]	sinst-vlight	4	5	Deshalb bezieht der Konzern Stellung .
+LK[V]MF[SO]Q	sinst-vlight	3	4	Bezieht der Konzern Stellung ?
+MF[SO]VC[V]	sinst-vlight	3	4	Weil der Konzern Stellung bezieht .
+VF[S]LK[V]MF[O]	sname-vlight	1	4	Daimler macht einen Fehler .
+VF[O]LK[V]MF[S]	sname-vlight	4	2	Einen Fehler macht Daimler .
+LK[V]MF[SO]	sname-vlight	3	5	Deshalb macht Daimler einen Fehler .
+LK[V]MF[SO]Q	sname-vlight	2	4	Macht Daimler einen Fehler ?
+MF[SO]VC[V]	sname-vlight	2	4	Weil Daimler einen Fehler macht .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Siemens begeht Verbrechen .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Verbrechen begeht Siemens .
+LK[V]MF[SO]	sname-vlight	3	4	Deshalb begeht Siemens Verbrechen .
+LK[V]MF[SO]Q	sname-vlight	2	3	Begeht Siemens Verbrechen ?
+MF[SO]VC[V]	sname-vlight	2	3	Weil Siemens Verbrechen begeht .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Harry trifft Entscheidungen .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Entscheidungen trifft Harry .
+LK[V]MF[SO]	sname-vlight	3	4	Deshalb trifft Harry Entscheidungen .
+LK[V]MF[SO]Q	sname-vlight	2	3	Trifft Harry Entscheidungen ?
+MF[SO]VC[V]	sname-vlight	2	3	Weil Harry Entscheidungen trifft .
+VF[S]LK[V]MF[O]	sname-vlight	1	4	Balazs erteilt einen Auftrag .
+VF[O]LK[V]MF[S]	sname-vlight	4	2	Einen Auftrag erteilt Balazs .
+LK[V]MF[SO]	sname-vlight	3	5	Deshalb erteilt Balazs einen Auftrag .
+LK[V]MF[SO]Q	sname-vlight	2	4	Erteilt Balazs einen Auftrag ?
+MF[SO]VC[V]	sname-vlight	2	4	Weil Balazs einen Auftrag erteilt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Clooney stellt Fragen .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Fragen stellt Clooney .
+LK[V]MF[SO]	sname-vlight	3	4	Deshalb stellt Clooney Fragen .
+LK[V]MF[SO]Q	sname-vlight	2	3	Stellt Clooney Fragen ?
+MF[SO]VC[V]	sname-vlight	2	3	Weil Clooney Fragen stellt .
+VF[S]LK[V]MF[O]	sname-vlight	2	5	Bertolt Brecht stellt einen Antrag .
+VF[O]LK[V]MF[S]	sname-vlight	5	2	Einen Antrag stellt Bertolt Brecht .
+LK[V]MF[SO]	sname-vlight	4	6	Deshalb stellt Bertolt Brecht einen Antrag .
+LK[V]MF[SO]Q	sname-vlight	3	5	Stellt Bertolt Brecht einen Antrag ?
+MF[SO]VC[V]	sname-vlight	3	5	Weil Bertolt Brecht einen Antrag stellt .
+VF[S]LK[V]MF[O]	sname-vlight	1	4	Gillette spielt eine Rolle .
+VF[O]LK[V]MF[S]	sname-vlight	4	2	Eine Rolle spielt Gillette .
+LK[V]MF[SO]	sname-vlight	3	5	Deshalb spielt Gillette eine Rolle .
+LK[V]MF[SO]Q	sname-vlight	2	4	Spielt Gillette eine Rolle ?
+MF[SO]VC[V]	sname-vlight	2	4	Weil Gillette eine Rolle spielt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	RTL nimmt Rücksicht .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Rücksicht nimmt RTL .
+LK[V]MF[SO]	sname-vlight	3	4	Deshalb nimmt RTL Rücksicht .
+LK[V]MF[SO]Q	sname-vlight	2	3	Nimmt RTL Rücksicht ?
+MF[SO]VC[V]	sname-vlight	2	3	Weil RTL Rücksicht nimmt .
+VF[S]LK[V]MF[O]	sname-vlight	2	4	Günter Jauch nimmt Abschied .
+VF[O]LK[V]MF[S]	sname-vlight	4	1	Abschied nimmt Günter Jauch .
+LK[V]MF[SO]	sname-vlight	4	5	Deshalb nimmt Günter Jauch Abschied .
+LK[V]MF[SO]Q	sname-vlight	3	4	Nimmt Günter Jauch Abschied ?
+MF[SO]VC[V]	sname-vlight	3	4	Weil Günter Jauch Abschied nimmt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Merkel hegt Hoffnungen .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Hoffnungen hegt Merkel .
+LK[V]MF[SO]	sname-vlight	3	4	Deshalb hegt Merkel Hoffnungen .
+LK[V]MF[SO]Q	sname-vlight	2	3	Hegt Merkel Hoffnungen ?
+MF[SO]VC[V]	sname-vlight	2	3	Weil Merkel Hoffnungen hegt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Degas nimmt Einfluss .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Einfluss nimmt Degas .
+LK[V]MF[SO]	sname-vlight	3	4	Deshalb nimmt Degas Einfluss .
+LK[V]MF[SO]Q	sname-vlight	2	3	Nimmt Degas Einfluss ?
+MF[SO]VC[V]	sname-vlight	2	3	Weil Degas Einfluss nimmt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Vietnam leistet Widerstand .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Widerstand leistet Vietnam .
+LK[V]MF[SO]	sname-vlight	3	4	Deshalb leistet Vietnam Widerstand .
+LK[V]MF[SO]Q	sname-vlight	2	3	Leistet Vietnam Widerstand ?
+MF[SO]VC[V]	sname-vlight	2	3	Weil Vietnam Widerstand leistet .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Anke übt Kritik .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Kritik übt Anke .
+LK[V]MF[SO]	sname-vlight	3	4	Deshalb übt Anke Kritik .
+LK[V]MF[SO]Q	sname-vlight	2	3	Übt Anke Kritik ?
+MF[SO]VC[V]	sname-vlight	2	3	Weil Anke Kritik übt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	Bonn treibt Sport .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Sport treibt Bonn .
+LK[V]MF[SO]	sname-vlight	3	4	Deshalb treibt Bonn Sport .
+LK[V]MF[SO]Q	sname-vlight	2	3	Treibt Bonn Sport ?
+MF[SO]VC[V]	sname-vlight	2	3	Weil Bonn Sport treibt .
+VF[S]LK[V]MF[O]	sname-vlight	1	3	EnBW bezieht Stellung .
+VF[O]LK[V]MF[S]	sname-vlight	3	1	Stellung bezieht EnBW .
+LK[V]MF[SO]	sname-vlight	3	4	Deshalb bezieht EnBW Stellung .
+LK[V]MF[SO]Q	sname-vlight	2	3	Bezieht EnBW Stellung ?
+MF[SO]VC[V]	sname-vlight	2	3	Weil EnBW Stellung bezieht .

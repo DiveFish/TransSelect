@@ -1,0 +1,2402 @@
+{
+    "Der General startet einen Angriff .": [
+        {
+            "sequence": "[CLS] Der General startet einen Angriff. [SEP]",
+            "score": 0.39380621910095215,
+            "token": 6271,
+            "token_str": "Angriff"
+        },
+        {
+            "sequence": "[CLS] Der General startet einen Plan. [SEP]",
+            "score": 0.07484707981348038,
+            "token": 2383,
+            "token_str": "Plan"
+        },
+        {
+            "sequence": "[CLS] Der General startet einen Kampf. [SEP]",
+            "score": 0.07443862408399582,
+            "token": 3639,
+            "token_str": "Kampf"
+        },
+        {
+            "sequence": "[CLS] Der General startet einen Aufstand. [SEP]",
+            "score": 0.047818101942539215,
+            "token": 21435,
+            "token_str": "Aufstand"
+        },
+        {
+            "sequence": "[CLS] Der General startet einen Krieg. [SEP]",
+            "score": 0.03826013207435608,
+            "token": 2189,
+            "token_str": "Krieg"
+        }
+    ],
+    "Einen Angriff startet der General .": [
+        {
+            "sequence": "[CLS] Einen Angriff startet der General. [SEP]",
+            "score": 0.3434053957462311,
+            "token": 6271,
+            "token_str": "Angriff"
+        },
+        {
+            "sequence": "[CLS] Einen zweiten startet der General. [SEP]",
+            "score": 0.07202479988336563,
+            "token": 2179,
+            "token_str": "zweiten"
+        },
+        {
+            "sequence": "[CLS] Einen Kampf startet der General. [SEP]",
+            "score": 0.057171933352947235,
+            "token": 3639,
+            "token_str": "Kampf"
+        },
+        {
+            "sequence": "[CLS] Einen Zug startet der General. [SEP]",
+            "score": 0.04153543338179588,
+            "token": 1848,
+            "token_str": "Zug"
+        },
+        {
+            "sequence": "[CLS] Einen neuen startet der General. [SEP]",
+            "score": 0.027772696688771248,
+            "token": 1260,
+            "token_str": "neuen"
+        }
+    ],
+    "Deshalb startet der General einen Angriff .": [
+        {
+            "sequence": "[CLS] Deshalb startet der General einen Angriff. [SEP]",
+            "score": 0.2144024670124054,
+            "token": 6271,
+            "token_str": "Angriff"
+        },
+        {
+            "sequence": "[CLS] Deshalb startet der General einen Kampf. [SEP]",
+            "score": 0.09426428377628326,
+            "token": 3639,
+            "token_str": "Kampf"
+        },
+        {
+            "sequence": "[CLS] Deshalb startet der General einen Plan. [SEP]",
+            "score": 0.09198708832263947,
+            "token": 2383,
+            "token_str": "Plan"
+        },
+        {
+            "sequence": "[CLS] Deshalb startet der General einen Krieg. [SEP]",
+            "score": 0.0569336861371994,
+            "token": 2189,
+            "token_str": "Krieg"
+        },
+        {
+            "sequence": "[CLS] Deshalb startet der General einen Versuch. [SEP]",
+            "score": 0.05154121294617653,
+            "token": 6434,
+            "token_str": "Versuch"
+        }
+    ],
+    "Startet der General einen Angriff ?": [
+        {
+            "sequence": "[CLS] Startet der General einen Plan? [SEP]",
+            "score": 0.03885044902563095,
+            "token": 2383,
+            "token_str": "Plan"
+        },
+        {
+            "sequence": "[CLS] Startet der General einen Zug? [SEP]",
+            "score": 0.029102027416229248,
+            "token": 1848,
+            "token_str": "Zug"
+        },
+        {
+            "sequence": "[CLS] Startet der General einen Roman? [SEP]",
+            "score": 0.02432679757475853,
+            "token": 5008,
+            "token_str": "Roman"
+        },
+        {
+            "sequence": "[CLS] Startet der General einen solchen? [SEP]",
+            "score": 0.019047681242227554,
+            "token": 5748,
+            "token_str": "solchen"
+        },
+        {
+            "sequence": "[CLS] Startet der General einen Prozess? [SEP]",
+            "score": 0.0188678540289402,
+            "token": 4691,
+            "token_str": "Prozess"
+        }
+    ],
+    "Weil der General einen Angriff startet .": [
+        {
+            "sequence": "[CLS] Weil der General einen Plan startet. [SEP]",
+            "score": 0.19431236386299133,
+            "token": 2383,
+            "token_str": "Plan"
+        },
+        {
+            "sequence": "[CLS] Weil der General einen Prozess startet. [SEP]",
+            "score": 0.053815215826034546,
+            "token": 4691,
+            "token_str": "Prozess"
+        },
+        {
+            "sequence": "[CLS] Weil der General einen Angriff startet. [SEP]",
+            "score": 0.0491805374622345,
+            "token": 6271,
+            "token_str": "Angriff"
+        },
+        {
+            "sequence": "[CLS] Weil der General einen Zug startet. [SEP]",
+            "score": 0.04215039312839508,
+            "token": 1848,
+            "token_str": "Zug"
+        },
+        {
+            "sequence": "[CLS] Weil der General einen Kampf startet. [SEP]",
+            "score": 0.03878786414861679,
+            "token": 3639,
+            "token_str": "Kampf"
+        }
+    ],
+    "Die Partner leben ein Doppelleben .": [
+        {
+            "sequence": "[CLS] Die Partner leben ein Jahr. [SEP]",
+            "score": 0.3363121747970581,
+            "token": 326,
+            "token_str": "Jahr"
+        },
+        {
+            "sequence": "[CLS] Die Partner leben ein Paar. [SEP]",
+            "score": 0.3193082809448242,
+            "token": 6038,
+            "token_str": "Paar"
+        },
+        {
+            "sequence": "[CLS] Die Partner leben ein Leben. [SEP]",
+            "score": 0.12253354489803314,
+            "token": 906,
+            "token_str": "Leben"
+        },
+        {
+            "sequence": "[CLS] Die Partner leben ein Kind. [SEP]",
+            "score": 0.04278074577450752,
+            "token": 2841,
+            "token_str": "Kind"
+        },
+        {
+            "sequence": "[CLS] Die Partner leben ein Haus. [SEP]",
+            "score": 0.02165018580853939,
+            "token": 860,
+            "token_str": "Haus"
+        }
+    ],
+    "Ein Doppelleben leben die Partner .": [
+        {
+            "sequence": "[CLS] Ein Jahr leben die Partner. [SEP]",
+            "score": 0.26126864552497864,
+            "token": 326,
+            "token_str": "Jahr"
+        },
+        {
+            "sequence": "[CLS] Ein Paar leben die Partner. [SEP]",
+            "score": 0.14702950417995453,
+            "token": 6038,
+            "token_str": "Paar"
+        },
+        {
+            "sequence": "[CLS] Ein Leben leben die Partner. [SEP]",
+            "score": 0.12787027657032013,
+            "token": 906,
+            "token_str": "Leben"
+        },
+        {
+            "sequence": "[CLS] Ein Haus leben die Partner. [SEP]",
+            "score": 0.044918209314346313,
+            "token": 860,
+            "token_str": "Haus"
+        },
+        {
+            "sequence": "[CLS] Ein Stück leben die Partner. [SEP]",
+            "score": 0.028628529980778694,
+            "token": 3828,
+            "token_str": "Stück"
+        }
+    ],
+    "Deshalb leben die Partner ein Doppelleben .": [
+        {
+            "sequence": "[CLS] Deshalb leben die Partner ein Paar. [SEP]",
+            "score": 0.38990652561187744,
+            "token": 6038,
+            "token_str": "Paar"
+        },
+        {
+            "sequence": "[CLS] Deshalb leben die Partner ein Leben. [SEP]",
+            "score": 0.22107338905334473,
+            "token": 906,
+            "token_str": "Leben"
+        },
+        {
+            "sequence": "[CLS] Deshalb leben die Partner ein Kind. [SEP]",
+            "score": 0.03545258939266205,
+            "token": 2841,
+            "token_str": "Kind"
+        },
+        {
+            "sequence": "[CLS] Deshalb leben die Partner ein Haus. [SEP]",
+            "score": 0.03139236196875572,
+            "token": 860,
+            "token_str": "Haus"
+        },
+        {
+            "sequence": "[CLS] Deshalb leben die Partner ein Verhältnis. [SEP]",
+            "score": 0.028560807928442955,
+            "token": 6008,
+            "token_str": "Verhältnis"
+        }
+    ],
+    "Leben die Partner ein Doppelleben ?": [
+        {
+            "sequence": "[CLS] Leben die Partner ein Paar? [SEP]",
+            "score": 0.07514099031686783,
+            "token": 6038,
+            "token_str": "Paar"
+        },
+        {
+            "sequence": "[CLS] Leben die Partner ein Leben? [SEP]",
+            "score": 0.05488254502415657,
+            "token": 906,
+            "token_str": "Leben"
+        },
+        {
+            "sequence": "[CLS] Leben die Partner ein Gut? [SEP]",
+            "score": 0.05045817047357559,
+            "token": 2632,
+            "token_str": "Gut"
+        },
+        {
+            "sequence": "[CLS] Leben die Partner ein Problem? [SEP]",
+            "score": 0.030985169112682343,
+            "token": 1550,
+            "token_str": "Problem"
+        },
+        {
+            "sequence": "[CLS] Leben die Partner ein Kind? [SEP]",
+            "score": 0.029949896037578583,
+            "token": 2841,
+            "token_str": "Kind"
+        }
+    ],
+    "Weil die Partner ein Doppelleben leben .": [
+        {
+            "sequence": "[CLS] Weil die Partner ein Leben leben. [SEP]",
+            "score": 0.3369152545928955,
+            "token": 906,
+            "token_str": "Leben"
+        },
+        {
+            "sequence": "[CLS] Weil die Partner ein Jahr leben. [SEP]",
+            "score": 0.16096727550029755,
+            "token": 326,
+            "token_str": "Jahr"
+        },
+        {
+            "sequence": "[CLS] Weil die Partner ein wenig leben. [SEP]",
+            "score": 0.09124545753002167,
+            "token": 2425,
+            "token_str": "wenig"
+        },
+        {
+            "sequence": "[CLS] Weil die Partner ein Stück leben. [SEP]",
+            "score": 0.06503597646951675,
+            "token": 3828,
+            "token_str": "Stück"
+        },
+        {
+            "sequence": "[CLS] Weil die Partner ein bisschen leben. [SEP]",
+            "score": 0.02554488368332386,
+            "token": 6679,
+            "token_str": "bisschen"
+        }
+    ],
+    "Der Journalist übertextet eine Aufnahme .": [
+        {
+            "sequence": "[CLS] Der Journalist übertextet eine Frau. [SEP]",
+            "score": 0.049201253801584244,
+            "token": 898,
+            "token_str": "Frau"
+        },
+        {
+            "sequence": "[CLS] Der Journalist übertextet eine Geschichte. [SEP]",
+            "score": 0.03381001576781273,
+            "token": 2255,
+            "token_str": "Geschichte"
+        },
+        {
+            "sequence": "[CLS] Der Journalist übertextet eine Lüge. [SEP]",
+            "score": 0.023509176447987556,
+            "token": 28654,
+            "token_str": "Lüge"
+        },
+        {
+            "sequence": "[CLS] Der Journalist übertextet eine Melodie. [SEP]",
+            "score": 0.01949109323322773,
+            "token": 25962,
+            "token_str": "Melodie"
+        },
+        {
+            "sequence": "[CLS] Der Journalist übertextet eine Aussage. [SEP]",
+            "score": 0.01884784735739231,
+            "token": 9183,
+            "token_str": "Aussage"
+        }
+    ],
+    "Eine Aufnahme übertextet der Journalist .": [
+        {
+            "sequence": "[CLS] Eine andere übertextet der Journalist. [SEP]",
+            "score": 0.08984116464853287,
+            "token": 1301,
+            "token_str": "andere"
+        },
+        {
+            "sequence": "[CLS] Eine Frage übertextet der Journalist. [SEP]",
+            "score": 0.030342349782586098,
+            "token": 2167,
+            "token_str": "Frage"
+        },
+        {
+            "sequence": "[CLS] Eine Geschichte übertextet der Journalist. [SEP]",
+            "score": 0.026179077103734016,
+            "token": 2255,
+            "token_str": "Geschichte"
+        },
+        {
+            "sequence": "[CLS] Eine Melodie übertextet der Journalist. [SEP]",
+            "score": 0.02572733536362648,
+            "token": 25962,
+            "token_str": "Melodie"
+        },
+        {
+            "sequence": "[CLS] Eine weitere übertextet der Journalist. [SEP]",
+            "score": 0.02540985681116581,
+            "token": 1633,
+            "token_str": "weitere"
+        }
+    ],
+    "Deshalb übertextet der Journalist eine Aufnahme .": [
+        {
+            "sequence": "[CLS] Deshalb übertextet der Journalist eine Geschichte. [SEP]",
+            "score": 0.04016096144914627,
+            "token": 2255,
+            "token_str": "Geschichte"
+        },
+        {
+            "sequence": "[CLS] Deshalb übertextet der Journalist eine Lüge. [SEP]",
+            "score": 0.036393579095602036,
+            "token": 28654,
+            "token_str": "Lüge"
+        },
+        {
+            "sequence": "[CLS] Deshalb übertextet der Journalist eine Zeitung. [SEP]",
+            "score": 0.033254463225603104,
+            "token": 4898,
+            "token_str": "Zeitung"
+        },
+        {
+            "sequence": "[CLS] Deshalb übertextet der Journalist eine Melodie. [SEP]",
+            "score": 0.023529503494501114,
+            "token": 25962,
+            "token_str": "Melodie"
+        },
+        {
+            "sequence": "[CLS] Deshalb übertextet der Journalist eine Klage. [SEP]",
+            "score": 0.023018816486001015,
+            "token": 10595,
+            "token_str": "Klage"
+        }
+    ],
+    "Übertextet der Journalist eine Aufnahme ?": [
+        {
+            "sequence": "[CLS] Übertextet der Journalist eine Frage? [SEP]",
+            "score": 0.07990238070487976,
+            "token": 2167,
+            "token_str": "Frage"
+        },
+        {
+            "sequence": "[CLS] Übertextet der Journalist eine Zeitung? [SEP]",
+            "score": 0.04219350591301918,
+            "token": 4898,
+            "token_str": "Zeitung"
+        },
+        {
+            "sequence": "[CLS] Übertextet der Journalist eine Frau? [SEP]",
+            "score": 0.03942085802555084,
+            "token": 898,
+            "token_str": "Frau"
+        },
+        {
+            "sequence": "[CLS] Übertextet der Journalist eine Straße? [SEP]",
+            "score": 0.025970084592700005,
+            "token": 2402,
+            "token_str": "Straße"
+        },
+        {
+            "sequence": "[CLS] Übertextet der Journalist eine Stadt? [SEP]",
+            "score": 0.022374944761395454,
+            "token": 668,
+            "token_str": "Stadt"
+        }
+    ],
+    "Weil der Journalist eine Aufnahme übertextet .": [
+        {
+            "sequence": "[CLS] Weil der Journalist eine Zeitung übertextet. [SEP]",
+            "score": 0.0372430644929409,
+            "token": 4898,
+            "token_str": "Zeitung"
+        },
+        {
+            "sequence": "[CLS] Weil der Journalist eine Rede übertextet. [SEP]",
+            "score": 0.021386567503213882,
+            "token": 6096,
+            "token_str": "Rede"
+        },
+        {
+            "sequence": "[CLS] Weil der Journalist eine Frage übertextet. [SEP]",
+            "score": 0.014396673068404198,
+            "token": 2167,
+            "token_str": "Frage"
+        },
+        {
+            "sequence": "[CLS] Weil der Journalist eine Bank übertextet. [SEP]",
+            "score": 0.012808715924620628,
+            "token": 3158,
+            "token_str": "Bank"
+        },
+        {
+            "sequence": "[CLS] Weil der Journalist eine Klage übertextet. [SEP]",
+            "score": 0.012535118497908115,
+            "token": 10595,
+            "token_str": "Klage"
+        }
+    ],
+    "Die Freundinnen spielen eine Traumhochzeit .": [
+        {
+            "sequence": "[CLS] Die Freundinnen spielen eine Rolle. [SEP]",
+            "score": 0.6876725554466248,
+            "token": 2572,
+            "token_str": "Rolle"
+        },
+        {
+            "sequence": "[CLS] Die Freundinnen spielen eine Hauptrolle. [SEP]",
+            "score": 0.10442827641963959,
+            "token": 16682,
+            "token_str": "Hauptrolle"
+        },
+        {
+            "sequence": "[CLS] Die Freundinnen spielen eine Partie. [SEP]",
+            "score": 0.07395412027835846,
+            "token": 8412,
+            "token_str": "Partie"
+        },
+        {
+            "sequence": "[CLS] Die Freundinnen spielen eine Band. [SEP]",
+            "score": 0.015145260840654373,
+            "token": 2342,
+            "token_str": "Band"
+        },
+        {
+            "sequence": "[CLS] Die Freundinnen spielen eine Komödie. [SEP]",
+            "score": 0.00867787841707468,
+            "token": 21040,
+            "token_str": "Komödie"
+        }
+    ],
+    "Eine Traumhochzeit spielen die Freundinnen .": [
+        {
+            "sequence": "[CLS] Eine Rolle spielen die Freundinnen. [SEP]",
+            "score": 0.7386265993118286,
+            "token": 2572,
+            "token_str": "Rolle"
+        },
+        {
+            "sequence": "[CLS] Eine Hauptrolle spielen die Freundinnen. [SEP]",
+            "score": 0.20762178301811218,
+            "token": 16682,
+            "token_str": "Hauptrolle"
+        },
+        {
+            "sequence": "[CLS] Eine Szene spielen die Freundinnen. [SEP]",
+            "score": 0.02663305215537548,
+            "token": 9073,
+            "token_str": "Szene"
+        },
+        {
+            "sequence": "[CLS] Eine Runde spielen die Freundinnen. [SEP]",
+            "score": 0.005999152548611164,
+            "token": 5631,
+            "token_str": "Runde"
+        },
+        {
+            "sequence": "[CLS] Eine Partie spielen die Freundinnen. [SEP]",
+            "score": 0.003444149624556303,
+            "token": 8412,
+            "token_str": "Partie"
+        }
+    ],
+    "Deshalb spielen die Freundinnen eine Traumhochzeit .": [
+        {
+            "sequence": "[CLS] Deshalb spielen die Freundinnen eine Rolle. [SEP]",
+            "score": 0.6977475881576538,
+            "token": 2572,
+            "token_str": "Rolle"
+        },
+        {
+            "sequence": "[CLS] Deshalb spielen die Freundinnen eine Hauptrolle. [SEP]",
+            "score": 0.061646778136491776,
+            "token": 16682,
+            "token_str": "Hauptrolle"
+        },
+        {
+            "sequence": "[CLS] Deshalb spielen die Freundinnen eine Partie. [SEP]",
+            "score": 0.0525984987616539,
+            "token": 8412,
+            "token_str": "Partie"
+        },
+        {
+            "sequence": "[CLS] Deshalb spielen die Freundinnen eine Band. [SEP]",
+            "score": 0.02826661989092827,
+            "token": 2342,
+            "token_str": "Band"
+        },
+        {
+            "sequence": "[CLS] Deshalb spielen die Freundinnen eine Bridge. [SEP]",
+            "score": 0.011904601939022541,
+            "token": 22902,
+            "token_str": "Bridge"
+        }
+    ],
+    "Spielen die Freundinnen eine Traumhochzeit ?": [
+        {
+            "sequence": "[CLS] Spielen die Freundinnen eine Rolle? [SEP]",
+            "score": 0.25986313819885254,
+            "token": 2572,
+            "token_str": "Rolle"
+        },
+        {
+            "sequence": "[CLS] Spielen die Freundinnen eine Frau? [SEP]",
+            "score": 0.03206585720181465,
+            "token": 898,
+            "token_str": "Frau"
+        },
+        {
+            "sequence": "[CLS] Spielen die Freundinnen eine Partie? [SEP]",
+            "score": 0.019081616774201393,
+            "token": 8412,
+            "token_str": "Partie"
+        },
+        {
+            "sequence": "[CLS] Spielen die Freundinnen eine Hauptrolle? [SEP]",
+            "score": 0.016846654936671257,
+            "token": 16682,
+            "token_str": "Hauptrolle"
+        },
+        {
+            "sequence": "[CLS] Spielen die Freundinnen eine Melodie? [SEP]",
+            "score": 0.013488723896443844,
+            "token": 25962,
+            "token_str": "Melodie"
+        }
+    ],
+    "Weil die Freundinnen eine Traumhochzeit spielen .": [
+        {
+            "sequence": "[CLS] Weil die Freundinnen eine Rolle spielen. [SEP]",
+            "score": 0.47731196880340576,
+            "token": 2572,
+            "token_str": "Rolle"
+        },
+        {
+            "sequence": "[CLS] Weil die Freundinnen eine Frau spielen. [SEP]",
+            "score": 0.03819863125681877,
+            "token": 898,
+            "token_str": "Frau"
+        },
+        {
+            "sequence": "[CLS] Weil die Freundinnen eine Partie spielen. [SEP]",
+            "score": 0.03196866810321808,
+            "token": 8412,
+            "token_str": "Partie"
+        },
+        {
+            "sequence": "[CLS] Weil die Freundinnen eine Bank spielen. [SEP]",
+            "score": 0.02253708615899086,
+            "token": 3158,
+            "token_str": "Bank"
+        },
+        {
+            "sequence": "[CLS] Weil die Freundinnen eine andere spielen. [SEP]",
+            "score": 0.018487654626369476,
+            "token": 1301,
+            "token_str": "andere"
+        }
+    ],
+    "Der Passant bewirft ein Kunstwerk .": [
+        {
+            "sequence": "[CLS] Der Passant bewirft ein Pferd. [SEP]",
+            "score": 0.17459169030189514,
+            "token": 12563,
+            "token_str": "Pferd"
+        },
+        {
+            "sequence": "[CLS] Der Passant bewirft ein Gasthaus. [SEP]",
+            "score": 0.09903237223625183,
+            "token": 24083,
+            "token_str": "Gasthaus"
+        },
+        {
+            "sequence": "[CLS] Der Passant bewirft ein Geschäft. [SEP]",
+            "score": 0.04898681864142418,
+            "token": 6132,
+            "token_str": "Geschäft"
+        },
+        {
+            "sequence": "[CLS] Der Passant bewirft ein Restaurant. [SEP]",
+            "score": 0.04179050028324127,
+            "token": 6339,
+            "token_str": "Restaurant"
+        },
+        {
+            "sequence": "[CLS] Der Passant bewirft ein Schaf. [SEP]",
+            "score": 0.03638475388288498,
+            "token": 5045,
+            "token_str": "Schaf"
+        }
+    ],
+    "Ein Kunstwerk bewirft der Passant .": [
+        {
+            "sequence": "[CLS] Ein Pferd bewirft der Passant. [SEP]",
+            "score": 0.13467799127101898,
+            "token": 12563,
+            "token_str": "Pferd"
+        },
+        {
+            "sequence": "[CLS] Ein Zimmer bewirft der Passant. [SEP]",
+            "score": 0.0822359025478363,
+            "token": 2663,
+            "token_str": "Zimmer"
+        },
+        {
+            "sequence": "[CLS] Ein Schaf bewirft der Passant. [SEP]",
+            "score": 0.07927132397890091,
+            "token": 5045,
+            "token_str": "Schaf"
+        },
+        {
+            "sequence": "[CLS] Ein Lamm bewirft der Passant. [SEP]",
+            "score": 0.07480812072753906,
+            "token": 28307,
+            "token_str": "Lamm"
+        },
+        {
+            "sequence": "[CLS] Ein Fass bewirft der Passant. [SEP]",
+            "score": 0.0526234433054924,
+            "token": 8373,
+            "token_str": "Fass"
+        }
+    ],
+    "Deshalb bewirft der Passant ein Kunstwerk .": [
+        {
+            "sequence": "[CLS] Deshalb bewirft der Passant ein Pferd. [SEP]",
+            "score": 0.2322925478219986,
+            "token": 12563,
+            "token_str": "Pferd"
+        },
+        {
+            "sequence": "[CLS] Deshalb bewirft der Passant ein Gasthaus. [SEP]",
+            "score": 0.07228931784629822,
+            "token": 24083,
+            "token_str": "Gasthaus"
+        },
+        {
+            "sequence": "[CLS] Deshalb bewirft der Passant ein Restaurant. [SEP]",
+            "score": 0.05298406630754471,
+            "token": 6339,
+            "token_str": "Restaurant"
+        },
+        {
+            "sequence": "[CLS] Deshalb bewirft der Passant ein Schaf. [SEP]",
+            "score": 0.04503883793950081,
+            "token": 5045,
+            "token_str": "Schaf"
+        },
+        {
+            "sequence": "[CLS] Deshalb bewirft der Passant ein Haus. [SEP]",
+            "score": 0.037537410855293274,
+            "token": 860,
+            "token_str": "Haus"
+        }
+    ],
+    "Bewirft der Passant ein Kunstwerk ?": [
+        {
+            "sequence": "[CLS] Bewirft der Passant ein solches? [SEP]",
+            "score": 0.07394953072071075,
+            "token": 13588,
+            "token_str": "solches"
+        },
+        {
+            "sequence": "[CLS] Bewirft der Passant ein Problem? [SEP]",
+            "score": 0.05373651161789894,
+            "token": 1550,
+            "token_str": "Problem"
+        },
+        {
+            "sequence": "[CLS] Bewirft der Passant ein Leben? [SEP]",
+            "score": 0.024969348683953285,
+            "token": 906,
+            "token_str": "Leben"
+        },
+        {
+            "sequence": "[CLS] Bewirft der Passant ein Gut? [SEP]",
+            "score": 0.019526176154613495,
+            "token": 2632,
+            "token_str": "Gut"
+        },
+        {
+            "sequence": "[CLS] Bewirft der Passant ein Auto? [SEP]",
+            "score": 0.014240951277315617,
+            "token": 2510,
+            "token_str": "Auto"
+        }
+    ],
+    "Weil der Passant ein Kunstwerk bewirft .": [
+        {
+            "sequence": "[CLS] Weil der Passant ein Kind bewirft. [SEP]",
+            "score": 0.10695363581180573,
+            "token": 2841,
+            "token_str": "Kind"
+        },
+        {
+            "sequence": "[CLS] Weil der Passant ein Pferd bewirft. [SEP]",
+            "score": 0.06269516795873642,
+            "token": 12563,
+            "token_str": "Pferd"
+        },
+        {
+            "sequence": "[CLS] Weil der Passant ein Haus bewirft. [SEP]",
+            "score": 0.06044695898890495,
+            "token": 860,
+            "token_str": "Haus"
+        },
+        {
+            "sequence": "[CLS] Weil der Passant ein Unternehmen bewirft. [SEP]",
+            "score": 0.059481844305992126,
+            "token": 1154,
+            "token_str": "Unternehmen"
+        },
+        {
+            "sequence": "[CLS] Weil der Passant ein Hotel bewirft. [SEP]",
+            "score": 0.0464804545044899,
+            "token": 2019,
+            "token_str": "Hotel"
+        }
+    ],
+    "Die Kinder finden eine Lösung .": [
+        {
+            "sequence": "[CLS] Die Kinder finden eine Wohnung. [SEP]",
+            "score": 0.17127995193004608,
+            "token": 4391,
+            "token_str": "Wohnung"
+        },
+        {
+            "sequence": "[CLS] Die Kinder finden eine Unterkunft. [SEP]",
+            "score": 0.11272992193698883,
+            "token": 8791,
+            "token_str": "Unterkunft"
+        },
+        {
+            "sequence": "[CLS] Die Kinder finden eine Arbeit. [SEP]",
+            "score": 0.10332000255584717,
+            "token": 1047,
+            "token_str": "Arbeit"
+        },
+        {
+            "sequence": "[CLS] Die Kinder finden eine Beschäftigung. [SEP]",
+            "score": 0.07310864329338074,
+            "token": 5547,
+            "token_str": "Beschäftigung"
+        },
+        {
+            "sequence": "[CLS] Die Kinder finden eine Schule. [SEP]",
+            "score": 0.038138531148433685,
+            "token": 3114,
+            "token_str": "Schule"
+        }
+    ],
+    "Eine Lösung finden die Kinder .": [
+        {
+            "sequence": "[CLS] Eine Lösung finden die Kinder. [SEP]",
+            "score": 0.2078382968902588,
+            "token": 4787,
+            "token_str": "Lösung"
+        },
+        {
+            "sequence": "[CLS] Eine Unterkunft finden die Kinder. [SEP]",
+            "score": 0.10185286402702332,
+            "token": 8791,
+            "token_str": "Unterkunft"
+        },
+        {
+            "sequence": "[CLS] Eine Wohnung finden die Kinder. [SEP]",
+            "score": 0.08119001239538193,
+            "token": 4391,
+            "token_str": "Wohnung"
+        },
+        {
+            "sequence": "[CLS] Eine Höhle finden die Kinder. [SEP]",
+            "score": 0.03242214396595955,
+            "token": 17434,
+            "token_str": "Höhle"
+        },
+        {
+            "sequence": "[CLS] Eine Antwort finden die Kinder. [SEP]",
+            "score": 0.025950035080313683,
+            "token": 5048,
+            "token_str": "Antwort"
+        }
+    ],
+    "Deshalb finden die Kinder eine Lösung .": [
+        {
+            "sequence": "[CLS] Deshalb finden die Kinder eine Wohnung. [SEP]",
+            "score": 0.12830360233783722,
+            "token": 4391,
+            "token_str": "Wohnung"
+        },
+        {
+            "sequence": "[CLS] Deshalb finden die Kinder eine Unterkunft. [SEP]",
+            "score": 0.09692754596471786,
+            "token": 8791,
+            "token_str": "Unterkunft"
+        },
+        {
+            "sequence": "[CLS] Deshalb finden die Kinder eine Lösung. [SEP]",
+            "score": 0.09614600986242294,
+            "token": 4787,
+            "token_str": "Lösung"
+        },
+        {
+            "sequence": "[CLS] Deshalb finden die Kinder eine Arbeit. [SEP]",
+            "score": 0.08444058895111084,
+            "token": 1047,
+            "token_str": "Arbeit"
+        },
+        {
+            "sequence": "[CLS] Deshalb finden die Kinder eine Beschäftigung. [SEP]",
+            "score": 0.06140371784567833,
+            "token": 5547,
+            "token_str": "Beschäftigung"
+        }
+    ],
+    "Finden die Kinder eine Lösung ?": [
+        {
+            "sequence": "[CLS] Finden die Kinder eine Lösung? [SEP]",
+            "score": 0.13807056844234467,
+            "token": 4787,
+            "token_str": "Lösung"
+        },
+        {
+            "sequence": "[CLS] Finden die Kinder eine Antwort? [SEP]",
+            "score": 0.09454601258039474,
+            "token": 5048,
+            "token_str": "Antwort"
+        },
+        {
+            "sequence": "[CLS] Finden die Kinder eine Frau? [SEP]",
+            "score": 0.052521757781505585,
+            "token": 898,
+            "token_str": "Frau"
+        },
+        {
+            "sequence": "[CLS] Finden die Kinder eine Chance? [SEP]",
+            "score": 0.049519412219524384,
+            "token": 5415,
+            "token_str": "Chance"
+        },
+        {
+            "sequence": "[CLS] Finden die Kinder eine Möglichkeit? [SEP]",
+            "score": 0.03808298707008362,
+            "token": 3358,
+            "token_str": "Möglichkeit"
+        }
+    ],
+    "Weil die Kinder eine Lösung finden .": [
+        {
+            "sequence": "[CLS] Weil die Kinder eine Lösung finden. [SEP]",
+            "score": 0.22716061770915985,
+            "token": 4787,
+            "token_str": "Lösung"
+        },
+        {
+            "sequence": "[CLS] Weil die Kinder eine Wohnung finden. [SEP]",
+            "score": 0.07162098586559296,
+            "token": 4391,
+            "token_str": "Wohnung"
+        },
+        {
+            "sequence": "[CLS] Weil die Kinder eine Heimat finden. [SEP]",
+            "score": 0.03942512348294258,
+            "token": 3573,
+            "token_str": "Heimat"
+        },
+        {
+            "sequence": "[CLS] Weil die Kinder eine Herausforderung finden. [SEP]",
+            "score": 0.03566871955990791,
+            "token": 10382,
+            "token_str": "Herausforderung"
+        },
+        {
+            "sequence": "[CLS] Weil die Kinder eine Arbeit finden. [SEP]",
+            "score": 0.029411783441901207,
+            "token": 1047,
+            "token_str": "Arbeit"
+        }
+    ],
+    "Der Leser abonniert eine Zeitschrift .": [
+        {
+            "sequence": "[CLS] Der Leser abonniert eine Zeitung. [SEP]",
+            "score": 0.4810447692871094,
+            "token": 4898,
+            "token_str": "Zeitung"
+        },
+        {
+            "sequence": "[CLS] Der Leser abonniert eine Zeitschrift. [SEP]",
+            "score": 0.22957558929920197,
+            "token": 8521,
+            "token_str": "Zeitschrift"
+        },
+        {
+            "sequence": "[CLS] Der Leser abonniert eine Tageszeitung. [SEP]",
+            "score": 0.14330539107322693,
+            "token": 20314,
+            "token_str": "Tageszeitung"
+        },
+        {
+            "sequence": "[CLS] Der Leser abonniert eine Website. [SEP]",
+            "score": 0.021629052236676216,
+            "token": 5431,
+            "token_str": "Website"
+        },
+        {
+            "sequence": "[CLS] Der Leser abonniert eine Webseite. [SEP]",
+            "score": 0.017528120428323746,
+            "token": 8538,
+            "token_str": "Webseite"
+        }
+    ],
+    "Eine Zeitschrift abonniert der Leser .": [
+        {
+            "sequence": "[CLS] Eine Zeitung abonniert der Leser. [SEP]",
+            "score": 0.3508175015449524,
+            "token": 4898,
+            "token_str": "Zeitung"
+        },
+        {
+            "sequence": "[CLS] Eine Zeitschrift abonniert der Leser. [SEP]",
+            "score": 0.11957725137472153,
+            "token": 8521,
+            "token_str": "Zeitschrift"
+        },
+        {
+            "sequence": "[CLS] Eine Ausgabe abonniert der Leser. [SEP]",
+            "score": 0.10718600451946259,
+            "token": 7057,
+            "token_str": "Ausgabe"
+        },
+        {
+            "sequence": "[CLS] Eine Seite abonniert der Leser. [SEP]",
+            "score": 0.09161297231912613,
+            "token": 1640,
+            "token_str": "Seite"
+        },
+        {
+            "sequence": "[CLS] Eine Tageszeitung abonniert der Leser. [SEP]",
+            "score": 0.07125318795442581,
+            "token": 20314,
+            "token_str": "Tageszeitung"
+        }
+    ],
+    "Deshalb abonniert der Leser eine Zeitschrift .": [
+        {
+            "sequence": "[CLS] Deshalb abonniert der Leser eine Zeitung. [SEP]",
+            "score": 0.49256160855293274,
+            "token": 4898,
+            "token_str": "Zeitung"
+        },
+        {
+            "sequence": "[CLS] Deshalb abonniert der Leser eine Zeitschrift. [SEP]",
+            "score": 0.2373788058757782,
+            "token": 8521,
+            "token_str": "Zeitschrift"
+        },
+        {
+            "sequence": "[CLS] Deshalb abonniert der Leser eine Tageszeitung. [SEP]",
+            "score": 0.1229928731918335,
+            "token": 20314,
+            "token_str": "Tageszeitung"
+        },
+        {
+            "sequence": "[CLS] Deshalb abonniert der Leser eine Webseite. [SEP]",
+            "score": 0.024530870839953423,
+            "token": 8538,
+            "token_str": "Webseite"
+        },
+        {
+            "sequence": "[CLS] Deshalb abonniert der Leser eine Website. [SEP]",
+            "score": 0.021217940375208855,
+            "token": 5431,
+            "token_str": "Website"
+        }
+    ],
+    "Abonniert der Leser eine Zeitschrift ?": [
+        {
+            "sequence": "[CLS] Abonniert der Leser eine Zeitung? [SEP]",
+            "score": 0.0763314962387085,
+            "token": 4898,
+            "token_str": "Zeitung"
+        },
+        {
+            "sequence": "[CLS] Abonniert der Leser eine Frage? [SEP]",
+            "score": 0.040593475103378296,
+            "token": 2167,
+            "token_str": "Frage"
+        },
+        {
+            "sequence": "[CLS] Abonniert der Leser eine Zeitschrift? [SEP]",
+            "score": 0.04040703549981117,
+            "token": 8521,
+            "token_str": "Zeitschrift"
+        },
+        {
+            "sequence": "[CLS] Abonniert der Leser eine solche? [SEP]",
+            "score": 0.024521199986338615,
+            "token": 3760,
+            "token_str": "solche"
+        },
+        {
+            "sequence": "[CLS] Abonniert der Leser eine Stadt? [SEP]",
+            "score": 0.02263817749917507,
+            "token": 668,
+            "token_str": "Stadt"
+        }
+    ],
+    "Weil der Leser eine Zeitschrift abonniert .": [
+        {
+            "sequence": "[CLS] Weil der Leser eine Zeitung abonniert. [SEP]",
+            "score": 0.5543883442878723,
+            "token": 4898,
+            "token_str": "Zeitung"
+        },
+        {
+            "sequence": "[CLS] Weil der Leser eine Zeitschrift abonniert. [SEP]",
+            "score": 0.10154040157794952,
+            "token": 8521,
+            "token_str": "Zeitschrift"
+        },
+        {
+            "sequence": "[CLS] Weil der Leser eine Tageszeitung abonniert. [SEP]",
+            "score": 0.08042088150978088,
+            "token": 20314,
+            "token_str": "Tageszeitung"
+        },
+        {
+            "sequence": "[CLS] Weil der Leser eine Seite abonniert. [SEP]",
+            "score": 0.03021995909512043,
+            "token": 1640,
+            "token_str": "Seite"
+        },
+        {
+            "sequence": "[CLS] Weil der Leser eine Anzeige abonniert. [SEP]",
+            "score": 0.013957392424345016,
+            "token": 7578,
+            "token_str": "Anzeige"
+        }
+    ],
+    "Der Herr rasiert einen Bart .": [
+        {
+            "sequence": "[CLS] Der Herr rasiert einen aus. [SEP]",
+            "score": 0.050997160375118256,
+            "token": 260,
+            "token_str": "aus"
+        },
+        {
+            "sequence": "[CLS] Der Herr rasiert einen Hund. [SEP]",
+            "score": 0.04490901157259941,
+            "token": 5738,
+            "token_str": "Hund"
+        },
+        {
+            "sequence": "[CLS] Der Herr rasiert einen Mann. [SEP]",
+            "score": 0.03535636514425278,
+            "token": 960,
+            "token_str": "Mann"
+        },
+        {
+            "sequence": "[CLS] Der Herr rasiert einen Wagen. [SEP]",
+            "score": 0.027607571333646774,
+            "token": 4869,
+            "token_str": "Wagen"
+        },
+        {
+            "sequence": "[CLS] Der Herr rasiert einen Jungen. [SEP]",
+            "score": 0.025583550333976746,
+            "token": 7274,
+            "token_str": "Jungen"
+        }
+    ],
+    "Einen Bart rasiert der Herr .": [
+        {
+            "sequence": "[CLS] Einen Hund rasiert der Herr. [SEP]",
+            "score": 0.055973686277866364,
+            "token": 5738,
+            "token_str": "Hund"
+        },
+        {
+            "sequence": "[CLS] Einen Mann rasiert der Herr. [SEP]",
+            "score": 0.04946090281009674,
+            "token": 960,
+            "token_str": "Mann"
+        },
+        {
+            "sequence": "[CLS] Einen anderen rasiert der Herr. [SEP]",
+            "score": 0.04415780305862427,
+            "token": 925,
+            "token_str": "anderen"
+        },
+        {
+            "sequence": "[CLS] Einen davon rasiert der Herr. [SEP]",
+            "score": 0.03444128483533859,
+            "token": 1802,
+            "token_str": "davon"
+        },
+        {
+            "sequence": "[CLS] Einen Arm rasiert der Herr. [SEP]",
+            "score": 0.02644021064043045,
+            "token": 6826,
+            "token_str": "Arm"
+        }
+    ],
+    "Deshalb rasiert der Herr einen Bart .": [
+        {
+            "sequence": "[CLS] Deshalb rasiert der Herr einen Hund. [SEP]",
+            "score": 0.12470440566539764,
+            "token": 5738,
+            "token_str": "Hund"
+        },
+        {
+            "sequence": "[CLS] Deshalb rasiert der Herr einen anderen. [SEP]",
+            "score": 0.034660566598176956,
+            "token": 925,
+            "token_str": "anderen"
+        },
+        {
+            "sequence": "[CLS] Deshalb rasiert der Herr einen Mann. [SEP]",
+            "score": 0.028001433238387108,
+            "token": 960,
+            "token_str": "Mann"
+        },
+        {
+            "sequence": "[CLS] Deshalb rasiert der Herr einen Menschen. [SEP]",
+            "score": 0.026405612006783485,
+            "token": 1021,
+            "token_str": "Menschen"
+        },
+        {
+            "sequence": "[CLS] Deshalb rasiert der Herr einen Joint. [SEP]",
+            "score": 0.02551787719130516,
+            "token": 24518,
+            "token_str": "Joint"
+        }
+    ],
+    "Rasiert der Herr einen Bart ?": [
+        {
+            "sequence": "[CLS] Rasiert der Herr einen Film? [SEP]",
+            "score": 0.03470500558614731,
+            "token": 1577,
+            "token_str": "Film"
+        },
+        {
+            "sequence": "[CLS] Rasiert der Herr einen Stein? [SEP]",
+            "score": 0.03341488912701607,
+            "token": 2812,
+            "token_str": "Stein"
+        },
+        {
+            "sequence": "[CLS] Rasiert der Herr einen Wagen? [SEP]",
+            "score": 0.02991560287773609,
+            "token": 4869,
+            "token_str": "Wagen"
+        },
+        {
+            "sequence": "[CLS] Rasiert der Herr einen Kaffee? [SEP]",
+            "score": 0.028679439797997475,
+            "token": 7885,
+            "token_str": "Kaffee"
+        },
+        {
+            "sequence": "[CLS] Rasiert der Herr einen Apfel? [SEP]",
+            "score": 0.02348248101770878,
+            "token": 19690,
+            "token_str": "Apfel"
+        }
+    ],
+    "Weil der Herr einen Bart rasiert .": [
+        {
+            "sequence": "[CLS] Weil der Herr einen Hund rasiert. [SEP]",
+            "score": 0.1850864589214325,
+            "token": 5738,
+            "token_str": "Hund"
+        },
+        {
+            "sequence": "[CLS] Weil der Herr einen Mann rasiert. [SEP]",
+            "score": 0.09499064832925797,
+            "token": 960,
+            "token_str": "Mann"
+        },
+        {
+            "sequence": "[CLS] Weil der Herr einen Menschen rasiert. [SEP]",
+            "score": 0.03914827108383179,
+            "token": 1021,
+            "token_str": "Menschen"
+        },
+        {
+            "sequence": "[CLS] Weil der Herr einen anderen rasiert. [SEP]",
+            "score": 0.03845006600022316,
+            "token": 925,
+            "token_str": "anderen"
+        },
+        {
+            "sequence": "[CLS] Weil der Herr einen Polizisten rasiert. [SEP]",
+            "score": 0.03293805569410324,
+            "token": 9265,
+            "token_str": "Polizisten"
+        }
+    ],
+    "Die Mamas trinken einen Kaffee .": [
+        {
+            "sequence": "[CLS] Die Mamas trinken einen Kaffee. [SEP]",
+            "score": 0.5870818495750427,
+            "token": 7885,
+            "token_str": "Kaffee"
+        },
+        {
+            "sequence": "[CLS] Die Mamas trinken einen Tee. [SEP]",
+            "score": 0.09889552742242813,
+            "token": 13187,
+            "token_str": "Tee"
+        },
+        {
+            "sequence": "[CLS] Die Mamas trinken einen Wein. [SEP]",
+            "score": 0.026028292253613472,
+            "token": 3256,
+            "token_str": "Wein"
+        },
+        {
+            "sequence": "[CLS] Die Mamas trinken einen Becher. [SEP]",
+            "score": 0.012890936806797981,
+            "token": 30480,
+            "token_str": "Becher"
+        },
+        {
+            "sequence": "[CLS] Die Mamas trinken einen Drink. [SEP]",
+            "score": 0.012802712619304657,
+            "token": 27167,
+            "token_str": "Drink"
+        }
+    ],
+    "Einen Kaffee trinken die Mamas .": [
+        {
+            "sequence": "[CLS] Einen Kaffee trinken die Mamas. [SEP]",
+            "score": 0.34506088495254517,
+            "token": 7885,
+            "token_str": "Kaffee"
+        },
+        {
+            "sequence": "[CLS] Einen davon trinken die Mamas. [SEP]",
+            "score": 0.09871754795312881,
+            "token": 1802,
+            "token_str": "davon"
+        },
+        {
+            "sequence": "[CLS] Einen Becher trinken die Mamas. [SEP]",
+            "score": 0.05474703386425972,
+            "token": 30480,
+            "token_str": "Becher"
+        },
+        {
+            "sequence": "[CLS] Einen solchen trinken die Mamas. [SEP]",
+            "score": 0.04554019495844841,
+            "token": 5748,
+            "token_str": "solchen"
+        },
+        {
+            "sequence": "[CLS] Einen anderen trinken die Mamas. [SEP]",
+            "score": 0.03616739809513092,
+            "token": 925,
+            "token_str": "anderen"
+        }
+    ],
+    "Deshalb trinken die Mamas einen Kaffee .": [
+        {
+            "sequence": "[CLS] Deshalb trinken die Mamas einen Kaffee. [SEP]",
+            "score": 0.5750048160552979,
+            "token": 7885,
+            "token_str": "Kaffee"
+        },
+        {
+            "sequence": "[CLS] Deshalb trinken die Mamas einen Tee. [SEP]",
+            "score": 0.08952397853136063,
+            "token": 13187,
+            "token_str": "Tee"
+        },
+        {
+            "sequence": "[CLS] Deshalb trinken die Mamas einen Joint. [SEP]",
+            "score": 0.041953522711992264,
+            "token": 24518,
+            "token_str": "Joint"
+        },
+        {
+            "sequence": "[CLS] Deshalb trinken die Mamas einen Wein. [SEP]",
+            "score": 0.025776220485568047,
+            "token": 3256,
+            "token_str": "Wein"
+        },
+        {
+            "sequence": "[CLS] Deshalb trinken die Mamas einen Becher. [SEP]",
+            "score": 0.020485883578658104,
+            "token": 30480,
+            "token_str": "Becher"
+        }
+    ],
+    "Trinken die Mamas einen Kaffee ?": [
+        {
+            "sequence": "[CLS] Trinken die Mamas einen Kaffee? [SEP]",
+            "score": 0.5696355700492859,
+            "token": 7885,
+            "token_str": "Kaffee"
+        },
+        {
+            "sequence": "[CLS] Trinken die Mamas einen Tee? [SEP]",
+            "score": 0.06018401309847832,
+            "token": 13187,
+            "token_str": "Tee"
+        },
+        {
+            "sequence": "[CLS] Trinken die Mamas einen Apfel? [SEP]",
+            "score": 0.02375231869518757,
+            "token": 19690,
+            "token_str": "Apfel"
+        },
+        {
+            "sequence": "[CLS] Trinken die Mamas einen Kuchen? [SEP]",
+            "score": 0.015254992060363293,
+            "token": 14905,
+            "token_str": "Kuchen"
+        },
+        {
+            "sequence": "[CLS] Trinken die Mamas einen Wein? [SEP]",
+            "score": 0.01406025979667902,
+            "token": 3256,
+            "token_str": "Wein"
+        }
+    ],
+    "Weil die Mamas einen Kaffee trinken .": [
+        {
+            "sequence": "[CLS] Weil die Mamas einen Kaffee trinken. [SEP]",
+            "score": 0.5964956879615784,
+            "token": 7885,
+            "token_str": "Kaffee"
+        },
+        {
+            "sequence": "[CLS] Weil die Mamas einen Tee trinken. [SEP]",
+            "score": 0.07239329814910889,
+            "token": 13187,
+            "token_str": "Tee"
+        },
+        {
+            "sequence": "[CLS] Weil die Mamas einen Wein trinken. [SEP]",
+            "score": 0.03875178098678589,
+            "token": 3256,
+            "token_str": "Wein"
+        },
+        {
+            "sequence": "[CLS] Weil die Mamas einen Joint trinken. [SEP]",
+            "score": 0.0327923409640789,
+            "token": 24518,
+            "token_str": "Joint"
+        },
+        {
+            "sequence": "[CLS] Weil die Mamas einen Alkohol trinken. [SEP]",
+            "score": 0.01991833746433258,
+            "token": 7499,
+            "token_str": "Alkohol"
+        }
+    ],
+    "Der Schriftsteller schreibt einen Roman .": [
+        {
+            "sequence": "[CLS] Der Schriftsteller schreibt einen Roman. [SEP]",
+            "score": 0.8951326608657837,
+            "token": 5008,
+            "token_str": "Roman"
+        },
+        {
+            "sequence": "[CLS] Der Schriftsteller schreibt einen Brief. [SEP]",
+            "score": 0.06782138347625732,
+            "token": 5669,
+            "token_str": "Brief"
+        },
+        {
+            "sequence": "[CLS] Der Schriftsteller schreibt einen Comic. [SEP]",
+            "score": 0.005152009427547455,
+            "token": 19710,
+            "token_str": "Comic"
+        },
+        {
+            "sequence": "[CLS] Der Schriftsteller schreibt einen Artikel. [SEP]",
+            "score": 0.003691076999530196,
+            "token": 1454,
+            "token_str": "Artikel"
+        },
+        {
+            "sequence": "[CLS] Der Schriftsteller schreibt einen Film. [SEP]",
+            "score": 0.0030568516813218594,
+            "token": 1577,
+            "token_str": "Film"
+        }
+    ],
+    "Einen Roman schreibt der Schriftsteller .": [
+        {
+            "sequence": "[CLS] Einen Roman schreibt der Schriftsteller. [SEP]",
+            "score": 0.3896389603614807,
+            "token": 5008,
+            "token_str": "Roman"
+        },
+        {
+            "sequence": "[CLS] Einen Brief schreibt der Schriftsteller. [SEP]",
+            "score": 0.25503724813461304,
+            "token": 5669,
+            "token_str": "Brief"
+        },
+        {
+            "sequence": "[CLS] Einen Text schreibt der Schriftsteller. [SEP]",
+            "score": 0.028565336018800735,
+            "token": 4316,
+            "token_str": "Text"
+        },
+        {
+            "sequence": "[CLS] Einen Bericht schreibt der Schriftsteller. [SEP]",
+            "score": 0.020603448152542114,
+            "token": 2959,
+            "token_str": "Bericht"
+        },
+        {
+            "sequence": "[CLS] Einen Film schreibt der Schriftsteller. [SEP]",
+            "score": 0.01503825280815363,
+            "token": 1577,
+            "token_str": "Film"
+        }
+    ],
+    "Deshalb schreibt der Schriftsteller einen Roman .": [
+        {
+            "sequence": "[CLS] Deshalb schreibt der Schriftsteller einen Roman. [SEP]",
+            "score": 0.890625536441803,
+            "token": 5008,
+            "token_str": "Roman"
+        },
+        {
+            "sequence": "[CLS] Deshalb schreibt der Schriftsteller einen Brief. [SEP]",
+            "score": 0.04830731824040413,
+            "token": 5669,
+            "token_str": "Brief"
+        },
+        {
+            "sequence": "[CLS] Deshalb schreibt der Schriftsteller einen Comic. [SEP]",
+            "score": 0.011127278208732605,
+            "token": 19710,
+            "token_str": "Comic"
+        },
+        {
+            "sequence": "[CLS] Deshalb schreibt der Schriftsteller einen Song. [SEP]",
+            "score": 0.006362476386129856,
+            "token": 7193,
+            "token_str": "Song"
+        },
+        {
+            "sequence": "[CLS] Deshalb schreibt der Schriftsteller einen Film. [SEP]",
+            "score": 0.0062534441240131855,
+            "token": 1577,
+            "token_str": "Film"
+        }
+    ],
+    "Schreibt der Schriftsteller einen Roman ?": [
+        {
+            "sequence": "[CLS] Schreibt der Schriftsteller einen Brief? [SEP]",
+            "score": 0.20278561115264893,
+            "token": 5669,
+            "token_str": "Brief"
+        },
+        {
+            "sequence": "[CLS] Schreibt der Schriftsteller einen Namen? [SEP]",
+            "score": 0.0741957351565361,
+            "token": 1645,
+            "token_str": "Namen"
+        },
+        {
+            "sequence": "[CLS] Schreibt der Schriftsteller einen Roman? [SEP]",
+            "score": 0.06287284940481186,
+            "token": 5008,
+            "token_str": "Roman"
+        },
+        {
+            "sequence": "[CLS] Schreibt der Schriftsteller einen Bericht? [SEP]",
+            "score": 0.02330714836716652,
+            "token": 2959,
+            "token_str": "Bericht"
+        },
+        {
+            "sequence": "[CLS] Schreibt der Schriftsteller einen Film? [SEP]",
+            "score": 0.02319314517080784,
+            "token": 1577,
+            "token_str": "Film"
+        }
+    ],
+    "Weil der Schriftsteller einen Roman schreibt .": [
+        {
+            "sequence": "[CLS] Weil der Schriftsteller einen Roman schreibt. [SEP]",
+            "score": 0.7484104633331299,
+            "token": 5008,
+            "token_str": "Roman"
+        },
+        {
+            "sequence": "[CLS] Weil der Schriftsteller einen Brief schreibt. [SEP]",
+            "score": 0.11827487498521805,
+            "token": 5669,
+            "token_str": "Brief"
+        },
+        {
+            "sequence": "[CLS] Weil der Schriftsteller einen Text schreibt. [SEP]",
+            "score": 0.039666797965765,
+            "token": 4316,
+            "token_str": "Text"
+        },
+        {
+            "sequence": "[CLS] Weil der Schriftsteller einen Song schreibt. [SEP]",
+            "score": 0.020804449915885925,
+            "token": 7193,
+            "token_str": "Song"
+        },
+        {
+            "sequence": "[CLS] Weil der Schriftsteller einen Artikel schreibt. [SEP]",
+            "score": 0.011245819739997387,
+            "token": 1454,
+            "token_str": "Artikel"
+        }
+    ],
+    "Der Politiker beendet eine Rede .": [
+        {
+            "sequence": "[CLS] Der Politiker beendet eine Diskussion. [SEP]",
+            "score": 0.15622644126415253,
+            "token": 7368,
+            "token_str": "Diskussion"
+        },
+        {
+            "sequence": "[CLS] Der Politiker beendet eine Demonstration. [SEP]",
+            "score": 0.06596245616674423,
+            "token": 18839,
+            "token_str": "Demonstration"
+        },
+        {
+            "sequence": "[CLS] Der Politiker beendet eine Aussprache. [SEP]",
+            "score": 0.06412596255540848,
+            "token": 11362,
+            "token_str": "Aussprache"
+        },
+        {
+            "sequence": "[CLS] Der Politiker beendet eine Debatte. [SEP]",
+            "score": 0.05950846150517464,
+            "token": 8495,
+            "token_str": "Debatte"
+        },
+        {
+            "sequence": "[CLS] Der Politiker beendet eine Sitzung. [SEP]",
+            "score": 0.04981624707579613,
+            "token": 6257,
+            "token_str": "Sitzung"
+        }
+    ],
+    "Eine Rede beendet der Politiker .": [
+        {
+            "sequence": "[CLS] Eine Diskussion beendet der Politiker. [SEP]",
+            "score": 0.19399519264698029,
+            "token": 7368,
+            "token_str": "Diskussion"
+        },
+        {
+            "sequence": "[CLS] Eine Debatte beendet der Politiker. [SEP]",
+            "score": 0.06134524941444397,
+            "token": 8495,
+            "token_str": "Debatte"
+        },
+        {
+            "sequence": "[CLS] Eine Sitzung beendet der Politiker. [SEP]",
+            "score": 0.04437899589538574,
+            "token": 6257,
+            "token_str": "Sitzung"
+        },
+        {
+            "sequence": "[CLS] Eine Aussprache beendet der Politiker. [SEP]",
+            "score": 0.03239194303750992,
+            "token": 11362,
+            "token_str": "Aussprache"
+        },
+        {
+            "sequence": "[CLS] Eine Beziehung beendet der Politiker. [SEP]",
+            "score": 0.030973849818110466,
+            "token": 7568,
+            "token_str": "Beziehung"
+        }
+    ],
+    "Deshalb beendet der Politiker eine Rede .": [
+        {
+            "sequence": "[CLS] Deshalb beendet der Politiker eine Diskussion. [SEP]",
+            "score": 0.11589497327804565,
+            "token": 7368,
+            "token_str": "Diskussion"
+        },
+        {
+            "sequence": "[CLS] Deshalb beendet der Politiker eine Beziehung. [SEP]",
+            "score": 0.06379353255033493,
+            "token": 7568,
+            "token_str": "Beziehung"
+        },
+        {
+            "sequence": "[CLS] Deshalb beendet der Politiker eine Debatte. [SEP]",
+            "score": 0.05784183740615845,
+            "token": 8495,
+            "token_str": "Debatte"
+        },
+        {
+            "sequence": "[CLS] Deshalb beendet der Politiker eine Zusammenarbeit. [SEP]",
+            "score": 0.05424226447939873,
+            "token": 2650,
+            "token_str": "Zusammenarbeit"
+        },
+        {
+            "sequence": "[CLS] Deshalb beendet der Politiker eine Kampagne. [SEP]",
+            "score": 0.03665342926979065,
+            "token": 15598,
+            "token_str": "Kampagne"
+        }
+    ],
+    "Beendet der Politiker eine Rede ?": [
+        {
+            "sequence": "[CLS] Beendet der Politiker eine Tätigkeit? [SEP]",
+            "score": 0.04530976340174675,
+            "token": 5067,
+            "token_str": "Tätigkeit"
+        },
+        {
+            "sequence": "[CLS] Beendet der Politiker eine Arbeit? [SEP]",
+            "score": 0.04524236172437668,
+            "token": 1047,
+            "token_str": "Arbeit"
+        },
+        {
+            "sequence": "[CLS] Beendet der Politiker eine Mission? [SEP]",
+            "score": 0.03512166067957878,
+            "token": 7173,
+            "token_str": "Mission"
+        },
+        {
+            "sequence": "[CLS] Beendet der Politiker eine Revolution? [SEP]",
+            "score": 0.025227461010217667,
+            "token": 7475,
+            "token_str": "Revolution"
+        },
+        {
+            "sequence": "[CLS] Beendet der Politiker eine Aufgabe? [SEP]",
+            "score": 0.02411140874028206,
+            "token": 4579,
+            "token_str": "Aufgabe"
+        }
+    ],
+    "Weil der Politiker eine Rede beendet .": [
+        {
+            "sequence": "[CLS] Weil der Politiker eine Ausbildung beendet. [SEP]",
+            "score": 0.07517209649085999,
+            "token": 3495,
+            "token_str": "Ausbildung"
+        },
+        {
+            "sequence": "[CLS] Weil der Politiker eine Diskussion beendet. [SEP]",
+            "score": 0.06957581639289856,
+            "token": 7368,
+            "token_str": "Diskussion"
+        },
+        {
+            "sequence": "[CLS] Weil der Politiker eine Zusammenarbeit beendet. [SEP]",
+            "score": 0.052230533212423325,
+            "token": 2650,
+            "token_str": "Zusammenarbeit"
+        },
+        {
+            "sequence": "[CLS] Weil der Politiker eine Beziehung beendet. [SEP]",
+            "score": 0.04625246673822403,
+            "token": 7568,
+            "token_str": "Beziehung"
+        },
+        {
+            "sequence": "[CLS] Weil der Politiker eine Ära beendet. [SEP]",
+            "score": 0.03911975398659706,
+            "token": 23314,
+            "token_str": "Ära"
+        }
+    ],
+    "Die Abgeordneten bekommen ein Grundgehalt .": [
+        {
+            "sequence": "[CLS] Die Abgeordneten bekommen ein Mandat. [SEP]",
+            "score": 0.47933927178382874,
+            "token": 16232,
+            "token_str": "Mandat"
+        },
+        {
+            "sequence": "[CLS] Die Abgeordneten bekommen ein Budget. [SEP]",
+            "score": 0.0435706190764904,
+            "token": 16459,
+            "token_str": "Budget"
+        },
+        {
+            "sequence": "[CLS] Die Abgeordneten bekommen ein Gehalt. [SEP]",
+            "score": 0.034868866205215454,
+            "token": 15473,
+            "token_str": "Gehalt"
+        },
+        {
+            "sequence": "[CLS] Die Abgeordneten bekommen ein Drittel. [SEP]",
+            "score": 0.025937162339687347,
+            "token": 8157,
+            "token_str": "Drittel"
+        },
+        {
+            "sequence": "[CLS] Die Abgeordneten bekommen ein Ressort. [SEP]",
+            "score": 0.022552398964762688,
+            "token": 20601,
+            "token_str": "Ressort"
+        }
+    ],
+    "Ein Grundgehalt bekommen die Abgeordneten .": [
+        {
+            "sequence": "[CLS] Ein Mandat bekommen die Abgeordneten. [SEP]",
+            "score": 0.4354665279388428,
+            "token": 16232,
+            "token_str": "Mandat"
+        },
+        {
+            "sequence": "[CLS] Ein Drittel bekommen die Abgeordneten. [SEP]",
+            "score": 0.1760523021221161,
+            "token": 8157,
+            "token_str": "Drittel"
+        },
+        {
+            "sequence": "[CLS] Ein Budget bekommen die Abgeordneten. [SEP]",
+            "score": 0.028927339240908623,
+            "token": 16459,
+            "token_str": "Budget"
+        },
+        {
+            "sequence": "[CLS] Ein Wort bekommen die Abgeordneten. [SEP]",
+            "score": 0.022130552679300308,
+            "token": 3228,
+            "token_str": "Wort"
+        },
+        {
+            "sequence": "[CLS] Ein Stimme bekommen die Abgeordneten. [SEP]",
+            "score": 0.016965461894869804,
+            "token": 7136,
+            "token_str": "Stimme"
+        }
+    ],
+    "Deshalb bekommen die Abgeordneten ein Grundgehalt .": [
+        {
+            "sequence": "[CLS] Deshalb bekommen die Abgeordneten ein Mandat. [SEP]",
+            "score": 0.1755257248878479,
+            "token": 16232,
+            "token_str": "Mandat"
+        },
+        {
+            "sequence": "[CLS] Deshalb bekommen die Abgeordneten ein Budget. [SEP]",
+            "score": 0.057205818593502045,
+            "token": 16459,
+            "token_str": "Budget"
+        },
+        {
+            "sequence": "[CLS] Deshalb bekommen die Abgeordneten ein Ja. [SEP]",
+            "score": 0.04918866604566574,
+            "token": 849,
+            "token_str": "Ja"
+        },
+        {
+            "sequence": "[CLS] Deshalb bekommen die Abgeordneten ein Gehalt. [SEP]",
+            "score": 0.038897525519132614,
+            "token": 15473,
+            "token_str": "Gehalt"
+        },
+        {
+            "sequence": "[CLS] Deshalb bekommen die Abgeordneten ein Kind. [SEP]",
+            "score": 0.023863723501563072,
+            "token": 2841,
+            "token_str": "Kind"
+        }
+    ],
+    "Bekommen die Abgeordneten ein Grundgehalt ?": [
+        {
+            "sequence": "[CLS] Bekommen die Abgeordneten ein Mandat? [SEP]",
+            "score": 0.29359546303749084,
+            "token": 16232,
+            "token_str": "Mandat"
+        },
+        {
+            "sequence": "[CLS] Bekommen die Abgeordneten ein Problem? [SEP]",
+            "score": 0.06945481896400452,
+            "token": 1550,
+            "token_str": "Problem"
+        },
+        {
+            "sequence": "[CLS] Bekommen die Abgeordneten ein Ja? [SEP]",
+            "score": 0.024582937359809875,
+            "token": 849,
+            "token_str": "Ja"
+        },
+        {
+            "sequence": "[CLS] Bekommen die Abgeordneten ein solches? [SEP]",
+            "score": 0.023092739284038544,
+            "token": 13588,
+            "token_str": "solches"
+        },
+        {
+            "sequence": "[CLS] Bekommen die Abgeordneten ein Heim? [SEP]",
+            "score": 0.015222644433379173,
+            "token": 2321,
+            "token_str": "Heim"
+        }
+    ],
+    "Weil die Abgeordneten ein Grundgehalt bekommen .": [
+        {
+            "sequence": "[CLS] Weil die Abgeordneten ein Mandat bekommen. [SEP]",
+            "score": 0.13970185816287994,
+            "token": 16232,
+            "token_str": "Mandat"
+        },
+        {
+            "sequence": "[CLS] Weil die Abgeordneten ein Kind bekommen. [SEP]",
+            "score": 0.08169224113225937,
+            "token": 2841,
+            "token_str": "Kind"
+        },
+        {
+            "sequence": "[CLS] Weil die Abgeordneten ein Geschenk bekommen. [SEP]",
+            "score": 0.03616507723927498,
+            "token": 12187,
+            "token_str": "Geschenk"
+        },
+        {
+            "sequence": "[CLS] Weil die Abgeordneten ein Auto bekommen. [SEP]",
+            "score": 0.03301364183425903,
+            "token": 2510,
+            "token_str": "Auto"
+        },
+        {
+            "sequence": "[CLS] Weil die Abgeordneten ein Gehalt bekommen. [SEP]",
+            "score": 0.02437560446560383,
+            "token": 15473,
+            "token_str": "Gehalt"
+        }
+    ],
+    "Der Kleinbauer zieht einen Bauzaun .": [
+        {
+            "sequence": "[CLS] Der Kleinbauer zieht einen Hut. [SEP]",
+            "score": 0.12817353010177612,
+            "token": 12011,
+            "token_str": "Hut"
+        },
+        {
+            "sequence": "[CLS] Der Kleinbauer zieht einen Vergleich. [SEP]",
+            "score": 0.11478055268526077,
+            "token": 3784,
+            "token_str": "Vergleich"
+        },
+        {
+            "sequence": "[CLS] Der Kleinbauer zieht einen Zahn. [SEP]",
+            "score": 0.0745893344283104,
+            "token": 8516,
+            "token_str": "Zahn"
+        },
+        {
+            "sequence": "[CLS] Der Kleinbauer zieht einen Wagen. [SEP]",
+            "score": 0.04440797120332718,
+            "token": 4869,
+            "token_str": "Wagen"
+        },
+        {
+            "sequence": "[CLS] Der Kleinbauer zieht einen Bart. [SEP]",
+            "score": 0.035069242119789124,
+            "token": 8578,
+            "token_str": "Bart"
+        }
+    ],
+    "Einen Bauzaun zieht der Kleinbauer .": [
+        {
+            "sequence": "[CLS] Einen Vergleich zieht der Kleinbauer. [SEP]",
+            "score": 0.2649271488189697,
+            "token": 3784,
+            "token_str": "Vergleich"
+        },
+        {
+            "sequence": "[CLS] Einen Zahn zieht der Kleinbauer. [SEP]",
+            "score": 0.11117725819349289,
+            "token": 8516,
+            "token_str": "Zahn"
+        },
+        {
+            "sequence": "[CLS] Einen Strich zieht der Kleinbauer. [SEP]",
+            "score": 0.09288065135478973,
+            "token": 20047,
+            "token_str": "Strich"
+        },
+        {
+            "sequence": "[CLS] Einen Haken zieht der Kleinbauer. [SEP]",
+            "score": 0.03315730765461922,
+            "token": 21889,
+            "token_str": "Haken"
+        },
+        {
+            "sequence": "[CLS] Einen Hut zieht der Kleinbauer. [SEP]",
+            "score": 0.02866164594888687,
+            "token": 12011,
+            "token_str": "Hut"
+        }
+    ],
+    "Deshalb zieht der Kleinbauer einen Bauzaun .": [
+        {
+            "sequence": "[CLS] Deshalb zieht der Kleinbauer einen Vergleich. [SEP]",
+            "score": 0.16630257666110992,
+            "token": 3784,
+            "token_str": "Vergleich"
+        },
+        {
+            "sequence": "[CLS] Deshalb zieht der Kleinbauer einen Hut. [SEP]",
+            "score": 0.0933300033211708,
+            "token": 12011,
+            "token_str": "Hut"
+        },
+        {
+            "sequence": "[CLS] Deshalb zieht der Kleinbauer einen Zahn. [SEP]",
+            "score": 0.06766489148139954,
+            "token": 8516,
+            "token_str": "Zahn"
+        },
+        {
+            "sequence": "[CLS] Deshalb zieht der Kleinbauer einen Neubau. [SEP]",
+            "score": 0.050207894295454025,
+            "token": 7876,
+            "token_str": "Neubau"
+        },
+        {
+            "sequence": "[CLS] Deshalb zieht der Kleinbauer einen Haken. [SEP]",
+            "score": 0.028668472543358803,
+            "token": 21889,
+            "token_str": "Haken"
+        }
+    ],
+    "Zieht der Kleinbauer einen Bauzaun ?": [
+        {
+            "sequence": "[CLS] Zieht der Kleinbauer einen Zahn? [SEP]",
+            "score": 0.06345412135124207,
+            "token": 8516,
+            "token_str": "Zahn"
+        },
+        {
+            "sequence": "[CLS] Zieht der Kleinbauer einen Draht? [SEP]",
+            "score": 0.043351754546165466,
+            "token": 19740,
+            "token_str": "Draht"
+        },
+        {
+            "sequence": "[CLS] Zieht der Kleinbauer einen Vergleich? [SEP]",
+            "score": 0.03923585265874863,
+            "token": 3784,
+            "token_str": "Vergleich"
+        },
+        {
+            "sequence": "[CLS] Zieht der Kleinbauer einen Schuh? [SEP]",
+            "score": 0.0349259227514267,
+            "token": 15761,
+            "token_str": "Schuh"
+        },
+        {
+            "sequence": "[CLS] Zieht der Kleinbauer einen Hut? [SEP]",
+            "score": 0.030780600383877754,
+            "token": 12011,
+            "token_str": "Hut"
+        }
+    ],
+    "Weil der Kleinbauer einen Bauzaun zieht .": [
+        {
+            "sequence": "[CLS] Weil der Kleinbauer einen Zahn zieht. [SEP]",
+            "score": 0.22331637144088745,
+            "token": 8516,
+            "token_str": "Zahn"
+        },
+        {
+            "sequence": "[CLS] Weil der Kleinbauer einen Vergleich zieht. [SEP]",
+            "score": 0.2043105661869049,
+            "token": 3784,
+            "token_str": "Vergleich"
+        },
+        {
+            "sequence": "[CLS] Weil der Kleinbauer einen Hut zieht. [SEP]",
+            "score": 0.068995900452137,
+            "token": 12011,
+            "token_str": "Hut"
+        },
+        {
+            "sequence": "[CLS] Weil der Kleinbauer einen solchen zieht. [SEP]",
+            "score": 0.028641769662499428,
+            "token": 5748,
+            "token_str": "solchen"
+        },
+        {
+            "sequence": "[CLS] Weil der Kleinbauer einen Vorteil zieht. [SEP]",
+            "score": 0.02188223972916603,
+            "token": 9398,
+            "token_str": "Vorteil"
+        }
+    ],
+    "Die Sportlerinnen gewinnen eine Tour .": [
+        {
+            "sequence": "[CLS] Die Sportlerinnen gewinnen eine Medaille. [SEP]",
+            "score": 0.4596441984176636,
+            "token": 19053,
+            "token_str": "Medaille"
+        },
+        {
+            "sequence": "[CLS] Die Sportlerinnen gewinnen eine Bronzemedaille. [SEP]",
+            "score": 0.30888494849205017,
+            "token": 18612,
+            "token_str": "Bronzemedaille"
+        },
+        {
+            "sequence": "[CLS] Die Sportlerinnen gewinnen eine Goldmedaille. [SEP]",
+            "score": 0.13649576902389526,
+            "token": 20534,
+            "token_str": "Goldmedaille"
+        },
+        {
+            "sequence": "[CLS] Die Sportlerinnen gewinnen eine Silbermedaille. [SEP]",
+            "score": 0.08029791712760925,
+            "token": 20820,
+            "token_str": "Silbermedaille"
+        },
+        {
+            "sequence": "[CLS] Die Sportlerinnen gewinnen eine Etappe. [SEP]",
+            "score": 0.005639869254082441,
+            "token": 18935,
+            "token_str": "Etappe"
+        }
+    ],
+    "Eine Tour gewinnen die Sportlerinnen .": [
+        {
+            "sequence": "[CLS] Eine Medaille gewinnen die Sportlerinnen. [SEP]",
+            "score": 0.6005587577819824,
+            "token": 19053,
+            "token_str": "Medaille"
+        },
+        {
+            "sequence": "[CLS] Eine Bronzemedaille gewinnen die Sportlerinnen. [SEP]",
+            "score": 0.23163297772407532,
+            "token": 18612,
+            "token_str": "Bronzemedaille"
+        },
+        {
+            "sequence": "[CLS] Eine Goldmedaille gewinnen die Sportlerinnen. [SEP]",
+            "score": 0.07136958837509155,
+            "token": 20534,
+            "token_str": "Goldmedaille"
+        },
+        {
+            "sequence": "[CLS] Eine Silbermedaille gewinnen die Sportlerinnen. [SEP]",
+            "score": 0.05654366686940193,
+            "token": 20820,
+            "token_str": "Silbermedaille"
+        },
+        {
+            "sequence": "[CLS] Eine Etappe gewinnen die Sportlerinnen. [SEP]",
+            "score": 0.003926049917936325,
+            "token": 18935,
+            "token_str": "Etappe"
+        }
+    ],
+    "Deshalb gewinnen die Sportlerinnen eine Tour .": [
+        {
+            "sequence": "[CLS] Deshalb gewinnen die Sportlerinnen eine Medaille. [SEP]",
+            "score": 0.6717278957366943,
+            "token": 19053,
+            "token_str": "Medaille"
+        },
+        {
+            "sequence": "[CLS] Deshalb gewinnen die Sportlerinnen eine Goldmedaille. [SEP]",
+            "score": 0.14413218200206757,
+            "token": 20534,
+            "token_str": "Goldmedaille"
+        },
+        {
+            "sequence": "[CLS] Deshalb gewinnen die Sportlerinnen eine Bronzemedaille. [SEP]",
+            "score": 0.08028707653284073,
+            "token": 18612,
+            "token_str": "Bronzemedaille"
+        },
+        {
+            "sequence": "[CLS] Deshalb gewinnen die Sportlerinnen eine Silbermedaille. [SEP]",
+            "score": 0.06213696673512459,
+            "token": 20820,
+            "token_str": "Silbermedaille"
+        },
+        {
+            "sequence": "[CLS] Deshalb gewinnen die Sportlerinnen eine Auszeichnung. [SEP]",
+            "score": 0.014059980399906635,
+            "token": 12163,
+            "token_str": "Auszeichnung"
+        }
+    ],
+    "Gewinnen die Sportlerinnen eine Tour ?": [
+        {
+            "sequence": "[CLS] Gewinnen die Sportlerinnen eine Goldmedaille? [SEP]",
+            "score": 0.08936883509159088,
+            "token": 20534,
+            "token_str": "Goldmedaille"
+        },
+        {
+            "sequence": "[CLS] Gewinnen die Sportlerinnen eine Medaille? [SEP]",
+            "score": 0.06803551316261292,
+            "token": 19053,
+            "token_str": "Medaille"
+        },
+        {
+            "sequence": "[CLS] Gewinnen die Sportlerinnen eine solche? [SEP]",
+            "score": 0.02698570117354393,
+            "token": 3760,
+            "token_str": "solche"
+        },
+        {
+            "sequence": "[CLS] Gewinnen die Sportlerinnen eine Chance? [SEP]",
+            "score": 0.022892966866493225,
+            "token": 5415,
+            "token_str": "Chance"
+        },
+        {
+            "sequence": "[CLS] Gewinnen die Sportlerinnen eine Meisterschaft? [SEP]",
+            "score": 0.02211683616042137,
+            "token": 8466,
+            "token_str": "Meisterschaft"
+        }
+    ],
+    "Weil die Sportlerinnen eine Tour gewinnen .": [
+        {
+            "sequence": "[CLS] Weil die Sportlerinnen eine Medaille gewinnen. [SEP]",
+            "score": 0.8192873001098633,
+            "token": 19053,
+            "token_str": "Medaille"
+        },
+        {
+            "sequence": "[CLS] Weil die Sportlerinnen eine Goldmedaille gewinnen. [SEP]",
+            "score": 0.06749303638935089,
+            "token": 20534,
+            "token_str": "Goldmedaille"
+        },
+        {
+            "sequence": "[CLS] Weil die Sportlerinnen eine Bronzemedaille gewinnen. [SEP]",
+            "score": 0.018416374921798706,
+            "token": 18612,
+            "token_str": "Bronzemedaille"
+        },
+        {
+            "sequence": "[CLS] Weil die Sportlerinnen eine Silbermedaille gewinnen. [SEP]",
+            "score": 0.012429405003786087,
+            "token": 20820,
+            "token_str": "Silbermedaille"
+        },
+        {
+            "sequence": "[CLS] Weil die Sportlerinnen eine Auszeichnung gewinnen. [SEP]",
+            "score": 0.010074330493807793,
+            "token": 12163,
+            "token_str": "Auszeichnung"
+        }
+    ],
+    "Der Handwerker übernimmt eine Bauausführung .": [
+        {
+            "sequence": "[CLS] Der Handwerker übernimmt eine Aufgabe. [SEP]",
+            "score": 0.2299400418996811,
+            "token": 4579,
+            "token_str": "Aufgabe"
+        },
+        {
+            "sequence": "[CLS] Der Handwerker übernimmt eine Verantwortung. [SEP]",
+            "score": 0.13582631945610046,
+            "token": 6441,
+            "token_str": "Verantwortung"
+        },
+        {
+            "sequence": "[CLS] Der Handwerker übernimmt eine Reparatur. [SEP]",
+            "score": 0.08963140100240707,
+            "token": 14860,
+            "token_str": "Reparatur"
+        },
+        {
+            "sequence": "[CLS] Der Handwerker übernimmt eine Werkstatt. [SEP]",
+            "score": 0.05105562508106232,
+            "token": 14354,
+            "token_str": "Werkstatt"
+        },
+        {
+            "sequence": "[CLS] Der Handwerker übernimmt eine Rolle. [SEP]",
+            "score": 0.043610550463199615,
+            "token": 2572,
+            "token_str": "Rolle"
+        }
+    ],
+    "Eine Bauausführung übernimmt der Handwerker .": [
+        {
+            "sequence": "[CLS] Eine Reparatur übernimmt der Handwerker. [SEP]",
+            "score": 0.19570721685886383,
+            "token": 14860,
+            "token_str": "Reparatur"
+        },
+        {
+            "sequence": "[CLS] Eine Aufgabe übernimmt der Handwerker. [SEP]",
+            "score": 0.18851158022880554,
+            "token": 4579,
+            "token_str": "Aufgabe"
+        },
+        {
+            "sequence": "[CLS] Eine Rolle übernimmt der Handwerker. [SEP]",
+            "score": 0.03933996707201004,
+            "token": 2572,
+            "token_str": "Rolle"
+        },
+        {
+            "sequence": "[CLS] Eine Verantwortung übernimmt der Handwerker. [SEP]",
+            "score": 0.036900099366903305,
+            "token": 6441,
+            "token_str": "Verantwortung"
+        },
+        {
+            "sequence": "[CLS] Eine Haftung übernimmt der Handwerker. [SEP]",
+            "score": 0.024617619812488556,
+            "token": 19859,
+            "token_str": "Haftung"
+        }
+    ],
+    "Deshalb übernimmt der Handwerker eine Bauausführung .": [
+        {
+            "sequence": "[CLS] Deshalb übernimmt der Handwerker eine Reparatur. [SEP]",
+            "score": 0.17805124819278717,
+            "token": 14860,
+            "token_str": "Reparatur"
+        },
+        {
+            "sequence": "[CLS] Deshalb übernimmt der Handwerker eine Verantwortung. [SEP]",
+            "score": 0.11071290075778961,
+            "token": 6441,
+            "token_str": "Verantwortung"
+        },
+        {
+            "sequence": "[CLS] Deshalb übernimmt der Handwerker eine Werkstatt. [SEP]",
+            "score": 0.07980186492204666,
+            "token": 14354,
+            "token_str": "Werkstatt"
+        },
+        {
+            "sequence": "[CLS] Deshalb übernimmt der Handwerker eine Aufgabe. [SEP]",
+            "score": 0.05535124987363815,
+            "token": 4579,
+            "token_str": "Aufgabe"
+        },
+        {
+            "sequence": "[CLS] Deshalb übernimmt der Handwerker eine Haftung. [SEP]",
+            "score": 0.04972335696220398,
+            "token": 19859,
+            "token_str": "Haftung"
+        }
+    ],
+    "Übernimmt der Handwerker eine Bauausführung ?": [
+        {
+            "sequence": "[CLS] Übernimmt der Handwerker eine Rolle? [SEP]",
+            "score": 0.25933095812797546,
+            "token": 2572,
+            "token_str": "Rolle"
+        },
+        {
+            "sequence": "[CLS] Übernimmt der Handwerker eine Aufgabe? [SEP]",
+            "score": 0.18697763979434967,
+            "token": 4579,
+            "token_str": "Aufgabe"
+        },
+        {
+            "sequence": "[CLS] Übernimmt der Handwerker eine Funktion? [SEP]",
+            "score": 0.12110722064971924,
+            "token": 3034,
+            "token_str": "Funktion"
+        },
+        {
+            "sequence": "[CLS] Übernimmt der Handwerker eine Verantwortung? [SEP]",
+            "score": 0.04527768865227699,
+            "token": 6441,
+            "token_str": "Verantwortung"
+        },
+        {
+            "sequence": "[CLS] Übernimmt der Handwerker eine Leitung? [SEP]",
+            "score": 0.022175563499331474,
+            "token": 5407,
+            "token_str": "Leitung"
+        }
+    ],
+    "Weil der Handwerker eine Bauausführung übernimmt .": [
+        {
+            "sequence": "[CLS] Weil der Handwerker eine Verantwortung übernimmt. [SEP]",
+            "score": 0.2000366598367691,
+            "token": 6441,
+            "token_str": "Verantwortung"
+        },
+        {
+            "sequence": "[CLS] Weil der Handwerker eine Aufgabe übernimmt. [SEP]",
+            "score": 0.19946080446243286,
+            "token": 4579,
+            "token_str": "Aufgabe"
+        },
+        {
+            "sequence": "[CLS] Weil der Handwerker eine Rolle übernimmt. [SEP]",
+            "score": 0.06498681753873825,
+            "token": 2572,
+            "token_str": "Rolle"
+        },
+        {
+            "sequence": "[CLS] Weil der Handwerker eine Reparatur übernimmt. [SEP]",
+            "score": 0.044778961688280106,
+            "token": 14860,
+            "token_str": "Reparatur"
+        },
+        {
+            "sequence": "[CLS] Weil der Handwerker eine Werkstatt übernimmt. [SEP]",
+            "score": 0.03584493324160576,
+            "token": 14354,
+            "token_str": "Werkstatt"
+        }
+    ]
+}

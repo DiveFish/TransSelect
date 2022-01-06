@@ -1,0 +1,2402 @@
+{
+    "De generaal begint aanvallen .": [
+        {
+            "sequence": "<s> De generaal begint..</s>",
+            "score": 0.15188728272914886,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> De generaal begint met.</s>",
+            "score": 0.14606299996376038,
+            "token": 435,
+            "token_str": "▁met"
+        },
+        {
+            "sequence": "<s> De generaal begint te.</s>",
+            "score": 0.0394081175327301,
+            "token": 120,
+            "token_str": "▁te"
+        },
+        {
+            "sequence": "<s> De generaal begint:.</s>",
+            "score": 0.03602248430252075,
+            "token": 12,
+            "token_str": ":"
+        },
+        {
+            "sequence": "<s> De generaal begint opnieuw.</s>",
+            "score": 0.03159870207309723,
+            "token": 104418,
+            "token_str": "▁opnieuw"
+        }
+    ],
+    "Aanvallen begint de generaal .": [
+        {
+            "sequence": "<s> Zo begint de generaal.</s>",
+            "score": 0.21346205472946167,
+            "token": 5880,
+            "token_str": "▁Zo"
+        },
+        {
+            "sequence": "<s> Dan begint de generaal.</s>",
+            "score": 0.1986515074968338,
+            "token": 2290,
+            "token_str": "▁Dan"
+        },
+        {
+            "sequence": "<s> Daar begint de generaal.</s>",
+            "score": 0.10554246604442596,
+            "token": 13981,
+            "token_str": "▁Daar"
+        },
+        {
+            "sequence": "<s> Hier begint de generaal.</s>",
+            "score": 0.10290661454200745,
+            "token": 5389,
+            "token_str": "▁Hier"
+        },
+        {
+            "sequence": "<s> Daarna begint de generaal.</s>",
+            "score": 0.05016913637518883,
+            "token": 146963,
+            "token_str": "▁Daarna"
+        }
+    ],
+    "Daarom begint de generaal aanvallen .": [
+        {
+            "sequence": "<s> Daarom begint de generaal te.</s>",
+            "score": 0.10129197686910629,
+            "token": 120,
+            "token_str": "▁te"
+        },
+        {
+            "sequence": "<s> Daarom begint de generaal met.</s>",
+            "score": 0.06381463259458542,
+            "token": 435,
+            "token_str": "▁met"
+        },
+        {
+            "sequence": "<s> Daarom begint de generaal van.</s>",
+            "score": 0.059323836117982864,
+            "token": 131,
+            "token_str": "▁van"
+        },
+        {
+            "sequence": "<s> Daarom begint de generaal..</s>",
+            "score": 0.051543012261390686,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> Daarom begint de generaaloorlog.</s>",
+            "score": 0.02241942286491394,
+            "token": 158612,
+            "token_str": "oorlog"
+        }
+    ],
+    "Begint de generaal aanvallen ?": [
+        {
+            "sequence": "<s> Begint de generaal II?</s>",
+            "score": 0.03524227812886238,
+            "token": 1995,
+            "token_str": "▁II"
+        },
+        {
+            "sequence": "<s> Begint de generaalismo?</s>",
+            "score": 0.03182198852300644,
+            "token": 3119,
+            "token_str": "ismo"
+        },
+        {
+            "sequence": "<s> Begint de generaalidad?</s>",
+            "score": 0.031353503465652466,
+            "token": 3812,
+            "token_str": "idad"
+        },
+        {
+            "sequence": "<s> Begint de generaal militar?</s>",
+            "score": 0.03016168624162674,
+            "token": 33796,
+            "token_str": "▁militar"
+        },
+        {
+            "sequence": "<s> Begint de generaal??</s>",
+            "score": 0.021056169643998146,
+            "token": 32,
+            "token_str": "?"
+        }
+    ],
+    "Omdat de generaal aanvallen begint .": [
+        {
+            "sequence": "<s> Omdat de generaaloorlog begint.</s>",
+            "score": 0.1210116371512413,
+            "token": 158612,
+            "token_str": "oorlog"
+        },
+        {
+            "sequence": "<s> Omdat de generaal oorlog begint.</s>",
+            "score": 0.11163349449634552,
+            "token": 97367,
+            "token_str": "▁oorlog"
+        },
+        {
+            "sequence": "<s> Omdat de generaal niet begint.</s>",
+            "score": 0.053410328924655914,
+            "token": 1348,
+            "token_str": "▁niet"
+        },
+        {
+            "sequence": "<s> Omdat de generaal weer begint.</s>",
+            "score": 0.039662279188632965,
+            "token": 4190,
+            "token_str": "▁weer"
+        },
+        {
+            "sequence": "<s> Omdat de generaaltijd begint.</s>",
+            "score": 0.024671439081430435,
+            "token": 32413,
+            "token_str": "tijd"
+        }
+    ],
+    "De partners leven een dubbelleven .": [
+        {
+            "sequence": "<s> De partners leven een beetje.</s>",
+            "score": 0.09780078381299973,
+            "token": 53998,
+            "token_str": "▁beetje"
+        },
+        {
+            "sequence": "<s> De partners leven een leven.</s>",
+            "score": 0.08903130143880844,
+            "token": 22485,
+            "token_str": "▁leven"
+        },
+        {
+            "sequence": "<s> De partners leven een week.</s>",
+            "score": 0.0415453165769577,
+            "token": 5895,
+            "token_str": "▁week"
+        },
+        {
+            "sequence": "<s> De partners leven een dag.</s>",
+            "score": 0.03798563778400421,
+            "token": 1442,
+            "token_str": "▁dag"
+        },
+        {
+            "sequence": "<s> De partners leven eenzaam.</s>",
+            "score": 0.02986501157283783,
+            "token": 91963,
+            "token_str": "zaam"
+        }
+    ],
+    "Een dubbelleven leven de partners .": [
+        {
+            "sequence": "<s> Een goed leven de partners.</s>",
+            "score": 0.1942143738269806,
+            "token": 4535,
+            "token_str": "▁goed"
+        },
+        {
+            "sequence": "<s> Een nieuw leven de partners.</s>",
+            "score": 0.09403207898139954,
+            "token": 42578,
+            "token_str": "▁nieuw"
+        },
+        {
+            "sequence": "<s> Een lang leven de partners.</s>",
+            "score": 0.0524318590760231,
+            "token": 1937,
+            "token_str": "▁lang"
+        },
+        {
+            "sequence": "<s> Een beter leven de partners.</s>",
+            "score": 0.05232895165681839,
+            "token": 17362,
+            "token_str": "▁beter"
+        },
+        {
+            "sequence": "<s> Een gelukkig leven de partners.</s>",
+            "score": 0.046558134257793427,
+            "token": 83534,
+            "token_str": "▁gelukkig"
+        }
+    ],
+    "Daarom leven de partners een dubbelleven .": [
+        {
+            "sequence": "<s> Daarom leven de partners een leven.</s>",
+            "score": 0.11710918694734573,
+            "token": 22485,
+            "token_str": "▁leven"
+        },
+        {
+            "sequence": "<s> Daarom leven de partners een beetje.</s>",
+            "score": 0.07677483558654785,
+            "token": 53998,
+            "token_str": "▁beetje"
+        },
+        {
+            "sequence": "<s> Daarom leven de partners een tijd.</s>",
+            "score": 0.0659242570400238,
+            "token": 9604,
+            "token_str": "▁tijd"
+        },
+        {
+            "sequence": "<s> Daarom leven de partners een week.</s>",
+            "score": 0.05581148713827133,
+            "token": 5895,
+            "token_str": "▁week"
+        },
+        {
+            "sequence": "<s> Daarom leven de partners eenzaam.</s>",
+            "score": 0.0477781742811203,
+            "token": 91963,
+            "token_str": "zaam"
+        }
+    ],
+    "Leven de partners een dubbelleven ?": [
+        {
+            "sequence": "<s> Leven de partners een relatie?</s>",
+            "score": 0.2623142600059509,
+            "token": 60027,
+            "token_str": "▁relatie"
+        },
+        {
+            "sequence": "<s> Leven de partners een leven?</s>",
+            "score": 0.10642249137163162,
+            "token": 22485,
+            "token_str": "▁leven"
+        },
+        {
+            "sequence": "<s> Leven de partners een tijd?</s>",
+            "score": 0.04123523458838463,
+            "token": 9604,
+            "token_str": "▁tijd"
+        },
+        {
+            "sequence": "<s> Leven de partners een huwelijk?</s>",
+            "score": 0.04034891724586487,
+            "token": 218341,
+            "token_str": "▁huwelijk"
+        },
+        {
+            "sequence": "<s> Leven de partners een conflict?</s>",
+            "score": 0.03322634473443031,
+            "token": 79612,
+            "token_str": "▁conflict"
+        }
+    ],
+    "Omdat de partners een dubbelleven leven .": [
+        {
+            "sequence": "<s> Omdat de partners een ander leven.</s>",
+            "score": 0.08603890985250473,
+            "token": 9447,
+            "token_str": "▁ander"
+        },
+        {
+            "sequence": "<s> Omdat de partners een goed leven.</s>",
+            "score": 0.08505404740571976,
+            "token": 4535,
+            "token_str": "▁goed"
+        },
+        {
+            "sequence": "<s> Omdat de partners een beter leven.</s>",
+            "score": 0.07659000903367996,
+            "token": 17362,
+            "token_str": "▁beter"
+        },
+        {
+            "sequence": "<s> Omdat de partners een goede leven.</s>",
+            "score": 0.0531524159014225,
+            "token": 18817,
+            "token_str": "▁goede"
+        },
+        {
+            "sequence": "<s> Omdat de partners een lang leven.</s>",
+            "score": 0.03806348890066147,
+            "token": 1937,
+            "token_str": "▁lang"
+        }
+    ],
+    "De journalist synchroniseert opnames .": [
+        {
+            "sequence": "<s> De journalist synchroniseert met.</s>",
+            "score": 0.30240583419799805,
+            "token": 435,
+            "token_str": "▁met"
+        },
+        {
+            "sequence": "<s> De journalist synchroniseert..</s>",
+            "score": 0.14927804470062256,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> De journalist synchroniseert de.</s>",
+            "score": 0.032842233777046204,
+            "token": 8,
+            "token_str": "▁de"
+        },
+        {
+            "sequence": "<s> De journalist synchroniseert mee.</s>",
+            "score": 0.022047044709324837,
+            "token": 7421,
+            "token_str": "▁mee"
+        },
+        {
+            "sequence": "<s> De journalist synchroniseert:.</s>",
+            "score": 0.02093784138560295,
+            "token": 12,
+            "token_str": ":"
+        }
+    ],
+    "Opnames synchroniseert de journalist .": [
+        {
+            "sequence": "<s> en synchroniseert de journalist.</s>",
+            "score": 0.029491053894162178,
+            "token": 22,
+            "token_str": "▁en"
+        },
+        {
+            "sequence": "<s> Film synchroniseert de journalist.</s>",
+            "score": 0.02535982057452202,
+            "token": 3847,
+            "token_str": "▁Film"
+        },
+        {
+            "sequence": "<s> Se synchroniseert de journalist.</s>",
+            "score": 0.02276381105184555,
+            "token": 503,
+            "token_str": "▁Se"
+        },
+        {
+            "sequence": "<s> film synchroniseert de journalist.</s>",
+            "score": 0.02225532755255699,
+            "token": 1346,
+            "token_str": "▁film"
+        },
+        {
+            "sequence": "<s> En synchroniseert de journalist.</s>",
+            "score": 0.021891241893172264,
+            "token": 357,
+            "token_str": "▁En"
+        }
+    ],
+    "Daarom synchroniseert de journalist opnames .": [
+        {
+            "sequence": "<s> Daarom synchroniseert de journalist met.</s>",
+            "score": 0.07358933240175247,
+            "token": 435,
+            "token_str": "▁met"
+        },
+        {
+            "sequence": "<s> Daarom synchroniseert de journalisten.</s>",
+            "score": 0.0693812295794487,
+            "token": 33,
+            "token_str": "en"
+        },
+        {
+            "sequence": "<s> Daarom synchroniseert de journalist de.</s>",
+            "score": 0.06199727952480316,
+            "token": 8,
+            "token_str": "▁de"
+        },
+        {
+            "sequence": "<s> Daarom synchroniseert de journalist..</s>",
+            "score": 0.04868970066308975,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> Daarom synchroniseert de journalistiek.</s>",
+            "score": 0.04787635803222656,
+            "token": 9143,
+            "token_str": "iek"
+        }
+    ],
+    "Synchroniseert de journalist opnames ?": [
+        {
+            "sequence": "<s> Synchroniseert de journalisten?</s>",
+            "score": 0.3835240602493286,
+            "token": 33,
+            "token_str": "en"
+        },
+        {
+            "sequence": "<s> Synchroniseert de journaliste?</s>",
+            "score": 0.08770179003477097,
+            "token": 13,
+            "token_str": "e"
+        },
+        {
+            "sequence": "<s> Synchroniseert de journalisti?</s>",
+            "score": 0.07519179582595825,
+            "token": 14,
+            "token_str": "i"
+        },
+        {
+            "sequence": "<s> Synchroniseert de journalists?</s>",
+            "score": 0.052363138645887375,
+            "token": 7,
+            "token_str": "s"
+        },
+        {
+            "sequence": "<s> Synchroniseert de journalistiek?</s>",
+            "score": 0.04804268479347229,
+            "token": 9143,
+            "token_str": "iek"
+        }
+    ],
+    "Omdat de journalist opnames synchroniseert .": [
+        {
+            "sequence": "<s> Omdat de journalistiek synchroniseert.</s>",
+            "score": 0.1771368682384491,
+            "token": 9143,
+            "token_str": "iek"
+        },
+        {
+            "sequence": "<s> Omdat de journalist niet synchroniseert.</s>",
+            "score": 0.09713967144489288,
+            "token": 1348,
+            "token_str": "▁niet"
+        },
+        {
+            "sequence": "<s> Omdat de journalist zich synchroniseert.</s>",
+            "score": 0.08339375257492065,
+            "token": 7559,
+            "token_str": "▁zich"
+        },
+        {
+            "sequence": "<s> Omdat de journalisten synchroniseert.</s>",
+            "score": 0.0704999640583992,
+            "token": 33,
+            "token_str": "en"
+        },
+        {
+            "sequence": "<s> Omdat de journalistik synchroniseert.</s>",
+            "score": 0.03109191358089447,
+            "token": 783,
+            "token_str": "ik"
+        }
+    ],
+    "De vriendinnen spelen een droombruiloft .": [
+        {
+            "sequence": "<s> De vriendinnen spelen een rol.</s>",
+            "score": 0.14449040591716766,
+            "token": 6136,
+            "token_str": "▁rol"
+        },
+        {
+            "sequence": "<s> De vriendinnen spelen een spel.</s>",
+            "score": 0.12521308660507202,
+            "token": 10010,
+            "token_str": "▁spel"
+        },
+        {
+            "sequence": "<s> De vriendinnen spelen een game.</s>",
+            "score": 0.03951142355799675,
+            "token": 6712,
+            "token_str": "▁game"
+        },
+        {
+            "sequence": "<s> De vriendinnen spelen een paar.</s>",
+            "score": 0.02886981889605522,
+            "token": 6647,
+            "token_str": "▁paar"
+        },
+        {
+            "sequence": "<s> De vriendinnen spelen een film.</s>",
+            "score": 0.021658817306160927,
+            "token": 1346,
+            "token_str": "▁film"
+        }
+    ],
+    "Een droombruiloft spelen de vriendinnen .": [
+        {
+            "sequence": "<s> Een beetje spelen de vriendinnen.</s>",
+            "score": 0.3253121078014374,
+            "token": 53998,
+            "token_str": "▁beetje"
+        },
+        {
+            "sequence": "<s> Een keer spelen de vriendinnen.</s>",
+            "score": 0.04748434200882912,
+            "token": 11365,
+            "token_str": "▁keer"
+        },
+        {
+            "sequence": "<s> Een dag spelen de vriendinnen.</s>",
+            "score": 0.03806271776556969,
+            "token": 1442,
+            "token_str": "▁dag"
+        },
+        {
+            "sequence": "<s> Een meisje spelen de vriendinnen.</s>",
+            "score": 0.02693856507539749,
+            "token": 134091,
+            "token_str": "▁meisje"
+        },
+        {
+            "sequence": "<s> Een spel spelen de vriendinnen.</s>",
+            "score": 0.025923170149326324,
+            "token": 10010,
+            "token_str": "▁spel"
+        }
+    ],
+    "Daarom spelen de vriendinnen een droombruiloft .": [
+        {
+            "sequence": "<s> Daarom spelen de vriendinnen een rol.</s>",
+            "score": 0.2727784812450409,
+            "token": 6136,
+            "token_str": "▁rol"
+        },
+        {
+            "sequence": "<s> Daarom spelen de vriendinnen een spel.</s>",
+            "score": 0.07591765373945236,
+            "token": 10010,
+            "token_str": "▁spel"
+        },
+        {
+            "sequence": "<s> Daarom spelen de vriendinnen een paar.</s>",
+            "score": 0.05225029215216637,
+            "token": 6647,
+            "token_str": "▁paar"
+        },
+        {
+            "sequence": "<s> Daarom spelen de vriendinnen een beetje.</s>",
+            "score": 0.031649600714445114,
+            "token": 53998,
+            "token_str": "▁beetje"
+        },
+        {
+            "sequence": "<s> Daarom spelen de vriendinnen een groot.</s>",
+            "score": 0.023253953084349632,
+            "token": 9102,
+            "token_str": "▁groot"
+        }
+    ],
+    "Spelen de vriendinnen een droombruiloft ?": [
+        {
+            "sequence": "<s> Spelen de vriendinnen een spel?</s>",
+            "score": 0.08810809999704361,
+            "token": 10010,
+            "token_str": "▁spel"
+        },
+        {
+            "sequence": "<s> Spelen de vriendinnen een game?</s>",
+            "score": 0.0800255835056305,
+            "token": 6712,
+            "token_str": "▁game"
+        },
+        {
+            "sequence": "<s> Spelen de vriendinnen een wedstrijd?</s>",
+            "score": 0.06544191390275955,
+            "token": 78336,
+            "token_str": "▁wedstrijd"
+        },
+        {
+            "sequence": "<s> Spelen de vriendinnen een rol?</s>",
+            "score": 0.0411418154835701,
+            "token": 6136,
+            "token_str": "▁rol"
+        },
+        {
+            "sequence": "<s> Spelen de vriendinnen een match?</s>",
+            "score": 0.034185267984867096,
+            "token": 14858,
+            "token_str": "▁match"
+        }
+    ],
+    "Omdat de vriendinnen een droombruiloft spelen .": [
+        {
+            "sequence": "<s> Omdat de vriendinnen een beetje spelen.</s>",
+            "score": 0.390514999628067,
+            "token": 53998,
+            "token_str": "▁beetje"
+        },
+        {
+            "sequence": "<s> Omdat de vriendinnen een rol spelen.</s>",
+            "score": 0.12476371973752975,
+            "token": 6136,
+            "token_str": "▁rol"
+        },
+        {
+            "sequence": "<s> Omdat de vriendinnen een spel spelen.</s>",
+            "score": 0.0728268027305603,
+            "token": 10010,
+            "token_str": "▁spel"
+        },
+        {
+            "sequence": "<s> Omdat de vriendinnen eentje spelen.</s>",
+            "score": 0.030329210683703423,
+            "token": 4532,
+            "token_str": "tje"
+        },
+        {
+            "sequence": "<s> Omdat de vriendinnen een game spelen.</s>",
+            "score": 0.016422785818576813,
+            "token": 6712,
+            "token_str": "▁game"
+        }
+    ],
+    "De voorbijganger bekogelt kunstwerken .": [
+        {
+            "sequence": "<s> De voorbijganger bekogelt..</s>",
+            "score": 0.297438383102417,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> De voorbijganger bekogelt met.</s>",
+            "score": 0.08474390208721161,
+            "token": 435,
+            "token_str": "▁met"
+        },
+        {
+            "sequence": "<s> De voorbijganger bekogelt door.</s>",
+            "score": 0.054376862943172455,
+            "token": 1911,
+            "token_str": "▁door"
+        },
+        {
+            "sequence": "<s> De voorbijganger bekogelt de.</s>",
+            "score": 0.04128512740135193,
+            "token": 8,
+            "token_str": "▁de"
+        },
+        {
+            "sequence": "<s> De voorbijganger bekogelt af.</s>",
+            "score": 0.02196018397808075,
+            "token": 261,
+            "token_str": "▁af"
+        }
+    ],
+    "Kunstwerken bekogelt de voorbijganger .": [
+        {
+            "sequence": "<s> Hij bekogelt de voorbijganger.</s>",
+            "score": 0.15266487002372742,
+            "token": 18530,
+            "token_str": "▁Hij"
+        },
+        {
+            "sequence": "<s> Ik bekogelt de voorbijganger.</s>",
+            "score": 0.14280666410923004,
+            "token": 3256,
+            "token_str": "▁Ik"
+        },
+        {
+            "sequence": "<s> En bekogelt de voorbijganger.</s>",
+            "score": 0.07331985235214233,
+            "token": 357,
+            "token_str": "▁En"
+        },
+        {
+            "sequence": "<s> Zij bekogelt de voorbijganger.</s>",
+            "score": 0.06535273045301437,
+            "token": 63619,
+            "token_str": "▁Zij"
+        },
+        {
+            "sequence": "<s> Ze bekogelt de voorbijganger.</s>",
+            "score": 0.056449659168720245,
+            "token": 3786,
+            "token_str": "▁Ze"
+        }
+    ],
+    "Daarom bekogelt de voorbijganger kunstwerken .": [
+        {
+            "sequence": "<s> Daarom bekogelt de voorbijganger..</s>",
+            "score": 0.10967491567134857,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> Daarom bekogelt de voorbijganger de.</s>",
+            "score": 0.0691252052783966,
+            "token": 8,
+            "token_str": "▁de"
+        },
+        {
+            "sequence": "<s> Daarom bekogelt de voorbijganger:.</s>",
+            "score": 0.0531671941280365,
+            "token": 12,
+            "token_str": ":"
+        },
+        {
+            "sequence": "<s> Daarom bekogelt de voorbijganger zich.</s>",
+            "score": 0.04243015870451927,
+            "token": 7559,
+            "token_str": "▁zich"
+        },
+        {
+            "sequence": "<s> Daarom bekogelt de voorbijganger met.</s>",
+            "score": 0.031236549839377403,
+            "token": 435,
+            "token_str": "▁met"
+        }
+    ],
+    "Bekogelt de voorbijganger kunstwerken ?": [
+        {
+            "sequence": "<s> Bekogelt de voorbijganger niet?</s>",
+            "score": 0.1055188998579979,
+            "token": 1348,
+            "token_str": "▁niet"
+        },
+        {
+            "sequence": "<s> Bekogelt de voorbijganger zich?</s>",
+            "score": 0.07802768051624298,
+            "token": 7559,
+            "token_str": "▁zich"
+        },
+        {
+            "sequence": "<s> Bekogelt de voorbijganger nog?</s>",
+            "score": 0.04343573749065399,
+            "token": 1850,
+            "token_str": "▁nog"
+        },
+        {
+            "sequence": "<s> Bekogelt de voorbijganger toch?</s>",
+            "score": 0.04250795766711235,
+            "token": 15326,
+            "token_str": "▁toch"
+        },
+        {
+            "sequence": "<s> Bekogelt de voorbijganger af?</s>",
+            "score": 0.04225848987698555,
+            "token": 261,
+            "token_str": "▁af"
+        }
+    ],
+    "Omdat de voorbijganger kunstwerken bekogelt .": [
+        {
+            "sequence": "<s> Omdat de voorbijganger heeft bekogelt.</s>",
+            "score": 0.10058217495679855,
+            "token": 3188,
+            "token_str": "▁heeft"
+        },
+        {
+            "sequence": "<s> Omdat de voorbijganger werd bekogelt.</s>",
+            "score": 0.09571622312068939,
+            "token": 11281,
+            "token_str": "▁werd"
+        },
+        {
+            "sequence": "<s> Omdat de voorbijganger is bekogelt.</s>",
+            "score": 0.07902106642723083,
+            "token": 83,
+            "token_str": "▁is"
+        },
+        {
+            "sequence": "<s> Omdat de voorbijganger zich bekogelt.</s>",
+            "score": 0.07350809127092361,
+            "token": 7559,
+            "token_str": "▁zich"
+        },
+        {
+            "sequence": "<s> Omdat de voorbijganger hem bekogelt.</s>",
+            "score": 0.05239236727356911,
+            "token": 2360,
+            "token_str": "▁hem"
+        }
+    ],
+    "De kinderen vinden een oplossing .": [
+        {
+            "sequence": "<s> De kinderen vinden een leuke.</s>",
+            "score": 0.03722053021192551,
+            "token": 39983,
+            "token_str": "▁leuke"
+        },
+        {
+            "sequence": "<s> De kinderen vinden een nieuwe.</s>",
+            "score": 0.03438045084476471,
+            "token": 9800,
+            "token_str": "▁nieuwe"
+        },
+        {
+            "sequence": "<s> De kinderen vinden een goede.</s>",
+            "score": 0.0330176055431366,
+            "token": 18817,
+            "token_str": "▁goede"
+        },
+        {
+            "sequence": "<s> De kinderen vinden een</s>.</s>",
+            "score": 0.018888510763645172,
+            "token": 2,
+            "token_str": "</s>"
+        },
+        {
+            "sequence": "<s> De kinderen vinden een school.</s>",
+            "score": 0.018286922946572304,
+            "token": 10696,
+            "token_str": "▁school"
+        }
+    ],
+    "Een oplossing vinden de kinderen .": [
+        {
+            "sequence": "<s> Eens vinden de kinderen.</s>",
+            "score": 0.058342345058918,
+            "token": 7,
+            "token_str": "s"
+        },
+        {
+            "sequence": "<s> Een beetje vinden de kinderen.</s>",
+            "score": 0.05014290288090706,
+            "token": 53998,
+            "token_str": "▁beetje"
+        },
+        {
+            "sequence": "<s> Eenvoudig vinden de kinderen.</s>",
+            "score": 0.030096977949142456,
+            "token": 203693,
+            "token_str": "voudig"
+        },
+        {
+            "sequence": "<s> Een school vinden de kinderen.</s>",
+            "score": 0.029059480875730515,
+            "token": 10696,
+            "token_str": "▁school"
+        },
+        {
+            "sequence": "<s> Een vrouw vinden de kinderen.</s>",
+            "score": 0.0245333481580019,
+            "token": 59486,
+            "token_str": "▁vrouw"
+        }
+    ],
+    "Daarom vinden de kinderen een oplossing .": [
+        {
+            "sequence": "<s> Daarom vinden de kinderen een goede.</s>",
+            "score": 0.04877086356282234,
+            "token": 18817,
+            "token_str": "▁goede"
+        },
+        {
+            "sequence": "<s> Daarom vinden de kinderen een leuke.</s>",
+            "score": 0.04181805998086929,
+            "token": 39983,
+            "token_str": "▁leuke"
+        },
+        {
+            "sequence": "<s> Daarom vinden de kinderen een mooie.</s>",
+            "score": 0.02622813731431961,
+            "token": 26139,
+            "token_str": "▁mooie"
+        },
+        {
+            "sequence": "<s> Daarom vinden de kinderen een goed.</s>",
+            "score": 0.025300735607743263,
+            "token": 4535,
+            "token_str": "▁goed"
+        },
+        {
+            "sequence": "<s> Daarom vinden de kinderen een belangrijk.</s>",
+            "score": 0.02081880532205105,
+            "token": 54446,
+            "token_str": "▁belangrijk"
+        }
+    ],
+    "Vinden de kinderen een oplossing ?": [
+        {
+            "sequence": "<s> Vinden de kinderen een uitdaging?</s>",
+            "score": 0.1417093276977539,
+            "token": 122734,
+            "token_str": "▁uitdaging"
+        },
+        {
+            "sequence": "<s> Vinden de kinderen een probleem?</s>",
+            "score": 0.1071699857711792,
+            "token": 26673,
+            "token_str": "▁probleem"
+        },
+        {
+            "sequence": "<s> Vinden de kinderen een oplossing?</s>",
+            "score": 0.03349189832806587,
+            "token": 75531,
+            "token_str": "▁oplossing"
+        },
+        {
+            "sequence": "<s> Vinden de kinderen een film?</s>",
+            "score": 0.026338884606957436,
+            "token": 1346,
+            "token_str": "▁film"
+        },
+        {
+            "sequence": "<s> Vinden de kinderen een school?</s>",
+            "score": 0.020714836195111275,
+            "token": 10696,
+            "token_str": "▁school"
+        }
+    ],
+    "Omdat de kinderen een oplossing vinden .": [
+        {
+            "sequence": "<s> Omdat de kinderen een uitdaging vinden.</s>",
+            "score": 0.0990210697054863,
+            "token": 122734,
+            "token_str": "▁uitdaging"
+        },
+        {
+            "sequence": "<s> Omdat de kinderen een oplossing vinden.</s>",
+            "score": 0.0737748071551323,
+            "token": 75531,
+            "token_str": "▁oplossing"
+        },
+        {
+            "sequence": "<s> Omdat de kinderen een school vinden.</s>",
+            "score": 0.05312664806842804,
+            "token": 10696,
+            "token_str": "▁school"
+        },
+        {
+            "sequence": "<s> Omdat de kinderen een probleem vinden.</s>",
+            "score": 0.032833173871040344,
+            "token": 26673,
+            "token_str": "▁probleem"
+        },
+        {
+            "sequence": "<s> Omdat de kinderen een manier vinden.</s>",
+            "score": 0.016526002436876297,
+            "token": 10430,
+            "token_str": "▁manier"
+        }
+    ],
+    "De lezer bestelt tijdschriften .": [
+        {
+            "sequence": "<s> De lezer bestelten.</s>",
+            "score": 0.14661099016666412,
+            "token": 33,
+            "token_str": "en"
+        },
+        {
+            "sequence": "<s> De lezer bestelt..</s>",
+            "score": 0.11882389336824417,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> De lezer bestelter.</s>",
+            "score": 0.030948150902986526,
+            "token": 56,
+            "token_str": "er"
+        },
+        {
+            "sequence": "<s> De lezer bestelt:.</s>",
+            "score": 0.022175094112753868,
+            "token": 12,
+            "token_str": ":"
+        },
+        {
+            "sequence": "<s> De lezer besteltje.</s>",
+            "score": 0.022076256573200226,
+            "token": 236,
+            "token_str": "je"
+        }
+    ],
+    "Tijdschriften bestelt de lezer .": [
+        {
+            "sequence": "<s> De bestelt de lezer.</s>",
+            "score": 0.17788295447826385,
+            "token": 262,
+            "token_str": "▁De"
+        },
+        {
+            "sequence": "<s> de bestelt de lezer.</s>",
+            "score": 0.1105191633105278,
+            "token": 8,
+            "token_str": "▁de"
+        },
+        {
+            "sequence": "<s></s> bestelt de lezer.</s>",
+            "score": 0.07668181508779526,
+            "token": 2,
+            "token_str": "</s>"
+        },
+        {
+            "sequence": "<s> Beste bestelt de lezer.</s>",
+            "score": 0.07218719273805618,
+            "token": 15584,
+            "token_str": "▁Beste"
+        },
+        {
+            "sequence": "<s> Gratis bestelt de lezer.</s>",
+            "score": 0.04578268900513649,
+            "token": 7437,
+            "token_str": "▁Gratis"
+        }
+    ],
+    "Daarom bestelt de lezer tijdschriften .": [
+        {
+            "sequence": "<s> Daarom bestelt de lezer online.</s>",
+            "score": 0.096311055123806,
+            "token": 1118,
+            "token_str": "▁online"
+        },
+        {
+            "sequence": "<s> Daarom bestelt de lezeren.</s>",
+            "score": 0.07244802266359329,
+            "token": 33,
+            "token_str": "en"
+        },
+        {
+            "sequence": "<s> Daarom bestelt de lezer hier.</s>",
+            "score": 0.04987962543964386,
+            "token": 1791,
+            "token_str": "▁hier"
+        },
+        {
+            "sequence": "<s> Daarom bestelt de lezer..</s>",
+            "score": 0.03278619423508644,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> Daarom bestelt de lezer voor.</s>",
+            "score": 0.03208870068192482,
+            "token": 624,
+            "token_str": "▁voor"
+        }
+    ],
+    "Bestelt de lezer tijdschriften ?": [
+        {
+            "sequence": "<s> Bestelt de lezer??</s>",
+            "score": 0.04639627784490585,
+            "token": 32,
+            "token_str": "?"
+        },
+        {
+            "sequence": "<s> Bestelt de lezerte?</s>",
+            "score": 0.04281095415353775,
+            "token": 67,
+            "token_str": "te"
+        },
+        {
+            "sequence": "<s> Bestelt de lezer??</s>",
+            "score": 0.042631201446056366,
+            "token": 705,
+            "token_str": "▁?"
+        },
+        {
+            "sequence": "<s> Bestelt de lezer.?</s>",
+            "score": 0.03336194157600403,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> Bestelt de lezere?</s>",
+            "score": 0.02792176976799965,
+            "token": 13,
+            "token_str": "e"
+        }
+    ],
+    "Omdat de lezer tijdschriften bestelt .": [
+        {
+            "sequence": "<s> Omdat de lezer zelf bestelt.</s>",
+            "score": 0.051245905458927155,
+            "token": 12585,
+            "token_str": "▁zelf"
+        },
+        {
+            "sequence": "<s> Omdat de lezer niet bestelt.</s>",
+            "score": 0.04300925135612488,
+            "token": 1348,
+            "token_str": "▁niet"
+        },
+        {
+            "sequence": "<s> Omdat de lezer zich bestelt.</s>",
+            "score": 0.03818134590983391,
+            "token": 7559,
+            "token_str": "▁zich"
+        },
+        {
+            "sequence": "<s> Omdat de lezeren bestelt.</s>",
+            "score": 0.03401805832982063,
+            "token": 33,
+            "token_str": "en"
+        },
+        {
+            "sequence": "<s> Omdat de lezer het bestelt.</s>",
+            "score": 0.031673017889261246,
+            "token": 225,
+            "token_str": "▁het"
+        }
+    ],
+    "De heer scheert baarden .": [
+        {
+            "sequence": "<s> De heer scheert..</s>",
+            "score": 0.1148574948310852,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> De heer scheert op.</s>",
+            "score": 0.11151240766048431,
+            "token": 233,
+            "token_str": "▁op"
+        },
+        {
+            "sequence": "<s> De heer scheert in.</s>",
+            "score": 0.07077730447053909,
+            "token": 23,
+            "token_str": "▁in"
+        },
+        {
+            "sequence": "<s> De heer scheert de.</s>",
+            "score": 0.03757736086845398,
+            "token": 8,
+            "token_str": "▁de"
+        },
+        {
+            "sequence": "<s> De heer scheert en.</s>",
+            "score": 0.030555421486496925,
+            "token": 22,
+            "token_str": "▁en"
+        }
+    ],
+    "Baarden scheert de heer .": [
+        {
+            "sequence": "<s> Hoe scheert de heer.</s>",
+            "score": 0.04665304720401764,
+            "token": 15849,
+            "token_str": "▁Hoe"
+        },
+        {
+            "sequence": "<s> en scheert de heer.</s>",
+            "score": 0.044089581817388535,
+            "token": 22,
+            "token_str": "▁en"
+        },
+        {
+            "sequence": "<s> Hij scheert de heer.</s>",
+            "score": 0.03287690132856369,
+            "token": 18530,
+            "token_str": "▁Hij"
+        },
+        {
+            "sequence": "<s> hoe scheert de heer.</s>",
+            "score": 0.03017149493098259,
+            "token": 4621,
+            "token_str": "▁hoe"
+        },
+        {
+            "sequence": "<s> En scheert de heer.</s>",
+            "score": 0.02464461512863636,
+            "token": 357,
+            "token_str": "▁En"
+        }
+    ],
+    "Daarom scheert de heer baarden .": [
+        {
+            "sequence": "<s> Daarom scheert de heers.</s>",
+            "score": 0.08753547817468643,
+            "token": 7,
+            "token_str": "s"
+        },
+        {
+            "sequence": "<s> Daarom scheert de heer..</s>",
+            "score": 0.08501659333705902,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> Daarom scheert de heer van.</s>",
+            "score": 0.02809770219027996,
+            "token": 131,
+            "token_str": "▁van"
+        },
+        {
+            "sequence": "<s> Daarom scheert de heersen.</s>",
+            "score": 0.02436760812997818,
+            "token": 1015,
+            "token_str": "sen"
+        },
+        {
+            "sequence": "<s> Daarom scheert de heeren.</s>",
+            "score": 0.016946109011769295,
+            "token": 33,
+            "token_str": "en"
+        }
+    ],
+    "Scheert de heer baarden ?": [
+        {
+            "sequence": "<s> Scheert de heers?</s>",
+            "score": 0.1245911568403244,
+            "token": 7,
+            "token_str": "s"
+        },
+        {
+            "sequence": "<s> Scheert de heersen?</s>",
+            "score": 0.05592333525419235,
+            "token": 1015,
+            "token_str": "sen"
+        },
+        {
+            "sequence": "<s> Scheert de heeren?</s>",
+            "score": 0.05487516149878502,
+            "token": 33,
+            "token_str": "en"
+        },
+        {
+            "sequence": "<s> Scheert de heer Willem?</s>",
+            "score": 0.026521727442741394,
+            "token": 103939,
+            "token_str": "▁Willem"
+        },
+        {
+            "sequence": "<s> Scheert de heer van?</s>",
+            "score": 0.026306500658392906,
+            "token": 131,
+            "token_str": "▁van"
+        }
+    ],
+    "Omdat de heer baarden scheert .": [
+        {
+            "sequence": "<s> Omdat de heer niet scheert.</s>",
+            "score": 0.08286125212907791,
+            "token": 1348,
+            "token_str": "▁niet"
+        },
+        {
+            "sequence": "<s> Omdat de heer zich scheert.</s>",
+            "score": 0.07206006348133087,
+            "token": 7559,
+            "token_str": "▁zich"
+        },
+        {
+            "sequence": "<s> Omdat de heers scheert.</s>",
+            "score": 0.048183243721723557,
+            "token": 7,
+            "token_str": "s"
+        },
+        {
+            "sequence": "<s> Omdat de heersen scheert.</s>",
+            "score": 0.017960723489522934,
+            "token": 1015,
+            "token_str": "sen"
+        },
+        {
+            "sequence": "<s> Omdat de heeren scheert.</s>",
+            "score": 0.017672017216682434,
+            "token": 33,
+            "token_str": "en"
+        }
+    ],
+    "De mama’s drinken een kopje koffie .": [
+        {
+            "sequence": "<s> De mama’s drinken een kopje koffie.</s>",
+            "score": 0.6888145208358765,
+            "token": 25997,
+            "token_str": "▁koffie"
+        },
+        {
+            "sequence": "<s> De mama’s drinken een kopje water.</s>",
+            "score": 0.06592825055122375,
+            "token": 7401,
+            "token_str": "▁water"
+        },
+        {
+            "sequence": "<s> De mama’s drinken een kopje cola.</s>",
+            "score": 0.04730427265167236,
+            "token": 80921,
+            "token_str": "▁cola"
+        },
+        {
+            "sequence": "<s> De mama’s drinken een kopje espresso.</s>",
+            "score": 0.019709577783942223,
+            "token": 135124,
+            "token_str": "▁espresso"
+        },
+        {
+            "sequence": "<s> De mama’s drinken een kopje wijn.</s>",
+            "score": 0.01854349672794342,
+            "token": 104765,
+            "token_str": "▁wijn"
+        }
+    ],
+    "Een kopje koffie drinken de mama’s .": [
+        {
+            "sequence": "<s> Een kopje koffie drinken de mama’s.</s>",
+            "score": 0.7000721096992493,
+            "token": 25997,
+            "token_str": "▁koffie"
+        },
+        {
+            "sequence": "<s> Een kopje te drinken de mama’s.</s>",
+            "score": 0.09405234456062317,
+            "token": 120,
+            "token_str": "▁te"
+        },
+        {
+            "sequence": "<s> Een kopje water drinken de mama’s.</s>",
+            "score": 0.047150544822216034,
+            "token": 7401,
+            "token_str": "▁water"
+        },
+        {
+            "sequence": "<s> Een kopje wijn drinken de mama’s.</s>",
+            "score": 0.024861380457878113,
+            "token": 104765,
+            "token_str": "▁wijn"
+        },
+        {
+            "sequence": "<s> Een kopje cola drinken de mama’s.</s>",
+            "score": 0.010280760936439037,
+            "token": 80921,
+            "token_str": "▁cola"
+        }
+    ],
+    "Daarom drinken de mama’s een kopje koffie .": [
+        {
+            "sequence": "<s> Daarom drinken de mama’s een kopje koffie.</s>",
+            "score": 0.5033815503120422,
+            "token": 25997,
+            "token_str": "▁koffie"
+        },
+        {
+            "sequence": "<s> Daarom drinken de mama’s een kopje water.</s>",
+            "score": 0.2112767994403839,
+            "token": 7401,
+            "token_str": "▁water"
+        },
+        {
+            "sequence": "<s> Daarom drinken de mama’s een kopje cola.</s>",
+            "score": 0.07331674546003342,
+            "token": 80921,
+            "token_str": "▁cola"
+        },
+        {
+            "sequence": "<s> Daarom drinken de mama’s een kopje wijn.</s>",
+            "score": 0.015873892232775688,
+            "token": 104765,
+            "token_str": "▁wijn"
+        },
+        {
+            "sequence": "<s> Daarom drinken de mama’s een kopje espresso.</s>",
+            "score": 0.014843695797026157,
+            "token": 135124,
+            "token_str": "▁espresso"
+        }
+    ],
+    "Drinken de mama’s een kopje koffie ?": [
+        {
+            "sequence": "<s> Drinken de mama’s een kopje koffie?</s>",
+            "score": 0.8175597786903381,
+            "token": 25997,
+            "token_str": "▁koffie"
+        },
+        {
+            "sequence": "<s> Drinken de mama’s een kopje water?</s>",
+            "score": 0.08418495953083038,
+            "token": 7401,
+            "token_str": "▁water"
+        },
+        {
+            "sequence": "<s> Drinken de mama’s een kopje cola?</s>",
+            "score": 0.021261757239699364,
+            "token": 80921,
+            "token_str": "▁cola"
+        },
+        {
+            "sequence": "<s> Drinken de mama’s een kopje espresso?</s>",
+            "score": 0.00896783173084259,
+            "token": 135124,
+            "token_str": "▁espresso"
+        },
+        {
+            "sequence": "<s> Drinken de mama’s een kopje latte?</s>",
+            "score": 0.005524162203073502,
+            "token": 113732,
+            "token_str": "▁latte"
+        }
+    ],
+    "Omdat de mama’s een kopje koffie drinken .": [
+        {
+            "sequence": "<s> Omdat de mama’s een kopje koffie drinken.</s>",
+            "score": 0.5848886370658875,
+            "token": 25997,
+            "token_str": "▁koffie"
+        },
+        {
+            "sequence": "<s> Omdat de mama’s een kopje wijn drinken.</s>",
+            "score": 0.049980271607637405,
+            "token": 104765,
+            "token_str": "▁wijn"
+        },
+        {
+            "sequence": "<s> Omdat de mama’s een kopje water drinken.</s>",
+            "score": 0.04692741110920906,
+            "token": 7401,
+            "token_str": "▁water"
+        },
+        {
+            "sequence": "<s> Omdat de mama’s een kopje gaan drinken.</s>",
+            "score": 0.024730706587433815,
+            "token": 2814,
+            "token_str": "▁gaan"
+        },
+        {
+            "sequence": "<s> Omdat de mama’s een kopje gingen drinken.</s>",
+            "score": 0.020863987505435944,
+            "token": 121686,
+            "token_str": "▁gingen"
+        }
+    ],
+    "De schrijver schrijft romans .": [
+        {
+            "sequence": "<s> De schrijver schrijft:.</s>",
+            "score": 0.18926633894443512,
+            "token": 12,
+            "token_str": ":"
+        },
+        {
+            "sequence": "<s> De schrijver schrijft :.</s>",
+            "score": 0.11307388544082642,
+            "token": 152,
+            "token_str": "▁:"
+        },
+        {
+            "sequence": "<s> De schrijver schrijft..</s>",
+            "score": 0.05105356127023697,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> De schrijver schrijft over.</s>",
+            "score": 0.03627151623368263,
+            "token": 645,
+            "token_str": "▁over"
+        },
+        {
+            "sequence": "<s> De schrijver schrijft een.</s>",
+            "score": 0.02491324208676815,
+            "token": 293,
+            "token_str": "▁een"
+        }
+    ],
+    "Romans schrijft de schrijver .": [
+        {
+            "sequence": "<s> Zo schrijft de schrijver.</s>",
+            "score": 0.2954955995082855,
+            "token": 5880,
+            "token_str": "▁Zo"
+        },
+        {
+            "sequence": "<s> Dit schrijft de schrijver.</s>",
+            "score": 0.19432225823402405,
+            "token": 3011,
+            "token_str": "▁Dit"
+        },
+        {
+            "sequence": "<s> Dat schrijft de schrijver.</s>",
+            "score": 0.11968376487493515,
+            "token": 7716,
+            "token_str": "▁Dat"
+        },
+        {
+            "sequence": "<s> zo schrijft de schrijver.</s>",
+            "score": 0.10313765704631805,
+            "token": 1602,
+            "token_str": "▁zo"
+        },
+        {
+            "sequence": "<s> Hier schrijft de schrijver.</s>",
+            "score": 0.030810000374913216,
+            "token": 5389,
+            "token_str": "▁Hier"
+        }
+    ],
+    "Daarom schrijft de schrijver romans .": [
+        {
+            "sequence": "<s> Daarom schrijft de schrijver:.</s>",
+            "score": 0.42745983600616455,
+            "token": 12,
+            "token_str": ":"
+        },
+        {
+            "sequence": "<s> Daarom schrijft de schrijver :.</s>",
+            "score": 0.09681283682584763,
+            "token": 152,
+            "token_str": "▁:"
+        },
+        {
+            "sequence": "<s> Daarom schrijft de schrijver dat.</s>",
+            "score": 0.05618271976709366,
+            "token": 607,
+            "token_str": "▁dat"
+        },
+        {
+            "sequence": "<s> Daarom schrijft de schrijvers.</s>",
+            "score": 0.05243401974439621,
+            "token": 7,
+            "token_str": "s"
+        },
+        {
+            "sequence": "<s> Daarom schrijft de schrijver..</s>",
+            "score": 0.01856444962322712,
+            "token": 5,
+            "token_str": "."
+        }
+    ],
+    "Schrijft de schrijver romans ?": [
+        {
+            "sequence": "<s> Schrijft de schrijvers?</s>",
+            "score": 0.09418822824954987,
+            "token": 7,
+            "token_str": "s"
+        },
+        {
+            "sequence": "<s> Schrijft de schrijver zelf?</s>",
+            "score": 0.08934178203344345,
+            "token": 12585,
+            "token_str": "▁zelf"
+        },
+        {
+            "sequence": "<s> Schrijft de schrijver wat?</s>",
+            "score": 0.07465241104364395,
+            "token": 793,
+            "token_str": "▁wat"
+        },
+        {
+            "sequence": "<s> Schrijft de schrijver wel?</s>",
+            "score": 0.06570859253406525,
+            "token": 2950,
+            "token_str": "▁wel"
+        },
+        {
+            "sequence": "<s> Schrijft de schrijver niet?</s>",
+            "score": 0.05740329623222351,
+            "token": 1348,
+            "token_str": "▁niet"
+        }
+    ],
+    "Omdat de schrijver romans schrijft .": [
+        {
+            "sequence": "<s> Omdat de schrijver niet schrijft.</s>",
+            "score": 0.1316159963607788,
+            "token": 1348,
+            "token_str": "▁niet"
+        },
+        {
+            "sequence": "<s> Omdat de schrijver zelf schrijft.</s>",
+            "score": 0.08241882175207138,
+            "token": 12585,
+            "token_str": "▁zelf"
+        },
+        {
+            "sequence": "<s> Omdat de schrijvers schrijft.</s>",
+            "score": 0.07022653520107269,
+            "token": 7,
+            "token_str": "s"
+        },
+        {
+            "sequence": "<s> Omdat de schrijver anders schrijft.</s>",
+            "score": 0.03901961073279381,
+            "token": 13235,
+            "token_str": "▁anders"
+        },
+        {
+            "sequence": "<s> Omdat de schrijver ook schrijft.</s>",
+            "score": 0.034626610577106476,
+            "token": 1232,
+            "token_str": "▁ook"
+        }
+    ],
+    "De politicus beëindigt toespraken .": [
+        {
+            "sequence": "<s> De politicus beëindigt..</s>",
+            "score": 0.40395453572273254,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> De politicus beëindigt :.</s>",
+            "score": 0.03270747885107994,
+            "token": 152,
+            "token_str": "▁:"
+        },
+        {
+            "sequence": "<s> De politicus beëindigt,.</s>",
+            "score": 0.03183544799685478,
+            "token": 4,
+            "token_str": ","
+        },
+        {
+            "sequence": "<s> De politicus beëindigt:.</s>",
+            "score": 0.026196518912911415,
+            "token": 12,
+            "token_str": ":"
+        },
+        {
+            "sequence": "<s> De politicus beëindigt!.</s>",
+            "score": 0.017780780792236328,
+            "token": 38,
+            "token_str": "!"
+        }
+    ],
+    "Toespraken beëindigt de politicus .": [
+        {
+            "sequence": "<s> De beëindigt de politicus.</s>",
+            "score": 0.05966661870479584,
+            "token": 262,
+            "token_str": "▁De"
+        },
+        {
+            "sequence": "<s> Se beëindigt de politicus.</s>",
+            "score": 0.05673807114362717,
+            "token": 503,
+            "token_str": "▁Se"
+        },
+        {
+            "sequence": "<s> se beëindigt de politicus.</s>",
+            "score": 0.04636553302407265,
+            "token": 40,
+            "token_str": "▁se"
+        },
+        {
+            "sequence": "<s></s> beëindigt de politicus.</s>",
+            "score": 0.03680148720741272,
+            "token": 2,
+            "token_str": "</s>"
+        },
+        {
+            "sequence": "<s> - beëindigt de politicus.</s>",
+            "score": 0.030329296365380287,
+            "token": 20,
+            "token_str": "▁-"
+        }
+    ],
+    "Daarom beëindigt de politicus toespraken .": [
+        {
+            "sequence": "<s> Daarom beëindigt de politicus:.</s>",
+            "score": 0.18370646238327026,
+            "token": 12,
+            "token_str": ":"
+        },
+        {
+            "sequence": "<s> Daarom beëindigt de politicus :.</s>",
+            "score": 0.10546115040779114,
+            "token": 152,
+            "token_str": "▁:"
+        },
+        {
+            "sequence": "<s> Daarom beëindigt de politicus..</s>",
+            "score": 0.06778968125581741,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> Daarom beëindigt de politicus de.</s>",
+            "score": 0.038514312356710434,
+            "token": 8,
+            "token_str": "▁de"
+        },
+        {
+            "sequence": "<s> Daarom beëindigt de politicus het.</s>",
+            "score": 0.02404213510453701,
+            "token": 225,
+            "token_str": "▁het"
+        }
+    ],
+    "Beëindigt de politicus toespraken ?": [
+        {
+            "sequence": "<s> Beëindigt de politicusen?</s>",
+            "score": 0.06649428606033325,
+            "token": 33,
+            "token_str": "en"
+        },
+        {
+            "sequence": "<s> Beëindigt de politicus??</s>",
+            "score": 0.03741991147398949,
+            "token": 705,
+            "token_str": "▁?"
+        },
+        {
+            "sequence": "<s> Beëindigt de politicusisme?</s>",
+            "score": 0.02964622527360916,
+            "token": 5071,
+            "token_str": "isme"
+        },
+        {
+            "sequence": "<s> Beëindigt de politicus??</s>",
+            "score": 0.02849244885146618,
+            "token": 32,
+            "token_str": "?"
+        },
+        {
+            "sequence": "<s> Beëindigt de politicus.?</s>",
+            "score": 0.023084979504346848,
+            "token": 5,
+            "token_str": "."
+        }
+    ],
+    "Omdat de politicus toespraken beëindigt .": [
+        {
+            "sequence": "<s> Omdat de politicus zich beëindigt.</s>",
+            "score": 0.18421265482902527,
+            "token": 7559,
+            "token_str": "▁zich"
+        },
+        {
+            "sequence": "<s> Omdat de politicus het beëindigt.</s>",
+            "score": 0.09963718801736832,
+            "token": 225,
+            "token_str": "▁het"
+        },
+        {
+            "sequence": "<s> Omdat de politicus niet beëindigt.</s>",
+            "score": 0.062265314161777496,
+            "token": 1348,
+            "token_str": "▁niet"
+        },
+        {
+            "sequence": "<s> Omdat de politicus zichzelf beëindigt.</s>",
+            "score": 0.05736062303185463,
+            "token": 124365,
+            "token_str": "▁zichzelf"
+        },
+        {
+            "sequence": "<s> Omdat de politicus me beëindigt.</s>",
+            "score": 0.036686647683382034,
+            "token": 163,
+            "token_str": "▁me"
+        }
+    ],
+    "De parlementsleden krijgen een basissalaris .": [
+        {
+            "sequence": "<s> De parlementsleden krijgen een nieuwe.</s>",
+            "score": 0.11558245122432709,
+            "token": 9800,
+            "token_str": "▁nieuwe"
+        },
+        {
+            "sequence": "<s> De parlementsleden krijgen een tweede.</s>",
+            "score": 0.025357861071825027,
+            "token": 36688,
+            "token_str": "▁tweede"
+        },
+        {
+            "sequence": "<s> De parlementsleden krijgen een eerste.</s>",
+            "score": 0.017857486382126808,
+            "token": 8155,
+            "token_str": "▁eerste"
+        },
+        {
+            "sequence": "<s> De parlementsleden krijgen een nieuw.</s>",
+            "score": 0.01465401891618967,
+            "token": 42578,
+            "token_str": "▁nieuw"
+        },
+        {
+            "sequence": "<s> De parlementsleden krijgen een gratis.</s>",
+            "score": 0.012269326485693455,
+            "token": 1798,
+            "token_str": "▁gratis"
+        }
+    ],
+    "Een basissalaris krijgen de parlementsleden .": [
+        {
+            "sequence": "<s> Een stem krijgen de parlementsleden.</s>",
+            "score": 0.05079394951462746,
+            "token": 36418,
+            "token_str": "▁stem"
+        },
+        {
+            "sequence": "<s> Een reactie krijgen de parlementsleden.</s>",
+            "score": 0.03942669555544853,
+            "token": 61639,
+            "token_str": "▁reactie"
+        },
+        {
+            "sequence": "<s> Een akkoord krijgen de parlementsleden.</s>",
+            "score": 0.036729540675878525,
+            "token": 220611,
+            "token_str": "▁akkoord"
+        },
+        {
+            "sequence": "<s> Een bezoek krijgen de parlementsleden.</s>",
+            "score": 0.03168060630559921,
+            "token": 69907,
+            "token_str": "▁bezoek"
+        },
+        {
+            "sequence": "<s> Een verklaring krijgen de parlementsleden.</s>",
+            "score": 0.022349603474140167,
+            "token": 189002,
+            "token_str": "▁verklaring"
+        }
+    ],
+    "Daarom krijgen de parlementsleden een basissalaris .": [
+        {
+            "sequence": "<s> Daarom krijgen de parlementsleden een nieuwe.</s>",
+            "score": 0.08148521184921265,
+            "token": 9800,
+            "token_str": "▁nieuwe"
+        },
+        {
+            "sequence": "<s> Daarom krijgen de parlementsleden een tweede.</s>",
+            "score": 0.014597182162106037,
+            "token": 36688,
+            "token_str": "▁tweede"
+        },
+        {
+            "sequence": "<s> Daarom krijgen de parlementsleden een aantal.</s>",
+            "score": 0.014351315796375275,
+            "token": 19947,
+            "token_str": "▁aantal"
+        },
+        {
+            "sequence": "<s> Daarom krijgen de parlementsleden een gratis.</s>",
+            "score": 0.013032871298491955,
+            "token": 1798,
+            "token_str": "▁gratis"
+        },
+        {
+            "sequence": "<s> Daarom krijgen de parlementsleden een extra.</s>",
+            "score": 0.012620332650840282,
+            "token": 4173,
+            "token_str": "▁extra"
+        }
+    ],
+    "Krijgen de parlementsleden een basissalaris ?": [
+        {
+            "sequence": "<s> Krijgen de parlementsleden een meerderheid?</s>",
+            "score": 0.21615161001682281,
+            "token": 220049,
+            "token_str": "▁meerderheid"
+        },
+        {
+            "sequence": "<s> Krijgen de parlementsleden een stem?</s>",
+            "score": 0.09025710821151733,
+            "token": 36418,
+            "token_str": "▁stem"
+        },
+        {
+            "sequence": "<s> Krijgen de parlementsleden een akkoord?</s>",
+            "score": 0.041465144604444504,
+            "token": 220611,
+            "token_str": "▁akkoord"
+        },
+        {
+            "sequence": "<s> Krijgen de parlementsleden een baan?</s>",
+            "score": 0.027053309604525566,
+            "token": 89789,
+            "token_str": "▁baan"
+        },
+        {
+            "sequence": "<s> Krijgen de parlementsleden een antwoord?</s>",
+            "score": 0.024131663143634796,
+            "token": 43850,
+            "token_str": "▁antwoord"
+        }
+    ],
+    "Omdat de parlementsleden een basissalaris krijgen .": [
+        {
+            "sequence": "<s> Omdat de parlementsleden een stem krijgen.</s>",
+            "score": 0.10890690982341766,
+            "token": 36418,
+            "token_str": "▁stem"
+        },
+        {
+            "sequence": "<s> Omdat de parlementsleden een baan krijgen.</s>",
+            "score": 0.06274380534887314,
+            "token": 89789,
+            "token_str": "▁baan"
+        },
+        {
+            "sequence": "<s> Omdat de parlementsleden een meerderheid krijgen.</s>",
+            "score": 0.04438793659210205,
+            "token": 220049,
+            "token_str": "▁meerderheid"
+        },
+        {
+            "sequence": "<s> Omdat de parlementsleden een functie krijgen.</s>",
+            "score": 0.02345835231244564,
+            "token": 44146,
+            "token_str": "▁functie"
+        },
+        {
+            "sequence": "<s> Omdat de parlementsleden een kans krijgen.</s>",
+            "score": 0.01790229044854641,
+            "token": 57478,
+            "token_str": "▁kans"
+        }
+    ],
+    "De boer bouwt hekken .": [
+        {
+            "sequence": "<s> De boer bouwt op.</s>",
+            "score": 0.1800169199705124,
+            "token": 233,
+            "token_str": "▁op"
+        },
+        {
+            "sequence": "<s> De boer bouwt..</s>",
+            "score": 0.11612439900636673,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> De boer bouwt af.</s>",
+            "score": 0.10194796323776245,
+            "token": 261,
+            "token_str": "▁af"
+        },
+        {
+            "sequence": "<s> De boer bouwt om.</s>",
+            "score": 0.04002465307712555,
+            "token": 171,
+            "token_str": "▁om"
+        },
+        {
+            "sequence": "<s> De boer bouwt aan.</s>",
+            "score": 0.02362965978682041,
+            "token": 664,
+            "token_str": "▁aan"
+        }
+    ],
+    "Hekken bouwt de boer .": [
+        {
+            "sequence": "<s> Dan bouwt de boer.</s>",
+            "score": 0.2290380448102951,
+            "token": 2290,
+            "token_str": "▁Dan"
+        },
+        {
+            "sequence": "<s> Zo bouwt de boer.</s>",
+            "score": 0.08931803703308105,
+            "token": 5880,
+            "token_str": "▁Zo"
+        },
+        {
+            "sequence": "<s> dan bouwt de boer.</s>",
+            "score": 0.053045500069856644,
+            "token": 123,
+            "token_str": "▁dan"
+        },
+        {
+            "sequence": "<s> En bouwt de boer.</s>",
+            "score": 0.04895699396729469,
+            "token": 357,
+            "token_str": "▁En"
+        },
+        {
+            "sequence": "<s> Daar bouwt de boer.</s>",
+            "score": 0.048548221588134766,
+            "token": 13981,
+            "token_str": "▁Daar"
+        }
+    ],
+    "Daarom bouwt de boer hekken .": [
+        {
+            "sequence": "<s> Daarom bouwt de boerhuis.</s>",
+            "score": 0.038555193692445755,
+            "token": 25660,
+            "token_str": "huis"
+        },
+        {
+            "sequence": "<s> Daarom bouwt de boer op.</s>",
+            "score": 0.03699890151619911,
+            "token": 233,
+            "token_str": "▁op"
+        },
+        {
+            "sequence": "<s> Daarom bouwt de boer..</s>",
+            "score": 0.035994190722703934,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> Daarom bouwt de boerland.</s>",
+            "score": 0.026288948953151703,
+            "token": 1760,
+            "token_str": "land"
+        },
+        {
+            "sequence": "<s> Daarom bouwt de boer een.</s>",
+            "score": 0.02509504184126854,
+            "token": 293,
+            "token_str": "▁een"
+        }
+    ],
+    "Bouwt de boer hekken ?": [
+        {
+            "sequence": "<s> Bouwt de boer??</s>",
+            "score": 0.016498900949954987,
+            "token": 705,
+            "token_str": "▁?"
+        },
+        {
+            "sequence": "<s> Bouwt de boer??</s>",
+            "score": 0.01460935641080141,
+            "token": 32,
+            "token_str": "?"
+        },
+        {
+            "sequence": "<s> Bouwt de boer.?</s>",
+            "score": 0.01341745164245367,
+            "token": 5,
+            "token_str": "."
+        },
+        {
+            "sequence": "<s> Bouwt de boer ke?</s>",
+            "score": 0.013104686513543129,
+            "token": 311,
+            "token_str": "▁ke"
+        },
+        {
+            "sequence": "<s> Bouwt de boer ami?</s>",
+            "score": 0.011639732867479324,
+            "token": 5263,
+            "token_str": "▁ami"
+        }
+    ],
+    "Omdat de boer hekken bouwt .": [
+        {
+            "sequence": "<s> Omdat de boer niet bouwt.</s>",
+            "score": 0.18879824876785278,
+            "token": 1348,
+            "token_str": "▁niet"
+        },
+        {
+            "sequence": "<s> Omdat de boer zelf bouwt.</s>",
+            "score": 0.04051242768764496,
+            "token": 12585,
+            "token_str": "▁zelf"
+        },
+        {
+            "sequence": "<s> Omdat de boer niets bouwt.</s>",
+            "score": 0.031908903270959854,
+            "token": 56595,
+            "token_str": "▁niets"
+        },
+        {
+            "sequence": "<s> Omdat de boer zichzelf bouwt.</s>",
+            "score": 0.021905146539211273,
+            "token": 124365,
+            "token_str": "▁zichzelf"
+        },
+        {
+            "sequence": "<s> Omdat de boer het bouwt.</s>",
+            "score": 0.021125202998518944,
+            "token": 225,
+            "token_str": "▁het"
+        }
+    ],
+    "De sportvrouwen winnen een toer .": [
+        {
+            "sequence": "<s> De sportvrouwen winnen een prijs.</s>",
+            "score": 0.2970395088195801,
+            "token": 34541,
+            "token_str": "▁prijs"
+        },
+        {
+            "sequence": "<s> De sportvrouwen winnen een wedstrijd.</s>",
+            "score": 0.09428591281175613,
+            "token": 78336,
+            "token_str": "▁wedstrijd"
+        },
+        {
+            "sequence": "<s> De sportvrouwen winnen een mooie.</s>",
+            "score": 0.02412749081850052,
+            "token": 26139,
+            "token_str": "▁mooie"
+        },
+        {
+            "sequence": "<s> De sportvrouwen winnen een tweede.</s>",
+            "score": 0.021216625347733498,
+            "token": 36688,
+            "token_str": "▁tweede"
+        },
+        {
+            "sequence": "<s> De sportvrouwen winnen een finale.</s>",
+            "score": 0.020034005865454674,
+            "token": 22688,
+            "token_str": "▁finale"
+        }
+    ],
+    "Een toer winnen de sportvrouwen .": [
+        {
+            "sequence": "<s> Een wedstrijd winnen de sportvrouwen.</s>",
+            "score": 0.24854068458080292,
+            "token": 78336,
+            "token_str": "▁wedstrijd"
+        },
+        {
+            "sequence": "<s> Een prijs winnen de sportvrouwen.</s>",
+            "score": 0.11775350570678711,
+            "token": 34541,
+            "token_str": "▁prijs"
+        },
+        {
+            "sequence": "<s> Een keer winnen de sportvrouwen.</s>",
+            "score": 0.0651540607213974,
+            "token": 11365,
+            "token_str": "▁keer"
+        },
+        {
+            "sequence": "<s> Eenvoudig winnen de sportvrouwen.</s>",
+            "score": 0.034174494445323944,
+            "token": 203693,
+            "token_str": "voudig"
+        },
+        {
+            "sequence": "<s> Een podium winnen de sportvrouwen.</s>",
+            "score": 0.030659420415759087,
+            "token": 137061,
+            "token_str": "▁podium"
+        }
+    ],
+    "Daarom winnen de sportvrouwen een toer .": [
+        {
+            "sequence": "<s> Daarom winnen de sportvrouwen een prijs.</s>",
+            "score": 0.18606621026992798,
+            "token": 34541,
+            "token_str": "▁prijs"
+        },
+        {
+            "sequence": "<s> Daarom winnen de sportvrouwen een mooie.</s>",
+            "score": 0.031794797629117966,
+            "token": 26139,
+            "token_str": "▁mooie"
+        },
+        {
+            "sequence": "<s> Daarom winnen de sportvrouwen een wedstrijd.</s>",
+            "score": 0.02863667905330658,
+            "token": 78336,
+            "token_str": "▁wedstrijd"
+        },
+        {
+            "sequence": "<s> Daarom winnen de sportvrouwen een extra.</s>",
+            "score": 0.02371620200574398,
+            "token": 4173,
+            "token_str": "▁extra"
+        },
+        {
+            "sequence": "<s> Daarom winnen de sportvrouwen een speciale.</s>",
+            "score": 0.022924182936549187,
+            "token": 27110,
+            "token_str": "▁speciale"
+        }
+    ],
+    "Winnen de sportvrouwen een toer ?": [
+        {
+            "sequence": "<s> Winnen de sportvrouwen een podium?</s>",
+            "score": 0.187702938914299,
+            "token": 137061,
+            "token_str": "▁podium"
+        },
+        {
+            "sequence": "<s> Winnen de sportvrouwen een wedstrijd?</s>",
+            "score": 0.07310564815998077,
+            "token": 78336,
+            "token_str": "▁wedstrijd"
+        },
+        {
+            "sequence": "<s> Winnen de sportvrouwen een titel?</s>",
+            "score": 0.05619313195347786,
+            "token": 55118,
+            "token_str": "▁titel"
+        },
+        {
+            "sequence": "<s> Winnen de sportvrouwen een prijs?</s>",
+            "score": 0.054395727813243866,
+            "token": 34541,
+            "token_str": "▁prijs"
+        },
+        {
+            "sequence": "<s> Winnen de sportvrouwen een plaats?</s>",
+            "score": 0.03164473921060562,
+            "token": 19891,
+            "token_str": "▁plaats"
+        }
+    ],
+    "Omdat de sportvrouwen een toer winnen .": [
+        {
+            "sequence": "<s> Omdat de sportvrouwen een wedstrijd winnen.</s>",
+            "score": 0.38435098528862,
+            "token": 78336,
+            "token_str": "▁wedstrijd"
+        },
+        {
+            "sequence": "<s> Omdat de sportvrouwen een prijs winnen.</s>",
+            "score": 0.25598999857902527,
+            "token": 34541,
+            "token_str": "▁prijs"
+        },
+        {
+            "sequence": "<s> Omdat de sportvrouwen een match winnen.</s>",
+            "score": 0.02051098830997944,
+            "token": 14858,
+            "token_str": "▁match"
+        },
+        {
+            "sequence": "<s> Omdat de sportvrouwen een bal winnen.</s>",
+            "score": 0.019092252478003502,
+            "token": 3424,
+            "token_str": "▁bal"
+        },
+        {
+            "sequence": "<s> Omdat de sportvrouwen een podium winnen.</s>",
+            "score": 0.0158121008425951,
+            "token": 137061,
+            "token_str": "▁podium"
+        }
+    ],
+    "De ambachtsmannen nemen een constructie .": [
+        {
+            "sequence": "<s> De ambachtsmannen nemen een foto.</s>",
+            "score": 0.12279490381479263,
+            "token": 2011,
+            "token_str": "▁foto"
+        },
+        {
+            "sequence": "<s> De ambachtsmannen nemen een besluit.</s>",
+            "score": 0.0894884243607521,
+            "token": 46079,
+            "token_str": "▁besluit"
+        },
+        {
+            "sequence": "<s> De ambachtsmannen nemen een beslissing.</s>",
+            "score": 0.06381728500127792,
+            "token": 210643,
+            "token_str": "▁beslissing"
+        },
+        {
+            "sequence": "<s> De ambachtsmannen nemen een selfie.</s>",
+            "score": 0.04538998752832413,
+            "token": 98025,
+            "token_str": "▁selfie"
+        },
+        {
+            "sequence": "<s> De ambachtsmannen nemen een verklaring.</s>",
+            "score": 0.030891116708517075,
+            "token": 189002,
+            "token_str": "▁verklaring"
+        }
+    ],
+    "Een constructie nemen de ambachtsmannen .": [
+        {
+            "sequence": "<s> Een foto nemen de ambachtsmannen.</s>",
+            "score": 0.599494218826294,
+            "token": 2011,
+            "token_str": "▁foto"
+        },
+        {
+            "sequence": "<s> Een portret nemen de ambachtsmannen.</s>",
+            "score": 0.042733557522296906,
+            "token": 77070,
+            "token_str": "▁portret"
+        },
+        {
+            "sequence": "<s> Een deel nemen de ambachtsmannen.</s>",
+            "score": 0.03486986458301544,
+            "token": 15222,
+            "token_str": "▁deel"
+        },
+        {
+            "sequence": "<s> Een voorbeeld nemen de ambachtsmannen.</s>",
+            "score": 0.024811947718262672,
+            "token": 71477,
+            "token_str": "▁voorbeeld"
+        },
+        {
+            "sequence": "<s> Een selfie nemen de ambachtsmannen.</s>",
+            "score": 0.016864152625203133,
+            "token": 98025,
+            "token_str": "▁selfie"
+        }
+    ],
+    "Daarom nemen de ambachtsmannen een constructie .": [
+        {
+            "sequence": "<s> Daarom nemen de ambachtsmannen een besluit.</s>",
+            "score": 0.19864477217197418,
+            "token": 46079,
+            "token_str": "▁besluit"
+        },
+        {
+            "sequence": "<s> Daarom nemen de ambachtsmannen een beslissing.</s>",
+            "score": 0.14294861257076263,
+            "token": 210643,
+            "token_str": "▁beslissing"
+        },
+        {
+            "sequence": "<s> Daarom nemen de ambachtsmannen een initiatief.</s>",
+            "score": 0.035096071660518646,
+            "token": 207443,
+            "token_str": "▁initiatief"
+        },
+        {
+            "sequence": "<s> Daarom nemen de ambachtsmannen een verklaring.</s>",
+            "score": 0.02851973846554756,
+            "token": 189002,
+            "token_str": "▁verklaring"
+        },
+        {
+            "sequence": "<s> Daarom nemen de ambachtsmannen een risico.</s>",
+            "score": 0.0192010048776865,
+            "token": 117416,
+            "token_str": "▁risico"
+        }
+    ],
+    "Nemen de ambachtsmannen een constructie ?": [
+        {
+            "sequence": "<s> Nemen de ambachtsmannen een wapen?</s>",
+            "score": 0.02909594029188156,
+            "token": 139791,
+            "token_str": "▁wapen"
+        },
+        {
+            "sequence": "<s> Nemen de ambachtsmannen een straf?</s>",
+            "score": 0.02336212806403637,
+            "token": 85336,
+            "token_str": "▁straf"
+        },
+        {
+            "sequence": "<s> Nemen de ambachtsmannen een huis?</s>",
+            "score": 0.0197635218501091,
+            "token": 10880,
+            "token_str": "▁huis"
+        },
+        {
+            "sequence": "<s> Nemen de ambachtsmannen een kans?</s>",
+            "score": 0.019015604630112648,
+            "token": 57478,
+            "token_str": "▁kans"
+        },
+        {
+            "sequence": "<s> Nemen de ambachtsmannen een kind?</s>",
+            "score": 0.01890552043914795,
+            "token": 8562,
+            "token_str": "▁kind"
+        }
+    ],
+    "Omdat de ambachtsmannen een constructie nemen .": [
+        {
+            "sequence": "<s> Omdat de ambachtsmannen een beslissing nemen.</s>",
+            "score": 0.23968178033828735,
+            "token": 210643,
+            "token_str": "▁beslissing"
+        },
+        {
+            "sequence": "<s> Omdat de ambachtsmannen een besluit nemen.</s>",
+            "score": 0.14734911918640137,
+            "token": 46079,
+            "token_str": "▁besluit"
+        },
+        {
+            "sequence": "<s> Omdat de ambachtsmannen een risico nemen.</s>",
+            "score": 0.040576037019491196,
+            "token": 117416,
+            "token_str": "▁risico"
+        },
+        {
+            "sequence": "<s> Omdat de ambachtsmannen een foto nemen.</s>",
+            "score": 0.029984019696712494,
+            "token": 2011,
+            "token_str": "▁foto"
+        },
+        {
+            "sequence": "<s> Omdat de ambachtsmannen een deel nemen.</s>",
+            "score": 0.02410414256155491,
+            "token": 15222,
+            "token_str": "▁deel"
+        }
+    ]
+}

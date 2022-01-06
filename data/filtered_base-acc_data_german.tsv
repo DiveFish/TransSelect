@@ -1,0 +1,75 @@
+VF[S]LK[V]MF[O]	base-acc	2	5	Der General startet einen Angriff .
+VF[O]LK[V]MF[S]	base-acc	5	2	Einen Angriff startet der General .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb startet der General einen Angriff .
+LK[V]MF[SO]	base-acc	3	5	Startet der General einen Angriff ?
+MF[SO]VC[V]	base-acc	3	5	Weil der General einen Angriff startet .
+VF[S]LK[V]MF[O]	base-acc	2	5	Die Partner leben ein Doppelleben .
+VF[O]LK[V]MF[S]	base-acc	5	2	Ein Doppelleben leben die Partner .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb leben die Partner ein Doppelleben .
+LK[V]MF[SO]	base-acc	3	5	Leben die Partner ein Doppelleben ?
+MF[SO]VC[V]	base-acc	3	5	Weil die Partner ein Doppelleben leben .
+VF[S]LK[V]MF[O]	base-acc	2	5	Der Journalist übertextet eine Aufnahme .
+VF[O]LK[V]MF[S]	base-acc	5	2	Eine Aufnahme übertextet der Journalist .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb übertextet der Journalist eine Aufnahme .
+LK[V]MF[SO]	base-acc	3	5	Übertextet der Journalist eine Aufnahme ?
+MF[SO]VC[V]	base-acc	3	5	Weil der Journalist eine Aufnahme übertextet .
+VF[S]LK[V]MF[O]	base-acc	2	5	Die Freundinnen spielen eine Traumhochzeit .
+VF[O]LK[V]MF[S]	base-acc	5	2	Eine Traumhochzeit spielen die Freundinnen .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb spielen die Freundinnen eine Traumhochzeit .
+LK[V]MF[SO]	base-acc	3	5	Spielen die Freundinnen eine Traumhochzeit ?
+MF[SO]VC[V]	base-acc	3	5	Weil die Freundinnen eine Traumhochzeit spielen .
+VF[S]LK[V]MF[O]	base-acc	2	5	Der Passant bewirft ein Kunstwerk .
+VF[O]LK[V]MF[S]	base-acc	5	2	Ein Kunstwerk bewirft der Passant .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb bewirft der Passant ein Kunstwerk .
+LK[V]MF[SO]	base-acc	3	5	Bewirft der Passant ein Kunstwerk ?
+MF[SO]VC[V]	base-acc	3	5	Weil der Passant ein Kunstwerk bewirft .
+VF[S]LK[V]MF[O]	base-acc	2	5	Die Kinder finden eine Lösung .
+VF[O]LK[V]MF[S]	base-acc	5	2	Eine Lösung finden die Kinder .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb finden die Kinder eine Lösung .
+LK[V]MF[SO]	base-acc	3	5	Finden die Kinder eine Lösung ?
+MF[SO]VC[V]	base-acc	3	5	Weil die Kinder eine Lösung finden .
+VF[S]LK[V]MF[O]	base-acc	2	5	Der Leser abonniert eine Zeitschrift .
+VF[O]LK[V]MF[S]	base-acc	5	2	Eine Zeitschrift abonniert der Leser .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb abonniert der Leser eine Zeitschrift .
+LK[V]MF[SO]	base-acc	3	5	Abonniert der Leser eine Zeitschrift ?
+MF[SO]VC[V]	base-acc	3	5	Weil der Leser eine Zeitschrift abonniert .
+VF[S]LK[V]MF[O]	base-acc	2	5	Der Herr rasiert einen Bart .
+VF[O]LK[V]MF[S]	base-acc	5	2	Einen Bart rasiert der Herr .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb rasiert der Herr einen Bart .
+LK[V]MF[SO]	base-acc	3	5	Rasiert der Herr einen Bart ?
+MF[SO]VC[V]	base-acc	3	5	Weil der Herr einen Bart rasiert .
+VF[S]LK[V]MF[O]	base-acc	2	5	Die Mamas trinken einen Kaffee .
+VF[O]LK[V]MF[S]	base-acc	5	2	Einen Kaffee trinken die Mamas .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb trinken die Mamas einen Kaffee .
+LK[V]MF[SO]	base-acc	3	5	Trinken die Mamas einen Kaffee ?
+MF[SO]VC[V]	base-acc	3	5	Weil die Mamas einen Kaffee trinken .
+VF[S]LK[V]MF[O]	base-acc	2	5	Der Schriftsteller schreibt einen Roman .
+VF[O]LK[V]MF[S]	base-acc	5	2	Einen Roman schreibt der Schriftsteller .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb schreibt der Schriftsteller einen Roman .
+LK[V]MF[SO]	base-acc	3	5	Schreibt der Schriftsteller einen Roman ?
+MF[SO]VC[V]	base-acc	3	5	Weil der Schriftsteller einen Roman schreibt .
+VF[S]LK[V]MF[O]	base-acc	2	5	Der Politiker beendet eine Rede .
+VF[O]LK[V]MF[S]	base-acc	5	2	Eine Rede beendet der Politiker .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb beendet der Politiker eine Rede .
+LK[V]MF[SO]	base-acc	3	5	Beendet der Politiker eine Rede ?
+MF[SO]VC[V]	base-acc	3	5	Weil der Politiker eine Rede beendet .
+VF[S]LK[V]MF[O]	base-acc	2	5	Die Abgeordneten bekommen ein Grundgehalt .
+VF[O]LK[V]MF[S]	base-acc	5	2	Ein Grundgehalt bekommen die Abgeordneten .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb bekommen die Abgeordneten ein Grundgehalt .
+LK[V]MF[SO]	base-acc	3	5	Bekommen die Abgeordneten ein Grundgehalt ?
+MF[SO]VC[V]	base-acc	3	5	Weil die Abgeordneten ein Grundgehalt bekommen .
+VF[S]LK[V]MF[O]	base-acc	2	5	Der Kleinbauer zieht einen Bauzaun .
+VF[O]LK[V]MF[S]	base-acc	5	2	Einen Bauzaun zieht der Kleinbauer .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb zieht der Kleinbauer einen Bauzaun .
+LK[V]MF[SO]	base-acc	3	5	Zieht der Kleinbauer einen Bauzaun ?
+MF[SO]VC[V]	base-acc	3	5	Weil der Kleinbauer einen Bauzaun zieht .
+VF[S]LK[V]MF[O]	base-acc	2	5	Die Sportlerinnen gewinnen eine Tour .
+VF[O]LK[V]MF[S]	base-acc	5	2	Eine Tour gewinnen die Sportlerinnen .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb gewinnen die Sportlerinnen eine Tour .
+LK[V]MF[SO]	base-acc	3	5	Gewinnen die Sportlerinnen eine Tour ?
+MF[SO]VC[V]	base-acc	3	5	Weil die Sportlerinnen eine Tour gewinnen .
+VF[S]LK[V]MF[O]	base-acc	2	5	Der Handwerker übernimmt eine Bauausführung .
+VF[O]LK[V]MF[S]	base-acc	5	2	Eine Bauausführung übernimmt der Handwerker .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Deshalb übernimmt der Handwerker eine Bauausführung .
+LK[V]MF[SO]	base-acc	3	5	Übernimmt der Handwerker eine Bauausführung ?
+MF[SO]VC[V]	base-acc	3	5	Weil der Handwerker eine Bauausführung übernimmt .

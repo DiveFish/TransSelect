@@ -1,0 +1,75 @@
+VF[S]LK[V]MF[O]	base-acc	2	4	De generaal begint aanvallen .
+VF[O]LK[V]MF[S]	base-acc	4	1	Aanvallen begint de generaal .
+VF[ADV]LK[V]MF[SO]	base-acc	4	5	Daarom begint de generaal aanvallen .
+LK[V]MF[SO]	base-acc	3	4	Begint de generaal aanvallen ?
+MF[SO]VC[V]	base-acc	3	4	Omdat de generaal aanvallen begint .
+VF[S]LK[V]MF[O]	base-acc	2	5	De partners leven een dubbelleven .
+VF[O]LK[V]MF[S]	base-acc	5	2	Een dubbelleven leven de partners .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Daarom leven de partners een dubbelleven .
+LK[V]MF[SO]	base-acc	3	5	Leven de partners een dubbelleven ?
+MF[SO]VC[V]	base-acc	3	5	Omdat de partners een dubbelleven leven .
+VF[S]LK[V]MF[O]	base-acc	2	4	De journalist synchroniseert opnames .
+VF[O]LK[V]MF[S]	base-acc	4	1	Opnames synchroniseert de journalist .
+VF[ADV]LK[V]MF[SO]	base-acc	4	5	Daarom synchroniseert de journalist opnames .
+LK[V]MF[SO]	base-acc	3	4	Synchroniseert de journalist opnames ?
+MF[SO]VC[V]	base-acc	3	4	Omdat de journalist opnames synchroniseert .
+VF[S]LK[V]MF[O]	base-acc	2	5	De vriendinnen spelen een droombruiloft .
+VF[O]LK[V]MF[S]	base-acc	5	2	Een droombruiloft spelen de vriendinnen .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Daarom spelen de vriendinnen een droombruiloft .
+LK[V]MF[SO]	base-acc	3	5	Spelen de vriendinnen een droombruiloft ?
+MF[SO]VC[V]	base-acc	3	5	Omdat de vriendinnen een droombruiloft spelen .
+VF[S]LK[V]MF[O]	base-acc	2	4	De voorbijganger bekogelt kunstwerken .
+VF[O]LK[V]MF[S]	base-acc	4	1	Kunstwerken bekogelt de voorbijganger .
+VF[ADV]LK[V]MF[SO]	base-acc	4	5	Daarom bekogelt de voorbijganger kunstwerken .
+LK[V]MF[SO]	base-acc	3	4	Bekogelt de voorbijganger kunstwerken ?
+MF[SO]VC[V]	base-acc	3	4	Omdat de voorbijganger kunstwerken bekogelt .
+VF[S]LK[V]MF[O]	base-acc	2	5	De kinderen vinden een oplossing .
+VF[O]LK[V]MF[S]	base-acc	5	2	Een oplossing vinden de kinderen .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Daarom vinden de kinderen een oplossing .
+LK[V]MF[SO]	base-acc	3	5	Vinden de kinderen een oplossing ?
+MF[SO]VC[V]	base-acc	3	5	Omdat de kinderen een oplossing vinden .
+VF[S]LK[V]MF[O]	base-acc	2	4	De lezer bestelt tijdschriften .
+VF[O]LK[V]MF[S]	base-acc	4	1	Tijdschriften bestelt de lezer .
+VF[ADV]LK[V]MF[SO]	base-acc	4	5	Daarom bestelt de lezer tijdschriften .
+LK[V]MF[SO]	base-acc	3	4	Bestelt de lezer tijdschriften ?
+MF[SO]VC[V]	base-acc	3	4	Omdat de lezer tijdschriften bestelt .
+VF[S]LK[V]MF[O]	base-acc	2	4	De heer scheert baarden .
+VF[O]LK[V]MF[S]	base-acc	4	1	Baarden scheert de heer .
+VF[ADV]LK[V]MF[SO]	base-acc	4	5	Daarom scheert de heer baarden .
+LK[V]MF[SO]	base-acc	3	4	Scheert de heer baarden ?
+MF[SO]VC[V]	base-acc	3	4	Omdat de heer baarden scheert .
+VF[S]LK[V]MF[O]	base-acc	2	6	De mama’s drinken een kopje koffie .
+VF[O]LK[V]MF[S]	base-acc	6	3	Een kopje koffie drinken de mama’s .
+VF[ADV]LK[V]MF[SO]	base-acc	4	7	Daarom drinken de mama’s een kopje koffie .
+LK[V]MF[SO]	base-acc	3	6	Drinken de mama’s een kopje koffie ?
+MF[SO]VC[V]	base-acc	3	6	Omdat de mama’s een kopje koffie drinken .
+VF[S]LK[V]MF[O]	base-acc	2	4	De schrijver schrijft romans .
+VF[O]LK[V]MF[S]	base-acc	4	1	Romans schrijft de schrijver .
+VF[ADV]LK[V]MF[SO]	base-acc	4	5	Daarom schrijft de schrijver romans .
+LK[V]MF[SO]	base-acc	3	4	Schrijft de schrijver romans ?
+MF[SO]VC[V]	base-acc	3	4	Omdat de schrijver romans schrijft .
+VF[S]LK[V]MF[O]	base-acc	2	4	De politicus beëindigt toespraken .
+VF[O]LK[V]MF[S]	base-acc	4	1	Toespraken beëindigt de politicus .
+VF[ADV]LK[V]MF[SO]	base-acc	4	5	Daarom beëindigt de politicus toespraken .
+LK[V]MF[SO]	base-acc	3	4	Beëindigt de politicus toespraken ?
+MF[SO]VC[V]	base-acc	3	4	Omdat de politicus toespraken beëindigt .
+VF[S]LK[V]MF[O]	base-acc	2	5	De parlementsleden krijgen een basissalaris .
+VF[O]LK[V]MF[S]	base-acc	5	2	Een basissalaris krijgen de parlementsleden .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Daarom krijgen de parlementsleden een basissalaris .
+LK[V]MF[SO]	base-acc	3	5	Krijgen de parlementsleden een basissalaris ?
+MF[SO]VC[V]	base-acc	3	5	Omdat de parlementsleden een basissalaris krijgen .
+VF[S]LK[V]MF[O]	base-acc	2	4	De boer bouwt hekken .
+VF[O]LK[V]MF[S]	base-acc	4	1	Hekken bouwt de boer .
+VF[ADV]LK[V]MF[SO]	base-acc	4	5	Daarom bouwt de boer hekken .
+LK[V]MF[SO]	base-acc	3	4	Bouwt de boer hekken ?
+MF[SO]VC[V]	base-acc	3	4	Omdat de boer hekken bouwt .
+VF[S]LK[V]MF[O]	base-acc	2	5	De sportvrouwen winnen een toer .
+VF[O]LK[V]MF[S]	base-acc	5	2	Een toer winnen de sportvrouwen .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Daarom winnen de sportvrouwen een toer .
+LK[V]MF[SO]	base-acc	3	5	Winnen de sportvrouwen een toer ?
+MF[SO]VC[V]	base-acc	3	5	Omdat de sportvrouwen een toer winnen .
+VF[S]LK[V]MF[O]	base-acc	2	5	De ambachtsmannen nemen een constructie .
+VF[O]LK[V]MF[S]	base-acc	5	2	Een constructie nemen de ambachtsmannen .
+VF[ADV]LK[V]MF[SO]	base-acc	4	6	Daarom nemen de ambachtsmannen een constructie .
+LK[V]MF[SO]	base-acc	3	5	Nemen de ambachtsmannen een constructie ?
+MF[SO]VC[V]	base-acc	3	5	Omdat de ambachtsmannen een constructie nemen .

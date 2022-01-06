@@ -1,0 +1,4 @@
+env/
+scribbles
+.vscode
+*/__pycache__
